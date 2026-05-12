@@ -86,6 +86,7 @@ def main():
     }
     total_results = 0
     failed_kw = 0
+    failed_kw_list = []
 
     for tier_key, tier_data in tiers.items():
         print(f"\n=== {tier_data['label']} ({len(tier_data['keywords'])} kw) ===", file=sys.stderr)
@@ -96,12 +97,14 @@ def main():
             total_results += len(results)
             if not results:
                 failed_kw += 1
+                failed_kw_list.append(kw)
             print(f"  '{kw[:40]}': {len(results)} results", file=sys.stderr)
             time.sleep(1.5)
         output["tiers"][tier_key] = tier_out
 
     output["totalResults"] = total_results
     output["failedKeywords"] = failed_kw
+    output["failedKeywordsList"] = failed_kw_list
 
     OUTPUT.write_text(json.dumps(output, ensure_ascii=False, indent=2))
     print(f"\n✅ Wrote {OUTPUT} -- {total_results} URLs total, {failed_kw}/{total_kw} keywords empty", file=sys.stderr)
