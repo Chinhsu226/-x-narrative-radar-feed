@@ -2,8 +2,8 @@ name: Refresh Narrative Radar Feed
 
 on:
   schedule:
-    # 北京时间每日 9:00 (= 01:00 UTC)。早于本地 cron 10:00 一小时
-    - cron: '0 1 * * *'
+    # 北京时间每日 07:00 (= 23:00 UTC 前一天)。早于本地 cron 11:00 四小时
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 permissions:
