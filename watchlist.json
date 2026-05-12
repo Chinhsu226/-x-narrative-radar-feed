@@ -1,0 +1,96 @@
+{
+  "description": "推特叙事雷达监测词表 v5 — 产品发布叙事 + 初创增长打法 + 商业化叙事 + 新产品发现层",
+  
+  "tier1_kimi_direct": {
+    "label": "🎯 Kimi直接相关",
+    "keywords": [
+      "Kimi K2.5",
+      "Kimi AI",
+      "Kimi Claw",
+      "Moonshot AI",
+      "月之暗面"
+    ]
+  },
+  
+  "tier2_competitive": {
+    "label": "⚔️ 竞品大厂动态",
+    "keywords": [
+      "Claude",
+      "Claude Code",
+      "Anthropic",
+      "Dario Amodei",
+      "Cursor",
+      "Michael Truell",
+      "OpenAI",
+      "ChatGPT",
+      "Sam Altman",
+      "Gemini",
+      "Sundar Pichai",
+      "DeepSeek",
+      "DeepSeek-V4",
+      "DeepSeek V4",
+      "DS-V4",
+      "梁文锋",
+      "Grok",
+      "Elon Musk xAI",
+      "Copilot",
+      "Satya Nadella",
+      "Meta AI",
+      "Mark Zuckerberg Llama"
+    ]
+  },
+
+  "tier3_narrative_field": {
+    "label": "📡 AI叙事热帖",
+    "keywords": [
+      "vibe coding",
+      "AI replace jobs",
+      "Chinese AI Silicon Valley",
+      "open source AI",
+      "AI bubble",
+      "AI agent",
+      "AI ARR revenue",
+      "AI startup funding",
+      "AI pricing",
+      "AI valuation"
+    ]
+  },
+
+  "tier4_startup_growth": {
+    "label": "🚀 初创增长打法（含具体产品名）",
+    "keywords": [
+      "Manus AI",
+      "Lovable AI",
+      "Bolt AI",
+      "Windsurf AI",
+      "Devin AI",
+      "Replit Agent",
+      "Hermes Agent",
+      "OpenClaw"
+    ]
+  },
+
+  "tier5_discovery": {
+    "label": "🔭 新产品发现层（赛道通用词，捕捉未知新产品）",
+    "keywords": [
+      "new AI agent launch",
+      "open source AI agent",
+      "personal AI agent",
+      "AI coding agent",
+      "AI agent framework",
+      "just launched AI",
+      "AI product hunt"
+    ]
+  },
+
+  "events": {
+    "label": "🚨 事件追踪（临时，用完清空）",
+    "keywords": [
+      "Claude Mythos",
+      "Project Glasswing"
+    ]
+  },
+
+  "min_views": 10000,
+  "max_results_per_keyword": 5
+}
