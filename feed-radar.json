@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T08:29:14.768565+00:00",
+  "generatedAt": "2026-05-13T00:09:05.120205+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -15,15 +15,26 @@
         ],
         "Kimi AI": [],
         "Kimi Claw": [],
-        "Moonshot AI": [],
+        "Moonshot AI": [
+          {
+            "url": "https://x.com/0G_labs/status/1892024949851717738",
+            "search_title": "x.com/0G_labs/status/1892024949851717738",
+            "search_snippet": "This Week on Onchain AI."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic AI announcement on X."
+          }
+        ],
         "月之暗面": [
           {
-            "url": "https://x.com/ANI/status/1572452009852411906",
+            "url": "https://x.com/Avengers/status/1326932877506875393",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
           },
           {
-            "url": "https://x.com/1955Toru/status/1032121675502870528",
+            "url": "https://x.com/ANI/status/1572452009852411906",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
           },
@@ -33,12 +44,12 @@
             "search_snippet": "The site owner hides the web page description."
           },
           {
-            "url": "https://x.com/ANI/status/1243778304638775297",
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
           },
           {
-            "url": "https://x.com/AOC/status/1116078690255949824",
+            "url": "https://x.com/1955Toru/status/1032121675502870528",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
           }
@@ -50,14 +61,14 @@
       "keywords": {
         "Claude": [
           {
-            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
-            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
-            "search_snippet": "Claude Pro and Max were rather amazing products for power users."
-          },
-          {
             "url": "https://x.com/AnthropicAI/status/2049927618397614466",
             "search_title": "x.com/AnthropicAI/status/2049927618397614466",
             "search_snippet": "their analysis of 1M Claude conversations."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Claude Pro and Max were rather amazing products for power users."
           },
           {
             "url": "https://x.com/AnthropicAI/status/1925591505332576377",
@@ -75,27 +86,16 @@
             "search_snippet": "Anthropic lanza Claude Max, con planes de $100 y hasta $200 al mes."
           },
           {
-            "url": "https://x.com/AnthropicAI/status/2041578392852517128",
-            "search_title": "x.com/AnthropicAI/status/2041578392852517128",
-            "search_snippet": "La noticia de la semana es Claude Mythos Preview."
+            "url": "https://x.com/AnthropicAI/status/1907474208348856438",
+            "search_title": "x.com/AnthropicAI/status/1907474208348856438",
+            "search_snippet": "Claude for Education."
           }
         ],
-        "Claude Code": [],
-        "Anthropic": [
+        "Claude Code": [
           {
             "url": "https://x.com/AnthropicAI/status/1949898502688903593",
             "search_title": "x.com/AnthropicAI/status/1949898502688903593",
-            "search_snippet": "Anthropic shared a visual announcement on social media, stating that new..."
-          },
-          {
-            "url": "https://x.com/AnthropicAI/status/1925591505332576377",
-            "search_title": "x.com/AnthropicAI/status/1925591505332576377",
-            "search_snippet": "Anthropic releases Claude Opus 4 and Claude Sonnet 4."
-          },
-          {
-            "url": "https://x.com/AnthropicAI/status/2025997928242811253",
-            "search_title": "x.com/AnthropicAI/status/2025997928242811253",
-            "search_snippet": "Anthropic caughts DeepSeek."
+            "search_snippet": "Anthropic unveils new rate limits to curb some extreme usages of Claude Code."
           },
           {
             "url": "https://x.com/AnthropicAI/status/1903128670081888756",
@@ -103,14 +103,41 @@
             "search_snippet": "Anthropic updates Claude Code with extended thinking and improved tool use."
           },
           {
+            "url": "https://x.com/AnthropicAI/status/1925591505332576377",
+            "search_title": "x.com/AnthropicAI/status/1925591505332576377",
+            "search_snippet": "Claude 4 Opus announced."
+          }
+        ],
+        "Anthropic": [
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic shared a visual announcement on social media, stating that new..."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/1886452489681023333",
+            "search_title": "x.com/AnthropicAI/status/1886452489681023333",
+            "search_snippet": "Anthropic."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/1903128670081888756",
+            "search_title": "x.com/AnthropicAI/status/1903128670081888756",
+            "search_snippet": "Anthropic updates Claude Code with extended thinking and improved tool use."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/2025997928242811253",
+            "search_title": "x.com/AnthropicAI/status/2025997928242811253",
+            "search_snippet": "Anthropic caughts DeepSeek."
+          },
+          {
             "url": "https://x.com/AnthropicAI/status/2041578392852517128",
             "search_title": "x.com/AnthropicAI/status/2041578392852517128",
             "search_snippet": "Anthropic afirmou publicamente ter desenvolvido uma tecnologia..."
           },
           {
-            "url": "https://x.com/AnthropicAI/status/1894095494969741358",
-            "search_title": "x.com/AnthropicAI/status/1894095494969741358",
-            "search_snippet": "Tweet from Anthropic (@AnthropicAI)."
+            "url": "https://x.com/AnthropicAI/status/1925591505332576377",
+            "search_title": "x.com/AnthropicAI/status/1925591505332576377",
+            "search_snippet": "Anthropic releases Claude Opus 4 and Claude Sonnet 4."
           }
         ],
         "Dario Amodei": [
@@ -151,14 +178,14 @@
             "search_snippet": "The site owner hides the web page description."
           },
           {
-            "url": "https://x.com/OpenAI/status/1916947250036756925",
-            "search_title": "Link to x.com",
-            "search_snippet": "The site owner hides the web page description."
-          },
-          {
             "url": "https://x.com/5149jamesli/status/1867755258812018939",
             "search_title": "x.com/5149jamesli/status/1867755258812018939",
             "search_snippet": "Breaking: OpenAI whistleblower, Suchir Balaji, a 26-year old..."
+          },
+          {
+            "url": "https://x.com/sama/status/1904921537884676398",
+            "search_title": "x.com/sama/status/1904921537884676398",
+            "search_snippet": "OpenAI’s CEO Sam Altman Ghibli-fied his X profile image."
           }
         ],
         "ChatGPT": [
@@ -180,9 +207,9 @@
             "search_snippet": "Sam Altman's \"dead internet theory\" tweet."
           },
           {
-            "url": "https://x.com/sama/status/1954603417252532479",
-            "search_title": "x.com/sama/status/1954603417252532479",
-            "search_snippet": "according to OpenAI CEO Sam Altman."
+            "url": "https://x.com/sama/status/1904921537884676398",
+            "search_title": "x.com/sama/status/1904921537884676398",
+            "search_snippet": "OpenAI’s CEO Sam Altman Ghibli-fied his X profile picture."
           },
           {
             "url": "https://x.com/sama/status/1884066337103962416",
@@ -190,9 +217,9 @@
             "search_snippet": "Sam Altman, CEO of OpenAI, commented on DeepSeek’s R1."
           },
           {
-            "url": "https://x.com/sama/status/1904921537884676398",
-            "search_title": "x.com/sama/status/1904921537884676398",
-            "search_snippet": "OpenAI’s CEO Sam Altman Ghibli-fied his X profile picture."
+            "url": "https://x.com/sama/status/1954603417252532479",
+            "search_title": "x.com/sama/status/1954603417252532479",
+            "search_snippet": "according to OpenAI CEO Sam Altman."
           }
         ],
         "Gemini": [],
@@ -231,14 +258,14 @@
             "search_snippet": "The site owner hides the web page description."
           },
           {
-            "url": "https://x.com/deepseek_ai/status/1894710448676884671",
-            "search_title": "Link to x.com",
-            "search_snippet": "The site owner hides the web page description."
-          },
-          {
             "url": "https://x.com/AnthropicAI/status/2025997928242811253",
             "search_title": "x.com/AnthropicAI/status/2025997928242811253",
             "search_snippet": "Anthropic caughts DeepSeek."
+          },
+          {
+            "url": "https://x.com/pmarca/status/1882719769851474108",
+            "search_title": "x.com/pmarca/status/1882719769851474108",
+            "search_snippet": "Marc Andreessen tweeted on X, “Deepseek R1 is one of the most amazing..."
           },
           {
             "url": "https://x.com/AnthropicAI/status/2049927618397614466",
@@ -256,15 +283,14 @@
             "url": "https://x.com/AnthropicAI/status/2025997928242811253",
             "search_title": "x.com/AnthropicAI/status/2025997928242811253",
             "search_snippet": "Anthropic caughts DeepSeek."
-          }
-        ],
-        "DS-V4": [
+          },
           {
-            "url": "https://x.com/AnthropicAI/status/2049927618397614466",
-            "search_title": "Link to x.com",
-            "search_snippet": "The site owner hides the web page description."
+            "url": "https://x.com/AravSrinivas/status/1891917148869755058",
+            "search_title": "x.com/AravSrinivas/status/1891917148869755058",
+            "search_snippet": "Čínský AI model DeepSeek se podařilo přetrénovat tak, aby v něm nebyla..."
           }
         ],
+        "DS-V4": [],
         "梁文锋": [],
         "Grok": [],
         "Elon Musk xAI": [
@@ -279,12 +305,17 @@
             "search_snippet": "The site owner hides the web page description."
           },
           {
+            "url": "https://x.com/elonmusk/status/1933727111485026581",
+            "search_title": "Link to x.com",
+            "search_snippet": "The site owner hides the web page description."
+          },
+          {
             "url": "https://x.com/elonmusk/status/2017707013275586794",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
           },
           {
-            "url": "https://x.com/elonmusk/status/1933727111485026581",
+            "url": "https://x.com/elonmusk/status/1860040571626340764",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
           }
@@ -302,6 +333,11 @@
             "search_snippet": "The site owner hides the web page description."
           },
           {
+            "url": "https://x.com/satyanadella/status/1814329337451344250",
+            "search_title": "Link to x.com",
+            "search_snippet": "The site owner hides the web page description."
+          },
+          {
             "url": "https://x.com/ns123abc/status/1882085592135237737",
             "search_title": "x.com/ns123abc/status/1882085592135237737",
             "search_snippet": "Satya Nadella was just asked about how funding looks for stargate, and said..."
@@ -310,20 +346,9 @@
             "url": "https://x.com/satyanadella/status/1881422295413280932",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
-          },
-          {
-            "url": "https://x.com/satyanadella/status/1814329337451344250",
-            "search_title": "Link to x.com",
-            "search_snippet": "The site owner hides the web page description."
           }
         ],
-        "Meta AI": [
-          {
-            "url": "https://x.com/AIatMeta/status/1920153975921521018",
-            "search_title": "x.com/AIatMeta/status/1920153975921521018",
-            "search_snippet": "Meta apresenta o PLM, modelo de visão que entende vídeos com precisão."
-          }
-        ],
+        "Meta AI": [],
         "Mark Zuckerberg Llama": [
           {
             "url": "https://x.com/AIatMeta/status/1865079067390956006",
@@ -336,14 +361,14 @@
             "search_snippet": "NVIDIA's Project DIGITS: Empowering Developers with Local Llama Model..."
           },
           {
-            "url": "https://x.com/ABDanielleSmith/status/1902788823555379208",
-            "search_title": "x.com/ABDanielleSmith/status/1902788823555379208",
-            "search_snippet": "...a political warning to Prime Minister Mark Carney and the rest of Canada."
-          },
-          {
             "url": "https://x.com/Ahmad_Al_Dahle/status/1908595680828154198",
             "search_title": "x.com/Ahmad_Al_Dahle/status/1908595680828154198",
             "search_snippet": "Llama 4."
+          },
+          {
+            "url": "https://x.com/ABDanielleSmith/status/1902788823555379208",
+            "search_title": "x.com/ABDanielleSmith/status/1902788823555379208",
+            "search_snippet": "...a political warning to Prime Minister Mark Carney and the rest of Canada."
           },
           {
             "url": "https://x.com/pmarca/status/1713930459779129358",
@@ -357,6 +382,11 @@
       "label": "📡 AI叙事热帖",
       "keywords": {
         "vibe coding": [
+          {
+            "url": "https://x.com/levelsio/status/1901660771505021314",
+            "search_title": "x.com/levelsio/status/1901660771505021314",
+            "search_snippet": "Vibe Coding Game Jam organized by levelsio."
+          },
           {
             "url": "https://x.com/karpathy/status/1891720635363254772",
             "search_title": "x.com/karpathy/status/1891720635363254772",
@@ -375,19 +405,24 @@
             "search_snippet": "ai ghi chú."
           },
           {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic AI announcement on X."
+          },
+          {
             "url": "https://x.com/AIatMeta/status/1865079067390956006",
             "search_title": "x.com/AIatMeta/status/1865079067390956006",
             "search_snippet": "Meta's Llama 3.3: The Lean, Mean AI Model."
           },
           {
+            "url": "https://x.com/Altimor/status/1907478141427503317",
+            "search_title": "x.com/Altimor/status/1907478141427503317",
+            "search_snippet": "Lindy AI, the platform to build AI agents and automation, has released Agents..."
+          },
+          {
             "url": "https://x.com/AravSrinivas/status/1915532930270503290",
             "search_title": "x.com/AravSrinivas/status/1915532930270503290",
             "search_snippet": "...question about how ads could play out in AI products including Perplexity."
-          },
-          {
-            "url": "https://x.com/0G_labs/status/1892024949851717738",
-            "search_title": "x.com/0G_labs/status/1892024949851717738",
-            "search_snippet": "This Week on Onchain AI."
           }
         ],
         "Chinese AI Silicon Valley": [
@@ -397,9 +432,14 @@
             "search_snippet": "Meta's Llama 3.3: The Lean, Mean AI Model."
           },
           {
-            "url": "https://x.com/0G_labs/status/1892024949851717738",
-            "search_title": "x.com/0G_labs/status/1892024949851717738",
-            "search_snippet": "This Week on Onchain AI."
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic AI announcement on X."
+          },
+          {
+            "url": "https://x.com/AIatMeta/status/1895187608969584660",
+            "search_title": "x.com/AIatMeta/status/1895187608969584660",
+            "search_snippet": "Meta Launches Aria Gen 2 Glasses for Advanced AI Research."
           }
         ],
         "open source AI": [
@@ -416,7 +456,23 @@
             "search_snippet": "Anthropic AI announcement on X."
           }
         ],
-        "AI agent": [],
+        "AI agent": [
+          {
+            "url": "https://x.com/Altimor/status/1907478141427503317",
+            "search_title": "x.com/Altimor/status/1907478141427503317",
+            "search_snippet": "Lindy AI, the platform to build AI agents and automation, has released..."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic AI announcement on X."
+          },
+          {
+            "url": "https://x.com/AravSrinivas/status/1915532930270503290",
+            "search_title": "x.com/AravSrinivas/status/1915532930270503290",
+            "search_snippet": "The podcast hosts asked me a hypothetical question about how ads could play..."
+          }
+        ],
         "AI ARR revenue": [
           {
             "url": "https://x.com/Ava_here_/status/1902433251437797605",
@@ -437,6 +493,11 @@
             "url": "https://x.com/AravSrinivas/status/1915532930270503290",
             "search_title": "x.com/AravSrinivas/status/1915532930270503290",
             "search_snippet": "...question about how ads could play out in AI products including Perplexity."
+          },
+          {
+            "url": "https://x.com/0xCapx/status/1904942692481761637",
+            "search_title": "x.com/0xCapx/status/1904942692481761637",
+            "search_snippet": "Capx AI raised $ 3.14 M in funding round."
           }
         ],
         "AI startup funding": [
@@ -446,8 +507,20 @@
             "search_snippet": "Anthropic AI announcement on X."
           }
         ],
-        "AI pricing": [],
-        "AI valuation": []
+        "AI pricing": [
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic’s Claude Max Pricing."
+          }
+        ],
+        "AI valuation": [
+          {
+            "url": "https://x.com/AIatMeta/status/1865079067390956006",
+            "search_title": "x.com/AIatMeta/status/1865079067390956006",
+            "search_snippet": "Meta's Llama 3.3: The Lean, Mean AI Model."
+          }
+        ]
       }
     },
     "tier4_startup_growth": {
@@ -458,11 +531,6 @@
             "url": "https://x.com/heyshrutimishra/status/1898447383434027023",
             "search_title": "x.com/heyshrutimishra/status/1898447383434027023",
             "search_snippet": "BREAKING: China's ‘Manus’ AI is SHOCKINGLY powerful."
-          },
-          {
-            "url": "https://x.com/0G_labs/status/1892024949851717738",
-            "search_title": "x.com/0G_labs/status/1892024949851717738",
-            "search_snippet": "This Week on Onchain AI."
           }
         ],
         "Lovable AI": [],
@@ -470,11 +538,6 @@
         "Windsurf AI": [
           {
             "url": "https://x.com/windsurf_ai/status/1898146873464197553",
-            "search_title": "Link to x.com",
-            "search_snippet": "The site owner hides the web page description."
-          },
-          {
-            "url": "https://x.com/windsurf_ai/status/1865131244574642639/video/1",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
           },
@@ -522,6 +585,11 @@
       "keywords": {
         "new AI agent launch": [
           {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic unveils new rate limits to curb some extreme usages of Claude Code."
+          },
+          {
             "url": "https://x.com/Altimor/status/1907478141427503317",
             "search_title": "x.com/Altimor/status/1907478141427503317",
             "search_snippet": "Lindy AI, the platform to build AI agents and automation, has released..."
@@ -555,41 +623,43 @@
           }
         ],
         "personal AI agent": [],
-        "AI coding agent": [],
-        "AI agent framework": [],
-        "just launched AI": [
+        "AI coding agent": [
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic unveils new rate limits to curb some extreme usages of Claude Code."
+          }
+        ],
+        "AI agent framework": [
           {
             "url": "https://x.com/AIatMeta/status/1865079067390956006",
             "search_title": "x.com/AIatMeta/status/1865079067390956006",
-            "search_snippet": "Meta launches leaner, efficient Llama 3.3."
+            "search_snippet": "Meta's Llama 3.3: The Lean, Mean AI Model."
           }
         ],
+        "just launched AI": [],
         "AI product hunt": []
       }
     }
   },
-  "totalResults": 91,
-  "failedKeywords": 20,
+  "totalResults": 105,
+  "failedKeywords": 16,
   "failedKeywordsList": [
     "Kimi AI",
     "Kimi Claw",
-    "Moonshot AI",
-    "Claude Code",
     "Gemini",
     "Sundar Pichai",
+    "DS-V4",
     "梁文锋",
     "Grok",
     "Copilot",
-    "AI agent",
-    "AI pricing",
-    "AI valuation",
+    "Meta AI",
     "Lovable AI",
     "Bolt AI",
     "Devin AI",
     "Hermes Agent",
     "personal AI agent",
-    "AI coding agent",
-    "AI agent framework",
+    "just launched AI",
     "AI product hunt"
   ]
 }
