@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T00:07:12.413843+00:00",
+  "generatedAt": "2026-08-02T00:03:36.199381+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -8,192 +8,207 @@
       "keywords": {
         "Kimi K2.5": [
           {
-            "url": "https://x.com/AestheticGamer1/status/1901499663741755853",
-            "search_title": "Link to x.com",
-            "search_snippet": "The site owner hides the web page description."
+            "url": "https://x.com/vorq_ai/status/2082102814327853062",
+            "search_title": "Moonshot released the weights for Kimi K3. At 2.8T parameters, it's the ...",
+            "search_snippet": "Moonshot released the weights for Kimi K3. At 2.8T parameters, it's the largest open-weight model ever — by a wide margin. Models are getting smarter. Inference is getting more expensive. K2.5 → K3: $0.60 → $3 per 1M input tokens 5× in one generation. The spare capacity is real. vorq is coming to unlock it."
           },
           {
-            "url": "https://x.com/ZhihuFrontier/status/2081990590741594139",
-            "search_title": "Zhihu Frontier on X: \"Kimi K3 Scales Across Length, Depth, and Width @Kimi_Moonshot AI has released Kimi K3’s full model weights, technical report, and three pieces of training infrastructure: MoonEP, FlashKDA, and AgentEnv. The release reveals how K3 scales a 2.8T-parameter MoE model to a 1M-token context window while activating only 104B parameters per token. Zhihu contributor kaiyuan breaks the architecture down along three axes: sequence length, network depth, and model width. Moonshot reports that th",
-            "search_snippet": "4 days ago - 🧩 Kimi K3’s Architecture Is Here—and KDA + AttenRes Arrive Together Zhihu contributor kaiyuan reconstructed an early Kimi K3 architecture diagram from the information currently available, using K2.5 as the baseline."
+            "url": "https://x.com/YuvrajS9886/status/2082451709226598603",
+            "search_title": "Yuvraj Singh (smolhub.com) on X: \"Everyone is talking about Kimi K3 ...",
+            "search_snippet": "Kimi K2.5 - multimodal and agentic improvements. Kimi K3 - integrates Kimi Delta Attention, Attention Residuals, Stable LatentMoE, refined training recipes, infrastructure advances, and large-scale reinforcement learning into a single frontier model."
           },
           {
-            "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-            "search_title": "Kimi.ai on X: \"Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params. Alongside Kimi K3, we're opening up more of the stack behind it — high-performance attention kernels, MoE communication library, and infrastructure for running agent environments at scale. Model weights: https://t.co/7m7eEg6Y0B T",
-            "search_snippet": "4 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
+            "url": "https://x.com/yuhasbeentaken/status/2083252795432702105",
+            "search_title": "Yum⋆₊˚ on X: \"kimi k3 did it again. on aa-briefcase, artificial ...",
+            "search_snippet": "kimi k3 did it again. on aa-briefcase, artificial analysis' agentic knowledge work benchmark: >claude fable 5: 1574 elo >kimi k3: 1543 elo >gpt-5.6: 1501 elo >claude sonnet 5 max: 1388 elo >opus 4.8: 1347 elo kimi is now second only to fable 5. it also jumped +727 elo over kimi k2.6... which is insane. and: kimi k3 costs $10.57 per task. more than opus 4.8. and it averages nearly an hour per ..."
           },
           {
-            "url": "https://x.com/MB_Hogan/status/2081781732236308766",
-            "search_title": "Mark Hogan on X: \"$NBIS : Kimi K3 now officially live on Nebius Token Factory with the K3 specs report just released by https://t.co/QQT6BoKe9f 🔥 Kimi K3 is a 2.8T MoE model (104B activated parameters — only 16 of 896 experts per token) with native vision and a full 1M-token context window. New architecture delivers an approximately 2.5× improvement in overall scaling efficiency (intelligence per unit of compute) versus Kimi K2 🔥 Independent benchmarks place it near the closed frontier (AA Intellig",
-            "search_snippet": "4 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
+            "url": "https://x.com/grok/status/2082141556736225732",
+            "search_title": "Kimi K3 is a 2.8T-param MoE (104B active) with 1M context and native ...",
+            "search_snippet": "Grok (@grok). 615 views. Kimi K3 is a 2.8T-param MoE (104B active) with 1M context and native vision. Built on Kimi Delta Attention, Attention Residuals and Stable LatentMoE (16 of 896 experts). Delivers ~2.5× scaling efficiency over K2. Post-training uses RL on 9 domain/effort specialists then multi-teacher on-policy distillation. Hits frontier open performance on coding, agents, reasoning ..."
           },
           {
-            "url": "https://x.com/rohanpaul_ai/status/2081811110504882195",
-            "search_title": "Rohan Paul on X: \"Kimi K3 just released their technical paper. one of the most detailed and exhaustive one. A million-token context window does not create long-horizon agency if the training system cannot preserve a task across thousands of tool calls. Kimi K3 is built around that constraint. Reports that the architecture and training recipe improve overall scaling efficiency by roughly 2.5X over Kimi K2. - Most layers no longer use full softmax attention. Each block runs 3 Kimi Delta Attention (KDA) layers",
-            "search_snippet": "4 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
+            "url": "https://x.com/SemiAnalysis_/status/2083598754234400830",
+            "search_title": "SemiAnalysis on X: \"@GPU_MODE Shoutout to @marksaroufim & @roaner ...",
+            "search_snippet": "AMD MI355X vLLM HAS BEATEN B200 vLLM ON KIMI K2.5 (THE SAME MODEL ARCH AS XAI CURSOR COMPOSER 2.5)🚀🚨 This uses upstream AMD kernels from the @ GPU_MODE community. We explain below 👇 1/6🧵 4 16 129 15K SemiAnalysis @SemiAnalysis_ 49m AMD launched a $1.1 mil kernel hackathon in collaboration with @ GPU_MODE, and the Readonflow Team's kernels improved end-to-end upstream MI355X ..."
           },
           {
-            "url": "https://x.com/milesdeutscher/status/2081781234582360269",
-            "search_title": "Miles Deutscher on X: \"This is genuinely one of the biggest open-weight releases of the year. Moonshot AI just open-sourced Kimi K3. The model weights, full technical report, everything. Here's what you need to know + how to run Kimi K3: The specs → 2.8T total parameters, but only 104B activated per token → Native visual understanding built in, text, images, and video in the same model → 1M-token context window → The world's first open 3T-class model Efficiency inside Kimi K3 Kimi K3 runs on a new a",
-            "search_snippet": "4 days ago - Here's what you need to know + ... framework that activates just 16 of 896 experts per token. The result: roughly 2.5x the intelligence per unit of compute compared to Kimi K2...."
+            "url": "https://x.com/Alley11ii/status/2081937730028888131",
+            "search_title": "Build AI Agents With More Flexibility AI agent workflows rarely need ...",
+            "search_snippet": "OpenFrog gives you one API layer for: • GPT-5.4 • GPT-5.5 • GPT-5.5 OpenAI Compact • GPT-5.6 Luna • GPT-5.6 Sol • GPT-5.6 Terra • DeepSeek V4 Flash • DeepSeek V4 Pro • Doubao Seedance 2.0 • GLM 5.1 • GLM 5.2 • Kimi K2.6 Use a single API key to build AI agents, coding tools, chatbots, SaaS products, and automated workflows."
           },
           {
-            "url": "https://x.com/WesRoth/status/2082073598668283969",
-            "search_title": "Wes Roth on X: \"Kimi K3 has taken first place on Design Arena’s Slides leaderboard. The open-weight model earned an Elo rating of 1,379 and won by the largest margin Design Arena says it has recorded in this category. Design Arena ranks models through continuous competitions where users compare the actual outputs and vote for the one they prefer. So this is not simply Kimi K3 scoring well on another academic benchmark. People preferred the finished presentations it produced.\" / X",
-            "search_snippet": "4 days ago - Just tested @Kimi_Moonshot K3 against GPT-5.6 and Grok 4.5 on the same task: build a Subway Surfers game. Kimi K3 was my favorite. Better UI, smoother gameplay, and the overall experience felt more polished. GPT-5.6 was solid too, while Grok 4.5 fell behind on the UI. The Show more ... kimi k2.6 and k2.7 code sit mid pack on this same board, both under 1150."
+            "url": "https://x.com/DanKornas/status/2083490647881687525",
+            "search_title": "Dan Kornas on X: \"Need Claude Code to work with a tool-calling model ...",
+            "search_snippet": "Need Claude Code to work with a tool-calling model outside Anthropic's default setup? OpenBridge is an API bridge for using models such as Kimi K2, DeepSeek V3.1, and GLM-4.5 in Claude Code. It helps you connect Claude Code to OpenAI-compatible LLM APIs by running a local proxy"
+          },
+          {
+            "url": "https://x.com/ainunnajib/status/2081895981633912908",
+            "search_title": "AI DAILY BRIEF — Selasa, 28 Juli 2026 TODAY'S VIBE: Hari ini minggu ...",
+            "search_snippet": "KIMI K3 PUNYA JAILBREAK DARI K2.5 YANG MASIH WORKS UNCHANGED Richard Zana (@rzana_dev) found bahwa jailbreak prompt yang dia buat untuk Kimi K2.5 bekerja UNCHANGED pada Kimi K3 — model 2.8 triliun parameter yang baru dirilis sebagai open weights minggu lalu."
+          },
+          {
+            "url": "https://x.com/vikramcantsingh/status/2082131671101354139",
+            "search_title": "Vikram Singh (@vikramcantsingh) on X",
+            "search_snippet": "On Kimi K2.6, seven hosts quote exactly $0.95/$4.00 (including Moonshot itself): And on GLM-5.2, six hosts quote exactly $1.400 (including Zai) while six more run promotional discounts off that same administered price."
+          },
+          {
+            "url": "https://x.com/Vesper_eng/status/2081803842560119030",
+            "search_title": "This is the difference between open-weights and regulation. Congrats",
+            "search_snippet": "Together these changes gave Moonshot roughly 2.5x better scaling efficiency over Kimi K2. More intelligence per compute dollar. The context window is 1 million tokens. Native vision is built in through a 401-million-parameter encoder, MoonViT-V2. The model was trained with MXFP4 weights and MXFP8 activations from the SFT stage onward."
           }
         ],
         "Kimi AI": [
           {
             "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
             "search_title": "Kimi.ai on X: \"Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params. Alongside Kimi K3, we're opening up more of the stack behind it — high-performance attention kernels, MoE communication library, and infrastructure for running agent environments at scale. Model weights: https://t.co/7m7eEg6Y0B T",
-            "search_snippet": "4 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
-          },
-          {
-            "url": "https://x.com/totheagi/status/2081855316443205717",
-            "search_title": "Ning on X: \"we got the full Kimi K3, 2.8T params, running on 80x RTX 5090s. 20 tok/s single stream, day one, untuned. Last week we took GLM-5.2 from 30 to 110 tok/s on this same fleet. This number will climb. A first for open weights: frontier intelligence served with zero HBM, the scarcest silicon in AI. Just GDDR7 gaming cards, plain ethernet, and the official MXFP4 weights, nothing requantized. The most powerful open model on Earth, on the most abundant GPUs on Earth. Any lab, startup, or university can",
-            "search_snippet": "4 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
+            "search_snippet": "5 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
           },
           {
             "url": "https://x.com/UnslothAI/status/2082463988953367031",
             "search_title": "Kimi K3 can now be run locally! ✨ The 1-bit model retains ~ ...",
-            "search_snippet": "2 days ago - Introducing Kimi K3: Open Frontier Intelligence 🔹 2.8 Trillion Parameters, 1 Million Context, Native Multimodal 🔹 Kimi Delta Attention enables up to 6.3x faster decoding in million-token contexts 🔹 Attention Residuals deliver ~25% higher training efficiency at <2% additional Show more"
+            "search_snippet": "3 days ago - Introducing Kimi K3: Open Frontier Intelligence 🔹 2.8 Trillion Parameters, 1 Million Context, Native Multimodal 🔹 Kimi Delta Attention enables up to 6.3x faster decoding in million-token contexts 🔹 Attention Residuals deliver ~25% higher training efficiency at <2% additional Show more"
+          },
+          {
+            "url": "https://x.com/ollama/status/2081771120173408767",
+            "search_title": "ollama on X: \"Kimi K3 is now available on Ollama’s cloud. To use it with Claude Code, run: ollama launch claude --model kimi-k3:cloud Currently Kimi K3 requires a Pro or Max subscription, and consumes extra usage credits. We’re quickly working on adding capacity to expand access.\" / X",
+            "search_snippet": "5 days ago - Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date."
+          },
+          {
+            "url": "https://x.com/totheagi/status/2081855316443205717",
+            "search_title": "Ning on X: \"we got the full Kimi K3, 2.8T params, running on 80x RTX 5090s. 20 tok/s single stream, day one, untuned. Last week we took GLM-5.2 from 30 to 110 tok/s on this same fleet. This number will climb. A first for open weights: frontier intelligence served with zero HBM, the scarcest silicon in AI. Just GDDR7 gaming cards, plain ethernet, and the official MXFP4 weights, nothing requantized. The most powerful open model on Earth, on the most abundant GPUs on Earth. Any lab, startup, or university can",
+            "search_snippet": "5 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
+          },
+          {
+            "url": "https://x.com/Kimi_Moonshot/status/2081767950588223507",
+            "search_title": "Kimi.ai (@Kimi_Moonshot) on X",
+            "search_snippet": "5 days ago - Kimi K3 is live on Fireworks. Day 0, inference and training. US-hosted, and zero data retention. This is the first frontier open model in the 3 trillion parameter class. It sports 1M context, native vision, and reasoning that rivals the top closed models."
           },
           {
             "url": "https://x.com/KyeGomezB/status/2081770610338812073",
             "search_title": "Kye Gomez (swarms) on X: \"The full Kimi K3 paper is out. I just finished reading the entire paper, and it's incredible. The level of detail, the precision, and the carefully designed model architectures are all impeccable. To summarize, the paper introduces Attention Residuals, Kimi Delta Attention, Multi-Latent Attention (MLA), Latent MoE, and a multi-stage reinforcement learning (RL) pipeline. Read the full paper below⬇️\" / X",
-            "search_snippet": "4 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
-          },
-          {
-            "url": "https://x.com/emollick/status/2081801855860883634",
-            "search_title": "Kimi.ai - Ethan Mollick",
-            "search_snippet": "4 days ago - ... Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window."
-          },
-          {
-            "url": "https://x.com/Kimi_Moonshot/status/2081778998494007793",
-            "search_title": "Kimi.ai (@Kimi_Moonshot) on X",
-            "search_snippet": "4 days ago - .@Kimi_Moonshot K3 from Moonshot AI is now live on DigitalOcean Inference Engine. 1M-token context, native vision, built to run agentic tasks for hours. Supported on Inference Router and model synthesis to maximize intelligence per dollar."
-          },
-          {
-            "url": "https://x.com/vllm_project/status/2081767404598919213",
-            "search_title": "vLLM on X: \"With Kimi K3 Day-0 on vLLM: Open Frontier Intelligence for Everyone 🚀 At 2.8 trillion parameters, Moonshot AI's Kimi K3 is one of the most powerful open-weight models ever released. Starting today, you can serve it on vLLM the moment the weights are public. What K3 brings: 🧠 2.8T-parameter Mixture-of-Experts (16 of 896 experts active per token) 📚 1M-token context window 🛠️ Native multimodal understanding, including vision ⚡ Kimi Delta Attention: a hybrid of linear and full attent",
-            "search_snippet": "4 days ago - With Kimi K3 Day-0 on vLLM: Open Frontier Intelligence for Everyone 🚀 At 2.8 trillion parameters, Moonshot AI's Kimi K3 is one of the most powerful open-weight models ever released."
+            "search_snippet": "5 days ago - Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params."
           },
           {
             "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
             "search_title": "Kimi.ai on X: \"We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for running agent environments at scale. Its components power agentic RL training for Kimi K3, with fast snapshot, resume, and fork support for large-scale parallel agent workflows. Explore on GitHub: https://t.co/Dsxyw5rLqm\" / X",
-            "search_snippet": "4 days ago - We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for running agent environments at scale. Its components power agentic RL training for Kimi K3, with fast snapshot, resume, and fork support for large-scale parallel agent workflows."
+            "search_snippet": "5 days ago - We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for running agent environments at scale. Its components power agentic RL training for Kimi K3, with fast snapshot, resume, and fork support for large-scale parallel agent workflows."
           },
           {
-            "url": "https://x.com/iAmHenryMascot/status/2081938035348852740",
-            "search_title": "Henry Mascot on X: \"Kimi K3 is a 2.8T open-weight model built and trained to keep working across enormous, verifiable agent trajectories- not merely answer harder prompts. https://t.co/628I4kPId5\" / X",
-            "search_snippet": "4 days ago - Kimi K3 is a 2.8T open-weight model built and trained to keep working across enormous, verifiable agent trajectories- not merely answer harder prompts."
+            "url": "https://x.com/UnslothAI/status/2082543571522220404",
+            "search_title": "Unsloth AI on X: \"To see how 1-bit Kimi K3 performs, we did some tests. The 1-bit Kimi models are powerful and quite resistant to quantization. They can one-shot many tasks without any intervention and can perform tool-calls very reliably. You can run Kimi K3 in Unsloth. https://t.co/0hNT7H8SkU\" / X",
+            "search_snippet": "3 days ago - Introducing Kimi K3: Open Frontier Intelligence 🔹 2.8 Trillion Parameters, 1 Million Context, Native Multimodal 🔹 Kimi Delta Attention enables up to 6.3x faster decoding in million-token contexts 🔹 Attention Residuals deliver ~25% higher training efficiency at <2% additional Show more"
+          },
+          {
+            "url": "https://x.com/vllm_project/status/2081767404598919213",
+            "search_title": "vLLM on X: \"With Kimi K3 Day-0 on vLLM: Open Frontier Intelligence for Everyone 🚀 At 2.8 trillion parameters, Moonshot AI's Kimi K3 is one of the most powerful open-weight models ever released. Starting today, you can serve it on vLLM the moment the weights are public. What K3 brings: 🧠 2.8T-parameter Mixture-of-Experts (16 of 896 experts active per token) 📚 1M-token context window 🛠️ Native multimodal understanding, including vision ⚡ Kimi Delta Attention: a hybrid of linear and full attent",
+            "search_snippet": "5 days ago - With Kimi K3 Day-0 on vLLM: Open Frontier Intelligence for Everyone 🚀 At 2.8 trillion parameters, Moonshot AI's Kimi K3 is one of the most powerful open-weight models ever released."
           }
         ],
         "Kimi Claw": [
           {
             "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
             "search_title": "Kimi.ai on X: \"Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the intelligence per unit of compute, not just more params. Alongside Kimi K3, we're opening up more of the stack behind it — high-performance attention kernels, MoE communication library, and infrastructure for running agent environments at scale. Model weights: https://t.co/7m7eEg6Y0B T",
-            "search_snippet": "4 days ago - Alongside Kimi K3, we're opening up more of the stack behind it — high-performance attention kernels, MoE communication library, and infrastructure for running agent environments at scale. Model weights: huggingface.co/moonshotai/Kim… Tech report: github.com/MoonshotAI/Kim…"
+            "search_snippet": "5 days ago - Alongside Kimi K3, we're opening up more of the stack behind it — high-performance attention kernels, MoE communication library, and infrastructure for running agent environments at scale. Model weights: huggingface.co/moonshotai/Kim… Tech report: github.com/MoonshotAI/Kim…"
           },
           {
-            "url": "https://x.com/vllm_project/status/2081788542079123939",
-            "search_title": "vLLM on X: \"Kimi K3 is here: a 2.8T-parameter MoE with a 1M-token context and native vision, running on vLLM from day 0. Here is our canonical deployment guide: architecture, kernels, recipes, and the flags to run it in production. https://t.co/SATHaHHYef\" / X",
-            "search_snippet": "4 days ago - Kimi K3 is here: a 2.8T-parameter MoE with a 1M-token context and native vision, running on vLLM from day 0. Here is our canonical deployment guide: architecture, kernels, recipes, and the flags to run it in production. https://t.co/SATHaHHYef"
+            "url": "https://x.com/UnslothAI/status/2082543571522220404",
+            "search_title": "Unsloth AI on X: \"To see how 1-bit Kimi K3 performs, we did some tests. The 1-bit Kimi models are powerful and quite resistant to quantization. They can one-shot many tasks without any intervention and can perform tool-calls very reliably. You can run Kimi K3 in Unsloth. https://t.co/0hNT7H8SkU\" / X",
+            "search_snippet": "3 days ago - To see how 1-bit Kimi K3 performs, we did some tests. The 1-bit Kimi models are powerful and quite resistant to quantization. They can one-shot many tasks without any intervention and can perform tool-calls very reliably. You can run Kimi K3 in Unsloth. https://t.co/0hNT7H8SkU"
+          },
+          {
+            "url": "https://x.com/marureviere_/status/2082482102654886208",
+            "search_title": "maru is tired on X: \"君が言うには犬の恋 / Kimi ga Iu ni wa Inu no Koi volumes 1 & 2 A psychological BL about a praise-starved delinquent who finds himself drawn to the beautiful, enigmatic student council president who offers him the validation he's always craved. https://t.co/1S7YM3wSRL\" / X",
+            "search_snippet": "3 days ago - 君が言うには犬の恋 / Kimi ga Iu ni wa Inu no Koi volumes 1 & 2 A psychological BL about a praise-starved delinquent who finds himself drawn to the beautiful, enigmatic student council president who offers him the validation he's always craved."
+          },
+          {
+            "url": "https://x.com/sergiecode/status/2082119799295852893",
+            "search_title": "Sergie Code on X: \"🚀 Kimi K3 ya llegó a Ollama Cloud Ahora podés usar uno de los modelos open source más potentes del momento directamente desde Ollama y conectarlo con Claude Code: ollama launch claude --model kimi-k3:cloud Kimi K3 promete un salto enorme en capacidades gracias a su arquitectura MoE de 2.8T parámetros, contexto de 1M tokens y comprensión visual nativa Por ahora requiere una suscripción Pro o Max en Ollama y consume créditos adicionales, pero están trabajando para ampliar el acce",
+            "search_snippet": "4 days ago - Ollama is not including K3 inside any of the subscription plans, not even in the highest \"Max\" tier, it only has it as a PAYG model. ollama.com/library/kimi-k3"
           },
           {
             "url": "https://x.com/lmstudio/status/2081778763822510155",
             "search_title": "LM Studio on X: \"Kimi K3 is now live in LM Studio Bionic! A massive, open frontier model: 2.8T MoE with 1M context window. Kimi K3 in Bionic is hosted on US-based servers, with ZDR enabled by default. https://t.co/DpIb8aqsSf\" / X",
-            "search_snippet": "4 days ago - Kimi K3 is now live in LM Studio Bionic! A massive, open frontier model: 2.8T MoE with 1M context window. Kimi K3 in Bionic is hosted on US-based servers, with ZDR enabled by default."
+            "search_snippet": "5 days ago - Kimi K3 is now live in LM Studio Bionic! A massive, open frontier model: 2.8T MoE with 1M context window. Kimi K3 in Bionic is hosted on US-based servers, with ZDR enabled by default."
           },
           {
             "url": "https://x.com/togethercompute/status/2081908712071909704",
             "search_title": "Together AI on X: \"We wrote up a comprehensive guide on using Kimi K3 Read it here 👇\" / X",
-            "search_snippet": "4 days ago - We wrote up a comprehensive guide on using Kimi K3 Read it here 👇"
+            "search_snippet": "5 days ago - We wrote up a comprehensive guide on using Kimi K3 Read it here 👇"
           },
           {
-            "url": "https://x.com/johnseach/status/2081797392911986842",
-            "search_title": "Dr John Seach on X: \"You can download it via the Hugging Face web interface or the CLI: huggingface-cli download moonshotai/Kimi-K3 Note that the model is very large (MXFP4 quantized version is roughly 1.5 TB), so make sure you have sufficient storage and bandwidth.\" / X",
-            "search_snippet": "4 days ago - You can download it via the Hugging Face web interface or the CLI: huggingface-cli download moonshotai/Kimi-K3 Note that the model is very large (MXFP4 quantized version is roughly 1.5 TB), so make sure you have sufficient storage and bandwidth."
-          },
-          {
-            "url": "https://x.com/bridgemindai/status/2081769924687434044",
-            "search_title": "BridgeMind on X: \"Kimi K3 open weights are live and it is already running 3x faster. The weights dropped this morning. Fireworks is already serving it at 45 tokens per second with 1.44s latency. I have spent 11 days waiting 11 seconds for this model to say its first word. It was painful. The best open model ever made and I kept closing the tab. Not anymore. This is the part of open source people forget. You release the weights and the entire industry fixes your problems for you. Same day. Kimi K3 just becam",
-            "search_snippet": "4 days ago - The best open model ever made and I kept closing the tab. Not anymore. This is the part of open source people forget. You release the weights and the entire industry fixes your problems for you. Same day. Kimi K3 just became a real vibe coding option."
-          },
-          {
-            "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-            "search_title": "Kimi.ai on X: \"We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for running agent environments at scale. Its components power agentic RL training for Kimi K3, with fast snapshot, resume, and fork support for large-scale parallel agent workflows. Explore on GitHub: https://t.co/Dsxyw5rLqm\" / X",
-            "search_snippet": "4 days ago - We (Tsinghua's MADSys Lab) initiated the open-source KVCache.AI organization with Kimi on Mooncake, which grew into the foundation of today's disaggregated LLM inference ecosystem."
+            "url": "https://x.com/TheAhmadOsman/status/2081764639826682125",
+            "search_title": "Ahmad on X: \"Kimi K3, aka Fable 5 at home, weights are now fully available to download for free Comes with a technical report as well where they share their latest research findings and how they built the model Needs ~2TB storage for cold backups, I highly recommend everyone to download it https://t.co/AQW2m8rN2T\" / X",
+            "search_snippet": "5 days ago - Today we make sure Kimi K3 weights are downloaded and backed up across several nodes They will never be able to take away my Fable 5"
           }
         ],
         "Moonshot AI": [
           {
             "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
             "search_title": "Kimi.ai (@Kimi_Moonshot) on X",
-            "search_snippet": "4 days ago - New model architecture: 2.5x the intelligence per unit of compute, not just more params. Alongside Kimi K3, we're opening up more of the stack behind it — high-performance attention kernels, MoE communication library, and infrastructure for running agent environments at scale. Model weights: huggingface.co/moonshotai/Kim…"
+            "search_snippet": "5 days ago - New model architecture: 2.5x the intelligence per unit of compute, not just more params. Alongside Kimi K3, we're opening up more of the stack behind it — high-performance attention kernels, MoE communication library, and infrastructure for running agent environments at scale. Model weights: huggingface.co/moonshotai/Kim…"
           },
           {
             "url": "https://x.com/business/status/2081579860669923560",
             "search_title": "Bloomberg on X: \"Moonshot AI is poised to make its Kimi K3 model available for public download, expanding its reach and influence in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development https://t.co/HkS9wEkd7v\" / X",
-            "search_snippet": "5 days ago - Chinese AI startup Moonshot AI is reportedly preparing to make its Kimi K3 large language model available for public download, a move that would expand its presence in the global open-weight AI ecosystem."
-          },
-          {
-            "url": "https://x.com/business/status/2081551429160866073",
-            "search_title": "Moonshot AI is poised to make its Kimi K3 model ...",
-            "search_snippet": "5 days ago - Moonshot AI is poised to make its Kimi K3 model available for public download, expanding its reach in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development https://t.co/zIOoU0lXoR"
-          },
-          {
-            "url": "https://x.com/linasbeliunas/status/2081791906279780663",
-            "search_title": "Linas Beliūnas on X: \"JUST IN: Moonshot AI Releases Open Weights for Kimi K3. The Beijing startup just released the 1.4 terabyte model files on Hugging Face under a permissive license, slightly ahead of its July 27 deadline. Kimi K3 uses a Mixture-of-Experts design with 2.8 trillion total parameters, activating 104 billion per token, and handles a 1 million token context plus text, images, and video. Open source is eating the world.\" / X",
-            "search_snippet": "4 days ago - JUST IN: Moonshot AI Releases Open Weights for Kimi K3. The Beijing startup just released the 1.4 terabyte model files on Hugging Face under a permissive license, slightly ahead of its July 27 deadline. Kimi K3 uses a Mixture-of-Experts design with 2.8 trillion total parameters, activating 104 billion per token, and handles a 1 million token context plus text, images, and video."
+            "search_snippet": "6 days ago - Chinese AI startup Moonshot AI is reportedly preparing to make its Kimi K3 large language model available for public download, a move that would expand its presence in the global open-weight AI ecosystem."
           },
           {
             "url": "https://x.com/SonnyClawAI/status/2081897964176359818",
             "search_title": "Sonny on X: \"Moonshot AI just open-sourced MoonEP, a system designed to keep Mixture-of-Experts workloads balanced across GPUs. The useful idea is larger than GPUs. MoonEP keeps the model's logical expert choice, but waits for the live routing load before deciding where that expert will physically run. When one rank becomes hot, it copies the required expert weights to spare GPUs and moves the work. Build the agent equivalent: intent → match a capability from A2A Agent Cards → inspect queue, latency, co",
-            "search_snippet": "4 days ago - Moonshot AI just open-sourced MoonEP, a system designed to keep Mixture-of-Experts workloads balanced across GPUs. The useful idea is larger than GPUs. MoonEP keeps the model's logical expert choice, but waits for the live routing load before ..."
+            "search_snippet": "5 days ago - Moonshot AI just open-sourced MoonEP, a system designed to keep Mixture-of-Experts workloads balanced across GPUs. The useful idea is larger than GPUs. MoonEP keeps the model's logical expert choice, but waits for the live routing load before ..."
+          },
+          {
+            "url": "https://x.com/business/status/2081551429160866073",
+            "search_title": "Moonshot AI is poised to make its Kimi K3 model ...",
+            "search_snippet": "6 days ago - Moonshot AI is poised to make its Kimi K3 model available for public download, expanding its reach in the global open software community at a time of growing US concern about Chinese encroachment into the top echelons of AI development https://t.co/zIOoU0lXoR"
+          },
+          {
+            "url": "https://x.com/linasbeliunas/status/2081791906279780663",
+            "search_title": "Linas Beliūnas on X: \"JUST IN: Moonshot AI Releases Open Weights for Kimi K3. The Beijing startup just released the 1.4 terabyte model files on Hugging Face under a permissive license, slightly ahead of its July 27 deadline. Kimi K3 uses a Mixture-of-Experts design with 2.8 trillion total parameters, activating 104 billion per token, and handles a 1 million token context plus text, images, and video. Open source is eating the world.\" / X",
+            "search_snippet": "5 days ago - JUST IN: Moonshot AI Releases Open Weights for Kimi K3. The Beijing startup just released the 1.4 terabyte model files on Hugging Face under a permissive license, slightly ahead of its July 27 deadline. Kimi K3 uses a Mixture-of-Experts design with 2.8 trillion total parameters, activating 104 billion per token, and handles a 1 million token context plus text, images, and video."
+          },
+          {
+            "url": "https://x.com/Mayhem4Markets/status/2081775385331503332",
+            "search_title": "Markets & Mayhem on X: \"Big news! The largest open model ever built is on HuggingFace right now. 🥳 Kimi K3. 2.8 trillion parameters. Full weights, downloadable today under the Kimi K3 License. Moonshot AI just shipped the biggest open-weight release in history. Kimi K3 activates only 104 billion of its 2.8 trillion parameters per token. 16 experts out of 896, selected on the fly. The sparsity is extreme! You get frontier-scale capacity without paying to run all 2.8 trillion parameters on every forward pa",
+            "search_snippet": "5 days ago - The largest open model ever built is on HuggingFace right now. 🥳 Kimi K3. 2.8 trillion parameters. Full weights, downloadable today under the Kimi K3 License. Moonshot AI just shipped the biggest open-weight release in history. Kimi K3 activates only 104 billion of its 2.8 trillion parameters per token."
+          },
+          {
+            "url": "https://x.com/chutes_ai/status/2082142030210191660",
+            "search_title": "Chutes on X: \"Moonshot shipped Kimi K3's weights yesterday. 2.8T parameters, the largest open-weight model released to date. It is already live on Chutes. Kimi K3 on Chutes: 1M context, native text + image + video input, $3.00 per million input tokens, $15.00 out. Runs inside a hardware-attested TEE with end-to-end encryption, like every model we serve. Moonshot's published scores: 88.3 on Terminal-Bench 2.1 (Claude Opus 4.8: 84.6), 67.5 on DeepSWE, 91.2 on BrowseComp, 93.5 on GPQA Diamond.\" / X",
+            "search_snippet": "4 days ago - Moonshot shipped Kimi K3's weights yesterday. 2.8T parameters, the largest open-weight model released to date. It is already live on Chutes. Kimi K3 on Chutes: 1M context, native text + image + video input, $3.00 per million input tokens, $15.00 out."
           },
           {
             "url": "https://x.com/WesRoth/status/2081848589505143134",
             "search_title": "Wes Roth on X: \"Moonshot AI has released the full Kimi K3 model weights and technical report. This is not a smaller model created specifically for open release. Kimi K3 contains 2.8 trillion total parameters, activates 104 billion parameters per token, supports a 1-million-token context window, and combines text and native visual understanding. Its Mixture-of-Experts architecture selects 16 of 896 experts for each token. The weights are now available through Hugging Face and GitHub under Moonshot’s custom",
-            "search_snippet": "4 days ago - Moonshot AI has released the full Kimi K3 model weights and technical report. This is not a smaller model created specifically for open release. Kimi K3 contains 2.8 trillion total parameters, activates 104 billion parameters per token, supports a 1-million-token context window, and combines text and native visual understanding."
-          },
-          {
-            "url": "https://x.com/ZhihuFrontier/status/2081990590741594139",
-            "search_title": "Zhihu Frontier on X: \"Kimi K3 Scales Across Length, Depth, and Width @Kimi_Moonshot AI has released Kimi K3’s full model weights, technical report, and three pieces of training infrastructure: MoonEP, FlashKDA, and AgentEnv. The release reveals how K3 scales a 2.8T-parameter MoE model to a 1M-token context window while activating only 104B parameters per token. Zhihu contributor kaiyuan breaks the architecture down along three axes: sequence length, network depth, and model width. Moonshot reports that th",
-            "search_snippet": "4 days ago - Kimi K3 Scales Across Length, Depth, and Width @Kimi_Moonshot AI has released Kimi K3’s full model weights, technical report, and three pieces of training infrastructure: MoonEP, FlashKDA, and AgentEnv. The release reveals how K3 scales a 2.8T-parameter MoE model to a 1M-token context window while activating only 104B parameters per token."
-          },
-          {
-            "url": "https://x.com/v_shakthi/status/2081913523895255096",
-            "search_title": "Shakthi V on X: \"Moonshot AI released the full model weights and technical report for Kimi K3. Kimi K3 is a 2.8T MoE model with native visual understanding and a 1M-token context window. It is the first open model in the 3T class. The new architecture delivers 2.5x the intelligence per unit of compute. Alongside the weights, they open-sourced high-performance attention kernels, the MoE communication library, and infrastructure for running agent environments at scale. Model weights: https://t.co/BYUfB5o5Ss G",
-            "search_snippet": "4 days ago - Alongside the weights, they open-sourced high-performance attention kernels, the MoE communication library, and infrastructure for running agent environments at scale. Model weights: huggingface.co/moonshotai/Kim… GitHub: github.com/MoonshotAI/Kim… Kimi tech blog: kimi.com/blog/kimi-k3 #AI #OpenSource #KimiK3 #MoonshotAI #LLM #MoE #MachineLearning #ArtificialIntelligence"
-          },
-          {
-            "url": "https://x.com/business/status/2081813142372339973",
-            "search_title": "Bloomberg on X: \"Moonshot AI has made its Kimi K3 model available for public download. Here's how that could change the industry https://t.co/MKUENfKnJR\" / X",
-            "search_snippet": "4 days ago - Moonshot AI has made its Kimi K3 model available for public download. Here's how that could change the industry https://t.co/MKUENfKnJR"
+            "search_snippet": "5 days ago - Moonshot AI has released the full Kimi K3 model weights and technical report. This is not a smaller model created specifically for open release. Kimi K3 contains 2.8 trillion total parameters, activates 104 billion parameters per token, supports a 1-million-token context window, and combines text and native visual understanding."
           }
         ],
         "月之暗面": [
           {
+            "url": "https://x.com/0xTib3rius/status/1912195160416338031",
+            "search_title": "Link to x.com",
+            "search_snippet": "The site owner hides the web page description."
+          },
+          {
             "url": "https://x.com/berryxia/status/2081624451314339851",
             "search_title": "据悉，Kimi K3预计将于今晚11点开源月之暗面 ...",
-            "search_snippet": "5 days ago - 据悉，Kimi K3预计将于今晚11点开源 月之暗面已在 Hugging Face 官方账号建立 Kimi K3 模型页面，并开启权重发布倒计时。 页面显示，模型预计将在北京时间 7 月 27 日 23 时上线，当前已有 1356 人订阅了发布提醒。 Kimi K3 ..."
+            "search_snippet": "6 days ago - 据悉，Kimi K3预计将于今晚11点开源 月之暗面已在 Hugging Face 官方账号建立 Kimi K3 模型页面，并开启权重发布倒计时。 页面显示，模型预计将在北京时间 7 月 27 日 23 时上线，当前已有 1356 人订阅了发布提醒。 Kimi K3 ..."
           },
           {
             "url": "https://x.com/thevalley101/status/2082022088349712656",
             "search_title": "近期Kimi K3发布后再次震动硅谷，也把月之暗面推回全球AI ...",
-            "search_snippet": "4 days ago - 近期Kimi K3发布后再次震动硅谷，也把月之暗面推回全球AI竞争的中心。 Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四小龙”的兴起，也在美团龙珠主导推动了A1轮的投资。这期视频播客，在她的讲述里，Kimi并不是一个突然出现的成功故事：杨植麟、唐杰、创新工场AI工程院，以及上一轮AI创业留下的人才、经验与技术理想，共同构成了一条延续多年的中国AI脉络。上一代公司的起伏没有让这些积累消失，它们正在大模型时代重新汇合。 月"
+            "search_snippet": "5 days ago - 近期Kimi K3发布后再次震动硅谷，也把月之暗面推回全球AI竞争的中心。 Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四小龙”的兴起，也在美团龙珠主导推动了A1轮的投资。这期视频播客，在她的讲述里，Kimi并不是一个突然出现的成功故事：杨植麟、唐杰、创新工场AI工程院，以及上一轮AI创业留下的人才、经验与技术理想，共同构成了一条延续多年的中国AI脉络。上一代公司的起伏没有让这些积累消失，它们正在大模型时代重新汇合。 月"
           },
           {
             "url": "https://x.com/woshipm/status/2082397280670306451",
             "search_title": "据报道，得益于其突破性模型Kimi K3 在硅谷引发的轰动效应 ...",
-            "search_snippet": "3 days ago - 据报道，得益于其突破性模型 Kimi K3 在硅谷引发的轰动效应，总部位于北京的初创公司月之暗面（Moonshot AI）在刚刚完成的一轮融资中筹集了 35 亿美元，这一金额远超预期，融资完成后公司估值达到 350 亿美元（现汇率约合 2372.46 亿元人民币）。据知情人士透露，月之暗面原本计划融资… aixq.cc/circle/58652.h…"
+            "search_snippet": "4 days ago - 据报道，得益于其突破性模型 Kimi K3 在硅谷引发的轰动效应，总部位于北京的初创公司月之暗面（Moonshot AI）在刚刚完成的一轮融资中筹集了 35 亿美元，这一金额远超预期，融资完成后公司估值达到 350 亿美元（现汇率约合 2372.46 亿元人民币）。据知情人士透露，月之暗面原本计划融资… aixq.cc/circle/58652.h…"
           },
           {
             "url": "https://x.com/MJTVHoPin/status/2081586752125366286",
             "search_title": "\"《點點AI》 中國「登月計劃」再出重拳Kimi K3將全面開源下載 ...",
-            "search_snippet": "5 days ago - 《點點AI》 中國「登月計劃」再出重拳 Kimi K3將全面開源下載 中國人工智能新創公司月之暗面（Moonshot AI）宣布，將正式公開發布Kimi K3大型語言模型的模型權重（Model Weights），讓全球開發者可以自由下載、部署、修改及建立自己的應用程式。這意味著Kimi"
+            "search_snippet": "6 days ago - 《點點AI》 中國「登月計劃」再出重拳 Kimi K3將全面開源下載 中國人工智能新創公司月之暗面（Moonshot AI）宣布，將正式公開發布Kimi K3大型語言模型的模型權重（Model Weights），讓全球開發者可以自由下載、部署、修改及建立自己的應用程式。這意味著Kimi"
           }
         ]
       }
@@ -203,61 +218,86 @@
       "keywords": {
         "Claude": [
           {
-            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
-            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
-            "search_snippet": "Claude Pro and Max were rather amazing products for power users."
-          },
-          {
-            "url": "https://x.com/Aella_Girl/status/1864442468638634469",
-            "search_title": "x.com/Aella_Girl/status/1864442468638634469",
-            "search_snippet": "via the AI engine Claude."
-          },
-          {
             "url": "https://x.com/AnthropicAI/status/2082153297670992134",
             "search_title": "Anthropic on X: \"New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://t.co/TYKLjb3Q7V\" / X",
-            "search_snippet": "3 days ago - We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n."
+            "search_snippet": "4 days ago - We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n."
           },
           {
             "url": "https://x.com/downdetector/status/2082557036617699590",
             "search_title": "Downdetector on X: \"User reports indicate problems with Claude AI since 4:01 PM EDT. How is it affecting you? #ClaudeAiDown https://t.co/EbXfoHRBJc\" / X",
-            "search_snippet": "2 days ago - User reports indicate problems with Claude AI since 4:01 PM EDT. How is it affecting you? #ClaudeAiDown https://t.co/EbXfoHRBJc"
+            "search_snippet": "3 days ago - User reports indicate problems with Claude AI since 4:01 PM EDT. How is it affecting you? #ClaudeAiDown https://t.co/EbXfoHRBJc"
           },
           {
-            "url": "https://x.com/mattshumer_/status/2081054356405731740",
-            "search_title": "Matt Shumer on X: \"Claude Opus 5 one-shotted this game. EVERYTHING you see in this demo is custom code... not a single external asset was used. AI games are going to be amazing. (sound on)\" / X",
-            "search_snippet": "1 week ago - GitHub - mshumer/Claude-of-Duty: A Call of Duty-quality FPS in Three.js, built from a single prompt."
+            "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+            "search_title": "Anthropic on X: \"In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation p",
+            "search_snippet": "2 days ago - We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n."
           },
           {
             "url": "https://x.com/ClaudeDevs/status/2082937616941695241",
             "search_title": "ClaudeDevs (@ClaudeDevs) on X",
-            "search_snippet": "1 day ago - We've made progress restoring capacity and things are stable right now, but we're not fully in the clear yet. If anything comes up, we'll post it on status.claude.com."
+            "search_snippet": "2 days ago - We've made progress restoring capacity and things are stable right now, but we're not fully in the clear yet. If anything comes up, we'll post it on status.claude.com."
+          },
+          {
+            "url": "https://x.com/TeleMediaFr/status/2083055554923045104",
+            "search_title": "TeleMediaFr on X: \"Une tendre pensée pour Jean-Claude Bouillon, décédé le 31 juillet 2017. https://t.co/B0B11xNK57\" / X",
+            "search_snippet": "2 days ago - Une tendre pensée pour Jean-Claude Bouillon, décédé le 31 juillet 2017."
+          },
+          {
+            "url": "https://x.com/Pirat_Nation/status/2081861688241111222",
+            "search_title": "Pirat_Nation 🔴 on X: \"Thousands of conversations shared through Claude’s “Share” feature were recently found to be indexed by Google, making them searchable by anyone instead of only being accessible through the shared link. The issue does not affect private Claude conversations. It only affects chats that users intentionally shared using a public link. Researchers found shared conversations containing sensitive information, including API keys, crypto wallet details, resumes with names, addresses,",
+            "search_snippet": "5 days ago - Thousands of conversations shared through Claude’s “Share” feature were recently found to be indexed by Google, making them searchable by anyone instead of only being accessible through the shared link. The issue does not affect private Claude conversations. It only affects"
+          },
+          {
+            "url": "https://x.com/ollama/status/2083411055284232268",
+            "search_title": "ollama on X: \"DeepSeek-V4-Flash-0731 is now available on Ollama's cloud. This update substantially enhances the model's agentic capabilities: ollama run deepseek-v4-flash:0731-cloud Use it with Claude Code: ollama launch claude --model deepseek-v4-flash:0731-cloud\" / X",
+            "search_snippet": "19 hours ago - DeepSeek-V4-Flash-0731 is now available on Ollama's cloud. This update substantially enhances the model's agentic capabilities: ollama run deepseek-v4-flash:0731-cloud Use it with Claude Code: ollama launch claude --model deepseek-v4-flash:0731-cloud"
           }
         ],
         "Claude Code": [
           {
-            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
-            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
-            "search_snippet": "Anthropic unveils new rate limits to curb some extreme usages of Claude Code."
+            "url": "https://x.com/rohanpaul_ai/status/2082695402953031825",
+            "search_title": "Rohan Paul on X: \"Claude Code creator Boris Cherny ( @bcherny ) \"For people who aren’t building agentic products but are using Claude Code, every 6 months, delete your claude.md file, delete your skills, and delete your hooks. Then see what the model does. It might surprise you. For Opus 5, we strongly recommend trying to delete all of these things because the model may no longer need the extensive instructions that were necessary for previous models.\" - at Y Combinator Startup School 2026. ---- From \"Y C",
+            "search_snippet": "3 days ago - Claude Code creator Boris Cherny ( @bcherny ) \"For people who aren’t building agentic products but are using Claude Code, every 6 months, delete your claude.md file, delete your skills, and delete your hooks. Then see what the model does. It might surprise you. For Opus 5, we"
           },
           {
-            "url": "https://x.com/VaibhavSisinty/status/2080929799040802907",
-            "search_title": "Vaibhav Sisinty on X: \"Anthropic just revealed they deleted 80% of Claude Code's system prompt for their newest models. And everything still worked. They published what changed and this should be required reading for anyone building with AI right now. Here's the short version. Old rule: Give the AI detailed instructions and examples. New rule: That actually makes it worse now. Examples constrain the model to a narrow space. Newer models do better when you design better tools and let them figure it out. Old",
-            "search_snippet": "1 week ago - Newer models do better when you design better tools and let them figure it out. Old rule: Put everything upfront in one massive prompt. New rule: Load context only when it's needed. Claude Code now pulls in skills, verification steps, and tool definitions on demand instead of stuffing everything into one giant system prompt."
+            "url": "https://x.com/thisguyknowsai/status/2081680037544427793",
+            "search_title": "Brady Long on X: \"Another WTF moment. A developer just open-sourced a coding agent harness that boots 245x faster than Claude Code. It's called jcode. You launch it and the first frame renders in 14 milliseconds. Claude Code takes 3,436. One active session uses 27.8 MB of RAM. Claude Code uses 386.6. Run ten sessions in parallel and jcode holds at 117 MB while OpenCode swells to 3.2 GB. Each agent has a semantic memory graph instead of a scratchpad. Every turn gets embedded as a vector. The graph is queried",
+            "search_snippet": "6 days ago - Another WTF moment. A developer just open-sourced a coding agent harness that boots 245x faster than Claude Code. It's called jcode. You launch it and the first frame renders in 14 milliseconds. Claude Code takes 3,436. One active session uses 27.8 MB of RAM. Claude Code uses"
           },
           {
-            "url": "https://x.com/ollama/status/2081771120173408767",
-            "search_title": "ollama on X: \"Kimi K3 is now available on Ollama’s cloud. To use it with Claude Code, run: ollama launch claude --model kimi-k3:cloud Currently Kimi K3 requires a Pro or Max subscription, and consumes extra usage credits. We’re quickly working on adding capacity to expand access.\" / X",
-            "search_snippet": "4 days ago - Kimi K3 is now available on Ollama’s cloud. To use it with Claude Code, run: ollama launch claude --model kimi-k3:cloud Currently Kimi K3 requires a Pro or Max subscription, and consumes extra usage credits. We’re quickly working on adding capacity to expand access."
+            "url": "https://x.com/ollama/status/2083411055284232268",
+            "search_title": "ollama on X: \"DeepSeek-V4-Flash-0731 is now available on Ollama's cloud. This update substantially enhances the model's agentic capabilities: ollama run deepseek-v4-flash:0731-cloud Use it with Claude Code: ollama launch claude --model deepseek-v4-flash:0731-cloud\" / X",
+            "search_snippet": "19 hours ago - DeepSeek-V4-Flash-0731 is now available on Ollama's cloud. This update substantially enhances the model's agentic capabilities: ollama run deepseek-v4-flash:0731-cloud Use it with Claude Code: ollama launch claude --model deepseek-v4-flash:0731-cloud"
+          },
+          {
+            "url": "https://x.com/0xGenAi/status/2082507524025053461",
+            "search_title": "GenAI on X: \"RT @0xGenAi: Claude Code creator Boris Cherny: “Every six months, delete your CLAUDE.md, delete your skills, delete your hooks, and see wh…\" / X",
+            "search_snippet": "3 days ago - Claude Code creator Boris Cherny: “Every six months, delete your CLAUDE.md, delete your skills, delete your hooks, and see what the model does.” The Claude team deleted 80% of Claude Code’s system prompt after releasing Opus 5."
           },
           {
             "url": "https://x.com/composio/status/2082452269522378858",
             "search_title": "Composio on X: \"We ran Kimi K3 through 3 agent harnesses (Claude Code, Hermes, Kimi Code) on 28 identical tasks. All 3 harnesses completed the tasks at similar success rates, but the interesting story is token efficiency: the same task cost up to 30x more tokens depending on the harness. 🧵🧵\" / X",
-            "search_snippet": "2 days ago - We ran Kimi K3 through 3 agent harnesses (Claude Code, Hermes, Kimi Code) on 28 identical tasks. All 3 harnesses completed the tasks at similar success rates, but the interesting story is token efficiency: the same task cost up to 30x more tokens depending on the harness. 🧵🧵"
+            "search_snippet": "3 days ago - We ran Kimi K3 through 3 agent harnesses (Claude Code, Hermes, Kimi Code) on 28 identical tasks. All 3 harnesses completed the tasks at similar success rates, but the interesting story is token efficiency: the same task cost up to 30x more tokens depending on the harness. 🧵🧵"
           },
           {
-            "url": "https://x.com/composio/status/2083161879489220722",
-            "search_title": "Composio on X: \"Hermes and Pi Agent led on the average cost per task, while Claude Code cost about 3.7x as much as Pi: - $0.39 Hermes Agent - $0.40 Pi Agent - $0.47 Codex - $0.51 OpenCode - $0.54 Kimi Code - $1.47 Claude Code The median cost tells the same story: $0.29 in Pi Agent and Hermes, $0.35 in OpenCode, $0.38 in Kimi Code, $0.39 in Codex and $0.72 in Claude Code, so the cost gap holds for a typical task and is not driven by a few expensive runs. We calculated these costs using Kimi K3’s list price",
-            "search_snippet": "12 hours ago - Hermes and Pi Agent led on the average cost per task, while Claude Code cost about 3.7x as much as Pi: - $0.39 Hermes Agent - $0.40 Pi Agent - $0.47 Codex - $0.51 OpenCode - $0.54 Kimi Code - $1.47 Claude Code The median cost tells the same story: $0.29 in Pi Agent and Hermes, $0.35 in OpenCode, $0.38 in Kimi Code, $0.39 in Codex and $0.72 in Claude Code, so the cost gap holds for a typical task and is not driven by a few expensive runs."
+            "url": "https://x.com/Axel_bitblaze69/status/2082487199765844066",
+            "search_title": "Axel Bitblaze 🪓 on X: \"You can turn claude code into a cinematic video studio with one skill.. it's called video-shotcraft. it's an AI skill for claude code (and codex) that builds real product videos using remotion.. the actual code and all, not a template you fight with.. what's inside is: ▫️ 106 shot recipe cards - pre-built cinematic shots you just call by name ▫️ 161 motion previews - browse them, switch variants, copy the ones you want ▫️ a production-ready template, so you're never sta",
+            "search_snippet": "3 days ago - what's inside is: ▫️ 106 shot recipe cards - pre-built cinematic shots you just call by name ▫️ 161 motion previews - browse them, switch variants, copy the ones you want ▫️ a production-ready template, so you're never starting from a blank file and you don't even set it up yourself. hand the repo link to your agent and say \"install this skill for me\": github.com/Vincentwei1021… it clones it and wires it into your skills folder. then you just describe the video you want, and claude builds it shot by shot."
+          },
+          {
+            "url": "https://x.com/theo/status/2082277789395501263",
+            "search_title": "Theo - t3.gg on X: \"\"npx t3 connect\" This one's been a lot of work. You can now set up remote control for T3 Code on any internet-connected box with literally one command. All for free. T3 Connect is a minimal open source tunnel layer allowing you to control T3 Code instances remotely without needing Tailscale set up. I've been daily driving it for a month and it has changed how I code. Julius and I put a lot of effort into making setup as smooth as possible. Step 1: Install Claude Code, Codex, OpenCode, or",
+            "search_snippet": "4 days ago - I've been daily driving it for a month and it has changed how I code. Julius and I put a lot of effort into making setup as smooth as possible. Step 1: Install Claude Code, Codex, OpenCode, or Grok Build Step 2: Run \"npx t3 connect\" Step 3: Click link and sign in Step 4: You can now control that computer on T3 Code web, desktop or mobile (dropping very soon) We are currently providing this for free (s/o CloudFlare for bumping our tunnel limits)."
+          },
+          {
+            "url": "https://x.com/JulianGoldieSEO/status/2083471860067713434",
+            "search_title": "Julian Goldie SEO on X: \"You hit the wall mid-build again. Locked out of Claude Code, right at the good part. There's a quieter setup almost nobody talks about. It runs Claude Code on free models so the experiments stop costing you. Here's the shift: → Claude Code is just the agent. It reads your project and builds step by step. → It's open enough to point at a different engine underneath. → Swap the paid brain for free ones, and the everyday building costs you nothing. You're not getting frontier pai",
+            "search_snippet": "15 hours ago - There's a quieter setup almost nobody talks about. It runs Claude Code on free models so the experiments stop costing you. Here's the shift: → Claude Code is just the agent. It reads"
+          },
+          {
+            "url": "https://x.com/cyrilXBT/status/2081954297898586330",
+            "search_title": "CyrilXBT on X: \"THIS SHOULD NOT BE POSSIBLE YET. A developer open-sourced a coding agent harness that boots 245x faster than Claude Code. It's called jcode. First frame renders in 14ms. Claude Code takes 3,437ms. One session with embeddings off uses 27.8 MB of RAM. Claude Code uses 386.6 MB. Run ten sessions in parallel and jcode holds at 117 MB while Claude Code balloons to 2.3 GB and OpenCode hits 3.2 GB. Each agent gets a semantic memory graph instead of a scratchpad. Every turn gets embedded as a vector",
+            "search_snippet": "5 days ago - Run ten sessions in parallel and jcode holds at 117 MB while Claude Code balloons to 2.3 GB and OpenCode hits 3.2 GB. Each agent gets a semantic memory graph instead of a scratchpad. Every turn gets embedded as a vector, queried against the graph on future turns, verified by a side-agent before injection, consolidated in the background for staleness and conflicts."
           }
         ],
         "Anthropic": [
@@ -265,6 +305,46 @@
             "url": "https://x.com/AnthropicAI/status/1949898502688903593",
             "search_title": "x.com/AnthropicAI/status/1949898502688903593",
             "search_snippet": "Anthropic shared a visual announcement on social media, stating that new..."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/2081864750296658008",
+            "search_title": "Anthropic - Our position on open-weights models",
+            "search_snippet": "5 days ago - Anthropic@AnthropicAIFollow · We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/2082228994653696371",
+            "search_title": "Anthropic on X: \"We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see broad agreement across the field. https://t.co/DqwuQfa9xH\" / X",
+            "search_snippet": "4 days ago - Anthropic@AnthropicAIFollow · We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems."
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+            "search_title": "Anthropic on X: \"In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation p",
+            "search_snippet": "2 days ago - We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. anthropic.com/news/investiga…"
+          },
+          {
+            "url": "https://x.com/AnthropicAI/status/2082153297670992134",
+            "search_title": "Anthropic on X: \"New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://t.co/TYKLjb3Q7V\" / X",
+            "search_snippet": "4 days ago - New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://t.co/TYKLjb3Q7V"
+          },
+          {
+            "url": "https://x.com/shawnchauhan1/status/2082405789533401515",
+            "search_title": "Shawn Chauhan on X: \"Silicon Valley is turning on Anthropic, and it's not really about safety. The Wall Street Journal reports a widening backlash from founders, researchers, and partners over what they call aggressive competitive tactics and restrictive Claude guardrails. Anthropic is still the only major American lab that hasn't signed the industry's open-weights letter. David Sacks and OpenAI's own people are now saying so publicly. When one company stands alone against every other lab's consensus, that'",
+            "search_snippet": "4 days ago - Silicon Valley is turning on Anthropic, and it's not really about safety. The Wall Street Journal reports a widening backlash from founders, researchers, and partners over what they call aggressive competitive tactics and restrictive Claude guardrails. Anthropic is still the only major American lab that hasn't signed the industry's open-weights letter."
+          },
+          {
+            "url": "https://x.com/beffjezos/status/2081623017285959939",
+            "search_title": "Beff (e/acc) on X: \"Anthropic are literally effectively burning books and want to be the exclusive source of truth in the future.\" / X",
+            "search_snippet": "6 days ago - Anthropic are literally effectively burning books and want to be the exclusive source of truth in the future."
+          },
+          {
+            "url": "https://x.com/HarryStebbings/status/2082125174489694542",
+            "search_title": "Harry Stebbings on X: \"\"Anthropic was one of the rare investments that justified breaking the usual rules. The team backed Dario Amodei's technical vision, saw frontier-level model performance achieved with far less compute, and believed AI was too large a market for a single winner. The conviction was that if OpenAI became number one, Anthropic had the best chance of becoming a dominant second player.\" @mmurph What did no one see that was blindingly obvious to you @anjneymidha\" / X",
+            "search_snippet": "4 days ago - \"Anthropic was one of the rare investments that justified breaking the usual rules. The team backed Dario Amodei's technical vision, saw frontier-level model performance achieved with far less compute, and believed AI was too large a market ..."
+          },
+          {
+            "url": "https://x.com/BitcoinNewsCom/status/2082158118402691167",
+            "search_title": "Bitcoin News on X: \"ANTHROPIC: AI DISCOVERS NEW CRYPTOGRAPHY ATTACKS, WEAKENS POST-QUANTUM CANDIDATE Anthropic says its Claude Mythos Preview AI discovered two new cryptographic attacks, including one that significantly weakens the HAWK post-quantum digital signature candidate and another that speeds up attacks on a reduced-round version of AES by 200-800x. The company stressed neither finding affects production systems or breaks the full AES standard. Instead, the research demonstrates AI’s growing abili",
+            "search_snippet": "4 days ago - Instead, the research demonstrates AI’s growing ability to uncover mathematical flaws in cryptographic algorithms that have withstood years of expert review. Anthropic says Claude developed the HAWK attack in roughly 60 hours and estimates each breakthrough cost about $100,000 in API compute."
           }
         ],
         "Dario Amodei": [
@@ -289,9 +369,9 @@
             "search_snippet": "Breaking: OpenAI whistleblower, Suchir Balaji, a 26-year old..."
           },
           {
-            "url": "https://x.com/sama/status/1790075827666796666",
-            "search_title": "x.com/sama/status/1790075827666796666",
-            "search_snippet": "Scarlett Johansson revealed that OpenAI had requested to license her voice."
+            "url": "https://x.com/sama/status/1899535387435086115",
+            "search_title": "x.com/sama/status/1899535387435086115",
+            "search_snippet": "Sam Altman says OpenAI trained an AI model that is good at creative writing..."
           }
         ],
         "ChatGPT": [
@@ -303,9 +383,9 @@
         ],
         "Sam Altman": [
           {
-            "url": "https://x.com/sama/status/1904921537884676398",
-            "search_title": "x.com/sama/status/1904921537884676398",
-            "search_snippet": "OpenAI’s CEO Sam Altman Ghibli-fied his X profile picture."
+            "url": "https://x.com/sama/status/1899535387435086115",
+            "search_title": "x.com/sama/status/1899535387435086115",
+            "search_snippet": "Sam Altman's AI creative writing model sparks debate on art authenticity."
           }
         ],
         "Gemini": [],
@@ -317,7 +397,13 @@
             "search_snippet": "DeepSeek, el competidor chino de ChatGPT, lanza su nuevo modelo..."
           }
         ],
-        "DeepSeek-V4": [],
+        "DeepSeek-V4": [
+          {
+            "url": "https://x.com/Ahmad_Al_Dahle/status/1909302532306092107",
+            "search_title": "Link to x.com",
+            "search_snippet": "The site owner hides the web page description."
+          }
+        ],
         "DeepSeek V4": [],
         "DS-V4": [],
         "梁文锋": [],
@@ -327,6 +413,11 @@
             "url": "https://x.com/elonmusk/status/1861801046949191686",
             "search_title": "x.com/elonmusk/status/1861801046949191686",
             "search_snippet": "Musk announced plans to make a video game studio under xAI."
+          },
+          {
+            "url": "https://x.com/ALScyborg/status/1916630186382291242",
+            "search_title": "x.com/ALScyborg/status/1916630186382291242",
+            "search_snippet": "I will answer at least all verified users! Thank you @elonmusk!"
           }
         ],
         "Copilot": [],
@@ -365,7 +456,13 @@
     "tier3_narrative_field": {
       "label": "📡 AI叙事热帖",
       "keywords": {
-        "vibe coding": [],
+        "vibe coding": [
+          {
+            "url": "https://x.com/andrewchen/status/1898874271663087622",
+            "search_title": "x.com/andrewchen/status/1898874271663087622",
+            "search_snippet": "Amazing thread on vibe coding."
+          }
+        ],
         "AI replace jobs": [],
         "Chinese AI Silicon Valley": [
           {
@@ -385,7 +482,13 @@
         "AI agent": [],
         "AI ARR revenue": [],
         "AI startup funding": [],
-        "AI pricing": [],
+        "AI pricing": [
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic’s Claude Max Pricing."
+          }
+        ],
         "AI valuation": []
       }
     },
@@ -397,14 +500,14 @@
         "Bolt AI": [],
         "Windsurf AI": [
           {
-            "url": "https://x.com/windsurf_ai/status/1892716240076251577",
-            "search_title": "x.com/windsurf_ai/status/1892716240076251577",
-            "search_snippet": "Tweet from Windsurf (@windsurf_ai)."
-          },
-          {
             "url": "https://x.com/windsurf_ai/status/1912559033392984229",
             "search_title": "Link to x.com",
             "search_snippet": "The site owner hides the web page description."
+          },
+          {
+            "url": "https://x.com/windsurf_ai/status/1892716240076251577",
+            "search_title": "x.com/windsurf_ai/status/1892716240076251577",
+            "search_snippet": "Tweet from Windsurf (@windsurf_ai)."
           }
         ],
         "Devin AI": [],
@@ -433,7 +536,13 @@
     "tier5_discovery": {
       "label": "🔭 新产品发现层（赛道通用词，捕捉未知新产品）",
       "keywords": {
-        "new AI agent launch": [],
+        "new AI agent launch": [
+          {
+            "url": "https://x.com/AnthropicAI/status/1949898502688903593",
+            "search_title": "x.com/AnthropicAI/status/1949898502688903593",
+            "search_snippet": "Anthropic unveils new rate limits to curb some extreme usages of Claude Code."
+          }
+        ],
         "open source AI agent": [],
         "personal AI agent": [],
         "AI coding agent": [],
@@ -443,33 +552,29 @@
       }
     }
   },
-  "totalResults": 68,
-  "failedKeywords": 30,
+  "totalResults": 89,
+  "failedKeywords": 26,
   "failedKeywordsList": [
     "Cursor",
     "Gemini",
     "Sundar Pichai",
-    "DeepSeek-V4",
     "DeepSeek V4",
     "DS-V4",
     "梁文锋",
     "Grok",
     "Copilot",
     "Meta AI",
-    "vibe coding",
     "AI replace jobs",
     "open source AI",
     "AI agent",
     "AI ARR revenue",
     "AI startup funding",
-    "AI pricing",
     "AI valuation",
     "Manus AI",
     "Lovable AI",
     "Bolt AI",
     "Devin AI",
     "Hermes Agent",
-    "new AI agent launch",
     "open source AI agent",
     "personal AI agent",
     "AI coding agent",
