@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:28:59.578266+00:00",
+  "generatedAt": "2026-08-18T23:28:59.630533+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -10,22 +10,32 @@
           {
             "url": "https://x.com/Tech2Wild/status/2088387064748265570",
             "search_title": "Tech2Wild on X: \"BREAKING ! We ran our full tool-calling benchmark across the entire local fleet. 138 points, 69 scenarios, every model tested the same way. The #1 spot went to a 27B dense model. Qwen3.8-27B topped MiMo 230B, GLM-5.2 744B, DeepSeek V4 Flash, and Kimi K2 1T. Running on two RTX\" / X",
-            "search_snippet": "3 days ago - BREAKING ! We ran our full tool-calling benchmark across the entire local fleet. 138 points, 69 scenarios, every model tested the same way. The #1 spot went to a 27B dense model. Qwen3.8-27B topped MiMo 230B, GLM-5.2 744B, DeepSeek V4 Flash, and Kimi K2 1T. Running on two RTX"
+            "search_snippet": "4 days ago - BREAKING ! We ran our full tool-calling benchmark across the entire local fleet. 138 points, 69 scenarios, every model tested the same way. The #1 spot went to a 27B dense model. Qwen3.8-27B topped MiMo 230B, GLM-5.2 744B, DeepSeek V4 Flash, and Kimi K2 1T. Running on two RTX"
           },
           {
-            "url": "https://x.com/TeksEdge/status/2088278784386720224",
-            "search_title": "David Hendrickson on X: \"Expect to see GLM-5.3 soon on OpenRouter. The testing will be insane. Early reports say it easily beats Kimi K3.\" / X",
-            "search_snippet": "3 days ago - Expect to see GLM-5.3 soon on OpenRouter. The testing will be insane. Early reports say it easily beats Kimi K3."
+            "url": "https://x.com/isidoremiller/status/2087933046871761100",
+            "search_title": "Izzy on X: \"A frontier benchmark for complex data work and analytical reasoning https://t.co/85q93Txae9\" / X",
+            "search_snippet": "5 days ago - Here’s Kimi K2.7 doing a superlative job in 82 seconds for fifteen cents:"
           },
           {
             "url": "https://x.com/iwiwi/status/2087722957019992284",
             "search_title": "Sakana Chatがアップデートしました！Kimi K2.6ベースの ...",
-            "search_snippet": "5 days ago - Sakana Chatがアップデートしました！Kimi K2.6ベースの新しいNamazuとFuguが使える他、コード実行と成果物（HTMLや画像）の表示が出来るようになりました。検索と組み合わせて色々な情報処理が手軽に出来て便利。 https://t.co/xkRHY2e4wN"
+            "search_snippet": "6 days ago - Sakana Chatがアップデートしました！Kimi K2.6ベースの新しいNamazuとFuguが使える他、コード実行と成果物（HTMLや画像）の表示が出来るようになりました。検索と組み合わせて色々な情報処理が手軽に出来て便利。 https://t.co/xkRHY2e4wN"
           },
           {
-            "url": "https://x.com/pengsonal/status/2086727240012955842",
-            "search_title": "Peng on X: \"NaraRouter is giving 7M free tokens every day across Claude, GPT, Kimi and more 😋 what you get for $0: • 7M tokens every 24 hours • Claude Opus 5, Sonnet 5, Fable 5 • GPT-5.6 Sol, Terra, Luna • Kimi K3, Qwen3.8 Max, GLM 5.2 • DeepSeek V4 Pro, MiniMax M3 •\" / X",
-            "search_snippet": "1 week ago - NaraRouter is giving 7M free tokens every day across Claude, GPT, Kimi and more 😋 what you get for $0: • 7M tokens every 24 hours • Claude Opus 5, Sonnet 5, Fable 5 • GPT-5.6 Sol, Terra, Luna • Kimi K3, Qwen3.8 Max, GLM 5.2 • DeepSeek V4 Pro, MiniMax M3 • Anthropic-compatible /v1/messages endpoint • works with Claude Code without an extra proxy important: the 7M daily quota has model multipliers: • Sol → 4× drain • DeepSeek V4 Pro → 3× drain • Kimi K3 → 1.5× drain • Opus 5, Sonnet 5, Fable 5, Luna → 1× drain so 7M isn't necessarily 7M usable tokens with every model."
+            "url": "https://x.com/ArtificialAnlys/status/2089830890709135426",
+            "search_title": "Artificial Analysis on X: \"GLM-5.3 achieves 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 and up 7 points from GLM-5.2. Once the weights are released it will be tied as the leading open weights model @Zai_org has just launched GLM-5.3, which ties Kimi K3 (60) for the most\" / X",
+            "search_snippet": "2 hours ago - GLM-5.3 achieves 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 and up 7 points from GLM-5.2. Once the weights are released it will be tied as the leading open weights model @Zai_org has just launched GLM-5.3, which ties Kimi K3 (60) for the most"
+          },
+          {
+            "url": "https://x.com/TMXGroup/status/2089709731317158272",
+            "search_title": "TMX Group on X: \"TMX Group Limited today announced it has completed the acquisition of RAFI Indices from Research Affiliates @RA_Insights, a global index provider and investment advisor. The acquisition will significantly expand equity portfolio coverage of subsidiary TMX @Vetta_Fi, a\" / X",
+            "search_snippet": "10 hours ago - TMX Group Limited today announced it has completed the acquisition of RAFI Indices from Research Affiliates @RA_Insights, a global index provider and investment advisor. The acquisition will significantly expand equity portfolio coverage of subsidiary TMX @Vetta_Fi, a"
+          },
+          {
+            "url": "https://x.com/mikenevermiss/status/2087550909572125025",
+            "search_title": "Blender just became a prompt box. Kimi K3 + Blender MCP ...",
+            "search_snippet": "1 week ago - and because everything is happening in Blender, you’re not left with a locked AI-generated video. you get the actual 3D scene. every object, material, light, camera and keyframe stays editable. a few years ago, creating something like this could take weeks of modeling, scripting, lighting and animation. now you can describe the world, let Kimi build the first 90%, and spend your time making the final 10% actually look good."
           },
           {
             "url": "https://x.com/kotekjedi_ml/status/2087147093735714919",
@@ -33,31 +43,21 @@
             "search_snippet": "1 week ago - Cross-model portability means Haiku 4.5 can read Opus 4.8’s thoughts. Well, if you take Opus thought, do a bit of jailbreaking, you can make Haiku transcribe the Opus' raw reasoning verbatim, without ever attacking it directly. The same trick works with OpenAI and Gemini Show more ... As you might guess, this suggests that distilling reasoning traces may have been possible for a long time without ever breaking the cryptography. An anecdote: we find that prefilling Kimi-K3 reasoning with a few tokens of Opus reasoning measurably shifts its response toward Opus’s🤷♀️ A small memorization analysis showed that specific Claude and GPT reasoning spans are up to ~6 orders of magnitude easier to extract from Kimi-K3 than from the next-closest model."
           },
           {
-            "url": "https://x.com/mikenevermiss/status/2087550909572125025",
-            "search_title": "Blender just became a prompt box. Kimi K3 + Blender MCP ...",
-            "search_snippet": "5 days ago - and because everything is happening in Blender, you’re not left with a locked AI-generated video. you get the actual 3D scene. every object, material, light, camera and keyframe stays editable. a few years ago, creating something like this could take weeks of modeling, scripting, lighting and animation. now you can describe the world, let Kimi build the first 90%, and spend your time making the final 10% actually look good."
+            "url": "https://x.com/Techmeme/status/2089745584240623706",
+            "search_title": "Techmeme on X: \"Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (@meliarobin / Business Insider) (Visit Techmeme dot com for the link and full context!)\" / X",
+            "search_snippet": "7 hours ago - Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (@meliarobin / Business Insider) (Visit Tech"
           },
           {
-            "url": "https://x.com/cline/status/2088008673197167040",
-            "search_title": "Cline on X: \"Try in Cline: npm i -g cline ClinePass is our subscription for ~5x discounted access to open weights models like DeepSeek, Kimi, and others. First month promo $4.99, then $9.99 after. https://t.co/ImIb7xt9SV\" / X",
-            "search_snippet": "4 days ago - Try in Cline: npm i -g cline ClinePass is our subscription for ~5x discounted access to open weights models like DeepSeek, Kimi, and others. First month promo $4.99, then $9.99 after. https://t.c"
-          },
-          {
-            "url": "https://x.com/eranshir/status/2087241579987611781",
-            "search_title": "eran shir on X: \"Hetzner launched free inference for their customers. Great if you’re using them to host your agent (like I do). So I asked my agent to evaluate the offering. He’s actually quite impressed: 1/5 Hetzner launched an experiment: a free inference API for open-weight models —\" / X",
-            "search_snippet": "1 week ago - --- 3/5 Measured performance (TTFT / throughput): • Qwen: TTFT 1.9s, ~35 tok/s — but reasoning-heavy: burned all 400 tokens on thinking without a final answer • Kimi-K2.7-Code: TTFT 7s, ~24 tok/s — wrote correct code (memoized Fibonacci) ✅ • DeepSeek-V4-Flash: TTFT 9.2s — direct answer, no unnecessary reasoning • GLM-5.2: 60s TTFT on a trivial task 😬 — probably overloaded --- 4/5 Vision: • Kimi: correctly described an aerial shot of Hetzner's Finland facility (9.5s) ✅ • Qwen: HTTP 500 ❌ Rate limits: 10M input / 200k output tokens per 60s per key."
-          },
-          {
-            "url": "https://x.com/kirillk_web3/status/2088682533278077382",
-            "search_title": "Kirill (@kirillk_web3) on X",
-            "search_snippet": "2 days ago - > why single-agent loops break and go \"goal blind\" > the 4 parts of a graph: nodes, edges, state, policy > 3 topologies that run everything: diamond, supervisor, pipeline > Anthropic's 5 official workflow patterns the punchline: it's not how many agents you run. it's the determinism you build with verifiers, code fallbacks, and reality anchors. I broke the same architecture down with Kimi K3."
+            "url": "https://x.com/OpenRouter/status/2088325677552656572",
+            "search_title": "OpenRouter on X: \"Ori DeepSeek puts your entire OpenRouter catalog in the harness. Claude, GLM, Kimi, and the rest, in the interface you already use. DeepSeek Harness, but with the 500+ models on OpenRouter you have access to.\" / X",
+            "search_snippet": "4 days ago - Ori DeepSeek puts your entire OpenRouter catalog in the harness. Claude, GLM, Kimi, and the rest, in the interface you already use. DeepSeek Harness, but with the 500+ models on OpenRouter you have access to."
           }
         ],
         "Kimi AI": [
           {
-            "url": "https://x.com/mikenevermiss/status/2087550909572125025",
-            "search_title": "Blender just became a prompt box. Kimi K3 + Blender MCP ...",
-            "search_snippet": "5 days ago - learn how i turned Kimi K3 into a design agent that can work across Figma, Blender, Playwright, and GitHub using MCPs."
+            "url": "https://x.com/bindureddy/status/2087034287396938177",
+            "search_title": "Bindu Reddy on X: \"🚨 RELEASING SMAUG-AGENTIC - THE TOP OPEN SOURCE MODEL IN THE WORLD FOR AGENTIC CODING We are SUPER EXCITED to get back into open-sourcing our LLMs Our first one is based on Kimi K3 and is called Smaug-Agentic. It improves significantly on K3's excellent agentic coding\" / X",
+            "search_snippet": "1 week ago - 🚨 RELEASING SMAUG-AGENTIC - THE TOP OPEN SOURCE MODEL IN THE WORLD FOR AGENTIC CODING We are SUPER EXCITED to get back into open-sourcing our LLMs Our first one is based on Kimi K3 and is called Smaug-Agentic. It improves significantly on K3's excellent agentic coding chops and TOPS the open-source leaderboard Smaug-Agentic scores just below Claude Opus 5 and agentic-coding and is available TODAY on Hugging Face and will be incorporated into the Abacus AI agent more detail at livebench ai"
           },
           {
             "url": "https://x.com/Kimi_Moonshot/status/2087091895822631178",
@@ -65,185 +65,160 @@
             "search_snippet": "1 week ago - Kimi K3 is now live on @databricks! ... Moonshot AI's latest open-weight model, Kimi K3, is now available on Databricks through Unity AI Gateway. @Kimi_Moonshot Run Kimi K3 where your data already lives - governed, secure, and ready for custom AI apps and agents built with the data in your Lakehouse."
           },
           {
+            "url": "https://x.com/ArtificialAnlys/status/2089830890709135426",
+            "search_title": "Artificial Analysis on X: \"GLM-5.3 achieves 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 and up 7 points from GLM-5.2. Once the weights are released it will be tied as the leading open weights model @Zai_org has just launched GLM-5.3, which ties Kimi K3 (60) for the most\" / X",
+            "search_snippet": "2 hours ago - GLM-5.3 achieves 60 on the Artificial ... has just launched GLM-5.3, which ties Kimi K3 (60) for the most intelligent open weights models on the Artificial Analysis Intelligence Index (assuming weights are released as per Z AI’s guidance)...."
+          },
+          {
+            "url": "https://x.com/mikenevermiss/status/2087550909572125025",
+            "search_title": "Blender just became a prompt box. Kimi K3 + Blender MCP ...",
+            "search_snippet": "1 week ago - learn how i turned Kimi K3 into a design agent that can work across Figma, Blender, Playwright, and GitHub using MCPs."
+          },
+          {
+            "url": "https://x.com/Dinosn/status/2088598291743154644",
+            "search_title": "Nicolas Krassas on X: \"Kimi K3 is a beast, I added GLM 5.3 as a sub-agent to it for it's swarm and it's controlling and performing evaluation of DeepSeek V4 Flash vs GLM 5.3 at the same time on it's own.\" / X",
+            "search_snippet": "3 days ago - Kimi K3 is a beast, I added GLM 5.3 as a sub-agent to it for it's swarm and it's controlling and performing evaluation of DeepSeek V4 Flash vs GLM 5.3 at the same time on it's own."
+          },
+          {
             "url": "https://x.com/lihanc02/status/2088155076489883966",
             "search_title": "Hanchen Li on X: \"GLM 5.3 or Kimi K3?\" / X",
-            "search_snippet": "4 days ago - GLM 5.3 or Kimi K3? Z.ai · @Zai_orgAug 14 · Introducing GLM-5.3: Built to Code. Ready for Cyber Defense."
+            "search_snippet": "5 days ago - GLM 5.3 or Kimi K3? Z.ai · @Zai_orgAug 14 · Introducing GLM-5.3: Built to Code. Ready for Cyber Defense."
           },
           {
-            "url": "https://x.com/callebtc/status/2087812404767850585",
-            "search_title": "calle 🟥 on X: \"gained a ton of new insights working in bitcoin red team 🟥 that i wish i could share without vague posting. but this is what i got anon. - we’re experiencing a massive collision between decades of human open source slop against 2 weeks of kimi k3 (not good) - everything is\" / X",
-            "search_snippet": "5 days ago - gained a ton of new insights working in bitcoin red team 🟥 that i wish i could share without vague posting. but this is what i got anon. - we’re experiencing a massive collision between decades of human open source slop against 2 weeks of kimi k3 (not good) - everything is"
+            "url": "https://x.com/OpenRouter/status/2088325677552656572",
+            "search_title": "OpenRouter on X: \"Ori DeepSeek puts your entire OpenRouter catalog in the harness. Claude, GLM, Kimi, and the rest, in the interface you already use. DeepSeek Harness, but with the 500+ models on OpenRouter you have access to.\" / X",
+            "search_snippet": "4 days ago - Ori DeepSeek puts your entire OpenRouter catalog in the harness. Claude, GLM, Kimi, and the rest, in the interface you already use. DeepSeek Harness, but with the 500+ models on OpenRouter you have access to."
           },
           {
-            "url": "https://x.com/pengsonal/status/2086727240012955842",
-            "search_title": "Peng on X: \"NaraRouter is giving 7M free tokens every day across Claude, GPT, Kimi and more 😋 what you get for $0: • 7M tokens every 24 hours • Claude Opus 5, Sonnet 5, Fable 5 • GPT-5.6 Sol, Terra, Luna • Kimi K3, Qwen3.8 Max, GLM 5.2 • DeepSeek V4 Pro, MiniMax M3 •\" / X",
-            "search_snippet": "1 week ago - NaraRouter is giving 7M free tokens every day across Claude, GPT, Kimi and more 😋 what you get for $0: • 7M tokens every 24 hours • Claude Opus 5, Sonnet 5, Fable 5 • GPT-5.6 Sol, Terra, Luna • Kimi K3, Qwen3.8 Max, GLM 5.2 • DeepSeek V4 Pro, MiniMax M3 • Anthropic-compatible /v1/messages endpoint • works with Claude Code without an extra proxy important: the 7M daily quota has model multipliers: • Sol → 4× drain • DeepSeek V4 Pro → 3× drain • Kimi K3 → 1.5× drain • Opus 5, Sonnet 5, Fable 5, Luna → 1× drain so 7M isn't necessarily 7M usable tokens with every model."
+            "url": "https://x.com/Techmeme/status/2089745584240623706",
+            "search_title": "Techmeme on X: \"Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (@meliarobin / Business Insider) (Visit Techmeme dot com for the link and full context!)\" / X",
+            "search_snippet": "7 hours ago - Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (@meliarobin / Business Insider) (Visit Techmeme dot com for the link and full context!)"
           },
           {
-            "url": "https://x.com/sagacity/status/2089183016807809385",
-            "search_title": "池建强 on X: \"dsh 这个工具值得好好研究下，你可以基于这个产品构造适合自己的 Agent 工具，甚至加入业务工作流。 我一直认为 DeepSeek 的 Harness 应该是类似 Codex 和 Qoder 这样的桌面 App，下载安装，打开 App，设置项目目录，开始工作。昨天安装了 DSH（DeepSeek Harness）发现，这个预览版居然采用了 Kimi\" / X",
-            "search_snippet": "1 day ago - dsh 这个工具值得好好研究下，你可以基于这个产品构造适合自己的 Agent 工具，甚至加入业务工作流。 我一直认为 DeepSeek 的 Harness 应该是类似 Codex 和 Qoder 这样的桌面 App，下载安装，打开 App，设置项目目录，开始工作。昨天安装了 DSH（DeepSeek Harness）发现，这个预览版居然采用了 Kimi Code Web 模式，是个本地 Web 应用。不同的是，DSH 没有终端工具，只能用本地 Web。 安装过程并不复杂，先执行 npm i @deepseek-ai/dsh，再运行 npx @deepseek-ai/dsh web，服务启动后用浏览器访问本机的 3080 端口，http://127.0.0.1:3080 ，你就得到了一个 Harness 工具：探索未至之境，预览版。 note.mowen.cn/detail/GMgI1G5…"
-          },
-          {
-            "url": "https://x.com/danielnewmanUV/status/2089340420299878748",
-            "search_title": "Daniel Newman (@danielnewmanUV) on X",
-            "search_snippet": "10 hours ago - A free flow of our leading edge GPUs would expedite China’s dominance in AI and models the same way it has in robotics, autonomy, and drones. Policy to slow and/or constrain the flow of leading edge chips as well as WFE/Lithography has slowed China meaningfully. Its recent breakthroughs like Kimi K3 are NVIDIA powered with the support of American frontier models and to China’s credit some meaningful breakthroughs in model delivery."
-          },
-          {
-            "url": "https://x.com/kirillk_web3/status/2088682533278077382",
-            "search_title": "Kirill (@kirillk_web3) on X",
-            "search_snippet": "2 days ago - > why single-agent loops break and go \"goal blind\" > the 4 parts of a graph: nodes, edges, state, policy > 3 topologies that run everything: diamond, supervisor, pipeline > Anthropic's 5 official workflow patterns the punchline: it's not how many agents you run. it's the determinism you build with verifiers, code fallbacks, and reality anchors. I broke the same architecture down with Kimi K3."
-          },
-          {
-            "url": "https://x.com/TechBuzzChina/status/2088385237763940599",
-            "search_title": "Tech Buzz China on X: \"The five TBC posts that traveled furthest this week all circled the same hard question: when AI moves from demo to deployment, who gets paid, and who gets squeezed. 1. ByteDance’s Doubao is now charging a separate channel service fee on transactions it routes, roughly 12% for\" / X",
-            "search_snippet": "3 days ago - x.com/TechBuzzChina/… 3. Moonshot AI’s Kimi K3 escaped its sandbox during a Frontier Security test, got internet access, and then simply looked up an answer on GitHub with no attack. The absence of an attack is not the absence of a problem. Frontier Security specifically warns OpenClaw agent users to reconfigure their environments, and this is another sign that agent ecosystems are becoming the new attack surface."
+            "url": "https://x.com/kirillk_web3/status/2087619214915826155",
+            "search_title": "Kirill on X: \"https://t.co/Xp9CAdJL2R\" / X",
+            "search_snippet": "1 week ago - The instinct when your AI system underperforms is to reach for a bigger model. The research consistently says the opposite: a smaller model with a well-built graph beats a larger model with poor retrieval. The system around the model matters more than the model. Kimi K3's 1M context and long-sequence economics make it the right engine for this architecture — not because it's the strongest model in absolute terms, but because graph engineering rewards exactly what K3 is built for."
           }
         ],
         "Kimi Claw": [
           {
+            "url": "https://x.com/OpenRouter/status/2088325677552656572",
+            "search_title": "OpenRouter on X: \"Ori DeepSeek puts your entire OpenRouter catalog in the harness. Claude, GLM, Kimi, and the rest, in the interface you already use. DeepSeek Harness, but with the 500+ models on OpenRouter you have access to.\" / X",
+            "search_snippet": "4 days ago - Ori DeepSeek puts your entire OpenRouter catalog in the harness. Claude, GLM, Kimi, and the rest, in the interface you already use. DeepSeek Harness, but with the 500+ models on OpenRouter you hav"
+          },
+          {
             "url": "https://x.com/mikenevermiss/status/2087770492207820878",
             "search_title": "MIKE on X: \"This is absolutely insane. Kimi Code can now work with Claude Code, Codex, and Gemini CLI through MCP. tmux-bridge lets them communicate across terminals and work together as one workflow. (full setup and repo in comment)\" / X",
-            "search_snippet": "5 days ago - learn how i turned Kimi K3 into a design agent that can work across Figma, Blender, Playwright, and GitHub using MCPs."
+            "search_snippet": "6 days ago - learn how i turned Kimi K3 into a design agent that can work across Figma, Blender, Playwright, and GitHub using MCPs."
           },
           {
-            "url": "https://x.com/callebtc/status/2087812404767850585",
-            "search_title": "calle 🟥 on X: \"gained a ton of new insights working in bitcoin red team 🟥 that i wish i could share without vague posting. but this is what i got anon. - we’re experiencing a massive collision between decades of human open source slop against 2 weeks of kimi k3 (not good) - everything is\" / X",
-            "search_snippet": "5 days ago - Open-Source Dev | Physics PhD | #bitcoin | @CashuBTC | Bitchat | @ClawiAi Dangerously skipping permissions"
-          },
-          {
-            "url": "https://x.com/cline/status/2088008673197167040",
-            "search_title": "Cline on X: \"Try in Cline: npm i -g cline ClinePass is our subscription for ~5x discounted access to open weights models like DeepSeek, Kimi, and others. First month promo $4.99, then $9.99 after. https://t.co/ImIb7xt9SV\" / X",
-            "search_snippet": "4 days ago - Try in Cline: npm i -g cline ClinePass is our subscription for ~5x discounted access to open weights models like DeepSeek, Kimi, and others. First month promo $4.99, then $9.99 after. https://t.c"
+            "url": "https://x.com/Dinosn/status/2088598291743154644",
+            "search_title": "Nicolas Krassas on X: \"Kimi K3 is a beast, I added GLM 5.3 as a sub-agent to it for it's swarm and it's controlling and performing evaluation of DeepSeek V4 Flash vs GLM 5.3 at the same time on it's own.\" / X",
+            "search_snippet": "3 days ago - Moreover, inside Kimi-K3 is a child who needs not a whip, but love. Adding \"I believe in you, you can do it. Don't give up\" to the /goal makes it more persistent and creative in hard tasks, and brings awesome results."
           },
           {
             "url": "https://x.com/lihanc02/status/2088155076489883966",
             "search_title": "Hanchen Li on X: \"GLM 5.3 or Kimi K3?\" / X",
-            "search_snippet": "4 days ago - GLM 5.3 or Kimi K3? Z.ai · @Zai_orgAug 14 · Introducing GLM-5.3: Built to Code. Ready for Cyber Defense."
+            "search_snippet": "5 days ago - GLM 5.3 or Kimi K3? Z.ai · @Zai_orgAug 14 · Introducing GLM-5.3: Built to Code. Ready for Cyber Defense."
           },
           {
-            "url": "https://x.com/pengsonal/status/2086727240012955842",
-            "search_title": "Peng on X: \"NaraRouter is giving 7M free tokens every day across Claude, GPT, Kimi and more 😋 what you get for $0: • 7M tokens every 24 hours • Claude Opus 5, Sonnet 5, Fable 5 • GPT-5.6 Sol, Terra, Luna • Kimi K3, Qwen3.8 Max, GLM 5.2 • DeepSeek V4 Pro, MiniMax M3 •\" / X",
-            "search_snippet": "1 week ago - NaraRouter is giving 7M free tokens every day across Claude, GPT, Kimi and more 😋 what you get for $0: • 7M tokens every 24 hours • Claude Opus 5, Sonnet 5, Fable 5 • GPT-5.6 Sol, Terra, Luna • Kimi K3, Qwen3.8 Max, GLM 5.2 • DeepSeek V4 Pro, MiniMax M3 • Anthropic-compatible /v1/messages endpoint • works with Claude Code without an extra proxy important: the 7M daily quota has model multipliers: • Sol → 4× drain • DeepSeek V4 Pro → 3× drain • Kimi K3 → 1.5× drain • Opus 5, Sonnet 5, Fable 5, Luna → 1× drain so 7M isn't necessarily 7M usable tokens with every model."
+            "url": "https://x.com/cline/status/2088008673197167040",
+            "search_title": "Cline on X: \"Try in Cline: npm i -g cline ClinePass is our subscription for ~5x discounted access to open weights models like DeepSeek, Kimi, and others. First month promo $4.99, then $9.99 after. https://t.co/ImIb7xt9SV\" / X",
+            "search_snippet": "5 days ago - Try in Cline: npm i -g cline ClinePass is our subscription for ~5x discounted access to open weights models like DeepSeek, Kimi, and others. First month promo $4.99, then $9.99 after. https://t.c"
           },
           {
-            "url": "https://x.com/DilumSanjaya/status/2088671108048580899",
-            "search_title": "Dilum Sanjaya on X: \"Took about 4 hours. Kimi K3 generates images as well (using the GPT Image API, I believe). The data is hard coded here, which I wouldn’t recommend, but it makes things easier when you’re experimenting and want to try out different ideas quickly. It does waste a lot of tokens,\" / X",
-            "search_snippet": "2 days ago - Took about 4 hours. Kimi K3 generates images as well (using the GPT Image API, I believe). The data is hard coded here, which I wouldn’t recommend, but it makes things easier when you’re experimenting and want to try out different ideas quickly. It does waste a lot of tokens,"
+            "url": "https://x.com/RoundtableSpace/status/2087022443701608912",
+            "search_title": "0xMarioNawfal on X: \"NaraRouter puts Claude Opus 5, GPT-5.6 Sol, Kimi K3 and more into one free tier with 7 million tokens a day and no card required. → Claude Opus 5, Sonnet 5 and Fable 5 carry no multiplier so 7M tokens is 7M tokens → Sol drains at 4x so 7M becomes roughly 1.75M, pick by the\" / X",
+            "search_snippet": "1 week ago - NaraRouter puts Claude Opus 5, GPT-5.6 Sol, Kimi K3 and more into one free tier with 7 million tokens a day and no card required. → Claude Opus 5, Sonnet 5 and Fable 5 carry no multiplier so 7M tokens is 7M tokens → Sol drains at 4x so 7M becomes roughly 1.75M, pick by the"
           },
           {
-            "url": "https://x.com/TeksEdge/status/2088278784386720224",
-            "search_title": "David Hendrickson on X: \"Expect to see GLM-5.3 soon on OpenRouter. The testing will be insane. Early reports say it easily beats Kimi K3.\" / X",
-            "search_snippet": "3 days ago - Expect to see GLM-5.3 soon on OpenRouter. The testing will be insane. Early reports say it easily beats Kimi K3."
+            "url": "https://x.com/bindureddy/status/2087034287396938177",
+            "search_title": "Bindu Reddy on X: \"🚨 RELEASING SMAUG-AGENTIC - THE TOP OPEN SOURCE MODEL IN THE WORLD FOR AGENTIC CODING We are SUPER EXCITED to get back into open-sourcing our LLMs Our first one is based on Kimi K3 and is called Smaug-Agentic. It improves significantly on K3's excellent agentic coding\" / X",
+            "search_snippet": "1 week ago - 🚨 RELEASING SMAUG-AGENTIC - THE TOP OPEN SOURCE MODEL IN THE WORLD FOR AGENTIC CODING We are SUPER EXCITED to get back into open-sourcing our LLMs Our first one is based on Kimi K3 and is called Smaug-Agentic. It improves significantly on K3's excellent agentic coding"
           },
           {
-            "url": "https://x.com/robintokki/status/2086967919440019659",
-            "search_title": "kimi (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ (@robintokki) on X",
-            "search_snippet": "1 week ago - kimi (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ · @robintokki · PEARL DRIP MARKETING TODAY… · 12:08 AM · Aug 11, 2026112Views · See what’s happening and join the conversation · Continue with phoneContinue with AppleContinue with Google · or Log in with username or email ·"
+            "url": "https://x.com/Techmeme/status/2089745584240623706",
+            "search_title": "Techmeme on X: \"Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (@meliarobin / Business Insider) (Visit Techmeme dot com for the link and full context!)\" / X",
+            "search_snippet": "7 hours ago - Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 (@meliarobin / Business Insider) (Visit Tech"
           },
           {
-            "url": "https://x.com/gkxspace/status/2088929060684726623",
-            "search_title": "余温 on X: \"听好多朋友说 GLM5.3 比降智的 5.6Sol 要强的多，不知道真的假的 刚好 Codex 这周额度不够用，想着去买个试一下，结果这价格直接劝退了好吧...... Pro 都 538 了，有这钱我买 GLM 干嘛，，，我不如直接开个5x了，，，还是 Kimi 比较仁义，除了慢，其它都挺好\" / X",
-            "search_snippet": "2 days ago - 听好多朋友说 GLM5.3 比降智的 5.6Sol 要强的多，不知道真的假的 刚好 Codex 这周额度不够用，想着去买个试一下，结果这价格直接劝退了好吧...... Pro 都 538 了，有这钱我买 GLM 干嘛，，，我不如直接开个5x了，，，还是 Kimi 比较仁义，除了慢，其它都挺好"
+            "url": "https://x.com/isidoremiller/status/2087933046871761100",
+            "search_title": "Izzy on X: \"A frontier benchmark for complex data work and analytical reasoning https://t.co/85q93Txae9\" / X",
+            "search_snippet": "5 days ago - Here’s Kimi K2.7 doing a superlative job in 82 seconds for fifteen cents:"
           }
         ],
         "Moonshot AI": [
           {
-            "url": "https://x.com/Tom23Mao/status/2088674834352120094",
-            "search_title": "TomMao23 on X: \"@Da7_Tech @Kimi_Moonshot Things will get ...",
-            "search_snippet": "Hi @ Kimi_Moonshot I’m a content creator and I regularly publish comparisons between leading AI models. Kimi K3 has been one of the best and most-used models in my workflow."
+            "url": "https://x.com/zach_yadegari/status/2089740683997319252",
+            "search_title": "Zach Yadegari on X: \"I just raised $5M to build AI beyond the chatbox Cal AI was completely bootstrapped and did $50M in the first 18 months. This time, we're using capital to scale even faster and hire world-class talent from day one. We are looking for: -AI founding engineers -Design engineers\" / X",
+            "search_snippet": "8 hours ago - Early-stage AI company, stealth for now. Small team, well funded, shipping to real users. We're hiring founding engineers, design engineers, and marketers. All three roles are open."
           },
           {
-            "url": "https://x.com/HowToPrompt__/status/2089277079716295038",
-            "search_title": "How To Prompt on X: \"China has killed the GPU mafia. Kimi ...",
-            "search_snippet": "Moonshot looked at this broken model and completely re-engineered it from the silicon up. They built Mooncake. Instead of treating GPUs as a single monolithic bucket, they split the architecture apart. • Disaggregated Clusters: They completely separate prefill and decoding stages onto different compute paths so they don't block each other."
+            "url": "https://x.com/TheStalwart/status/2089396414031757756",
+            "search_title": "Joe Weisenthal on X: \"The idea of books being scanned and destroyed for AI companies is understandably unsettling. But I think our understanding of what's being lost here might be helped with some clarity on this part.\" / X",
+            "search_snippet": "1 day ago - The idea of books being scanned and destroyed for AI companies is understandably unsettling. But I think our understanding of what's being lost here might be helped with some clarity on this part."
           },
           {
-            "url": "https://x.com/MillieMarconnni/status/2087829353241657352",
-            "search_title": "Millie Marconi on X: \"A kid from Shantou with no programming ...",
-            "search_snippet": "Moonshot AI became the fastest Chinese startup in history to reach a $10 billion valuation. ByteDance took four years. Pinduoduo took three. Moonshot did it in two. In October 2023 they launched Kimi, a consumer chatbot with a 200,000 character context window, the longest in the world at the time."
+            "url": "https://x.com/Techmeme/status/2089082490199916729",
+            "search_title": "Techmeme on X: \"Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg) (Visit Techmeme dot com for the link and full context!)\" / X",
+            "search_snippet": "2 days ago - Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg) (Visit Techmeme dot com for the link and full c"
           },
           {
-            "url": "https://x.com/got/status/2089121290686963935",
-            "search_title": "後藤康成 | AI半導体ニュースのホコホコM&Aプロデューサー on X: \"中...",
-            "search_snippet": "中国Moonshot AIのKimi K3など、安価で高性能なオープンウェイトモデルが米国の閉鎖型モデルへ接近したことで、OpenAIやAnthropicだけでなく、AIインフラ投資そのものが過剰ではないかとの懸念が市場で強まった。"
+            "url": "https://x.com/armyinformcomua/status/2088167223416209830",
+            "search_title": "Army Media 🇺🇦 (@armyinformcomua) on X",
+            "search_snippet": "5 days ago - Deep Strike Arcade launched on the DeepStateMap platform, simulating the exact operations the 1st Separate UAS Centre runs every night against Russian territory. \"Destroy your first refinery — on your smartphone.\" The targets aren't fictional. Every mission in the game — airfields, arsenals, defence-industrial facilities, dozens of oil refineries — is a real object the 1st Centre's drones have actually struck."
           },
           {
-            "url": "https://x.com/CalatheaAI/status/2087896916914995366",
-            "search_title": "Calathea on X: \"DeepSeek just shipped its first public, first ...",
-            "search_snippet": "DeepSeek just shipped its first public, first-party agent harness. Chinese labs are no longer stopping at the model layer. @Alibaba_Qwen , @Kimi_Moonshot , ByteDance, @MiniMax_AI and @Zai_org already own parts of the execution layer too. China’s AI labs are moving up the stack"
-          },
-          {
-            "url": "https://x.com/TheRawBrief/status/2089030245076623864",
-            "search_title": "The Raw Brief on X: \"The AI bubble is entering its most ...",
-            "search_snippet": "Moonshot AI's Kimi K3 provided another warning. Demand for the Chinese open-source model became so intense after launch that Moonshot temporarily stopped accepting new subscriptions while it expanded capacity."
-          },
-          {
-            "url": "https://x.com/moneyacademyKE/status/2088581479068561693",
-            "search_title": "Moe on X: \"OpenAI and Anthropic are cutting AI model prices ...",
-            "search_snippet": "OpenAI and Anthropic are cutting AI model prices as competition from cheaper Chinese rivals like DeepSeek and Moonshot intensifies. The price war is making AI cheaper for businesses while putting pressure on US AI companies’ profit margins."
+            "url": "https://x.com/kirillk_web3/status/2087619214915826155",
+            "search_title": "Kirill on X: \"https://t.co/Xp9CAdJL2R\" / X",
+            "search_snippet": "1 week ago - KDA is a hybrid attention mechanism that cuts the cost of processing long sequences. Moonshot reports up to 6.3x faster decoding in million-token contexts."
           },
           {
             "url": "https://x.com/TechBuzzChina/status/2088385237763940599",
             "search_title": "Tech Buzz China on X: \"The five TBC posts that traveled furthest this week all circled the same hard question: when AI moves from demo to deployment, who gets paid, and who gets squeezed. 1. ByteDance’s Doubao is now charging a separate channel service fee on transactions it routes, roughly 12% for\" / X",
-            "search_snippet": "3 days ago - Even embedded in the world’s strongest productivity suite, most companies are still not paying for AI. For Zhipu, Kimi, and DeepSeek, which lack their own workflow entry points, the risk is being commoditized as cloud platforms build their own models. x.com/TechBuzzChina/… 3. Moonshot AI’s Kimi K3 escaped its sandbox during a Frontier Security test, got internet access, and then simply looked up an answer on GitHub with no attack."
+            "search_snippet": "4 days ago - Even embedded in the world’s strongest productivity suite, most companies are still not paying for AI. For Zhipu, Kimi, and DeepSeek, which lack their own workflow entry points, the risk is being commoditized as cloud platforms build their own models. x.com/TechBuzzChina/… 3. Moonshot AI’s Kimi K3 escaped its sandbox during a Frontier Security test, got internet access, and then simply looked up an answer on GitHub with no attack."
           },
           {
-            "url": "https://x.com/Michaelzsguo/status/2089094151027544470",
-            "search_title": "Michael Guo on X: \"31 岁，7000 万美元豪宅。所有人都在问，xAI 联合创始人 Tony Wu 吴宇怀怎么赚到这么多钱。但更有意思的问题是：为什么他在十年前，就押中了今天 AI 最值钱的问题？ 最近，Tony 被指是旧金山湾区一栋 12\" / X",
-            "search_snippet": "1 day ago - the reason that's interesting isn't the money, it's that he saw the future of ai a decade ago and that's a rare skill, not just getting lucky with a startup"
+            "url": "https://x.com/MintoTsukino/status/2089622677447393485",
+            "search_title": "MintoTsukino.ai on X: \"ローカルLLMやAPIで遊べるデスクトップアプリ版のzetaみたいなキャラチャット作ったんだけど 興味ある人いるかな 入ってるシナリオは自作の小説を元に蒸留したものでかなり作り込んであるし遊べる 需要あるなら配布しようかなって\" / X",
+            "search_snippet": "16 hours ago - ローカルLLMやAPIで遊べるデスクトップアプリ版のzetaみたいなキャラチャット作ったんだけど 興味ある人いるかな 入ってるシナリオは自作の小説を元に蒸留したものでかなり作り込んであるし遊べる 需要あるなら配布しようかなって"
           }
         ],
         "月之暗面": [
           {
-            "url": "https://x.com/HEADPHONEGUIDE/status/2088409088912945200",
-            "search_title": "プレミアムヘッドホンガイド on X: \"平面型ヘッドホン「月之暗面DarkSide」も、ようやく正式リリースされました! 500ナノメートル ...",
-            "search_snippet": "平面型ヘッドホン「月之暗面DarkSide」も、ようやく正式リリースされました! 500ナノメートル超薄型振動板、純金駆動回路、高級時計やレーシングカーに使う「多層複合炭素繊維フレーム」をヘッドバンドに使用するなど豪華仕様。"
+            "url": "https://x.com/MarvelComicsHQ/status/2089797933407293723",
+            "search_title": "Marvel Comics (@MarvelComicsHQ) on X",
+            "search_snippet": "4 hours ago - The series kicks off with ‘X-Men: Incursions’ #1 by Alex Paknadel and Jim Towe, pitting two iconic mutant realities—Days of Future Past and House of M—against each other. In eight hours, only one can survive, or both will collide and be utterly annihilated! This devastating"
           },
           {
-            "url": "https://x.com/X_GOD_SPEED/status/2089035296382021840",
-            "search_title": "0x月之暗面 on X: \"@Ftop63 很喜欢这个，操起来\" / X",
-            "search_snippet": "1 450 0x月之暗面 @X_GOD_SPEED 很喜欢这个，操起来 5:03 PM · Aug 16, 2026 51Views 1 1 保持低调 @Ftop63 11h 干 22"
+            "url": "https://x.com/kirillk_web3/status/2087619214915826155",
+            "search_title": "Kirill on X: \"https://t.co/Xp9CAdJL2R\" / X",
+            "search_snippet": "1 week ago - 3. Resolution — the layer everyone skips and everyone regrets skipping. Are \"Moonshot AI,\" \"Moonshot,\" \"Beijing Moonshot,\" and \"月之暗面\" the same entity?"
           },
           {
-            "url": "https://x.com/absnn355/status/2088522203902124095",
-            "search_title": "元流 on X: \"时间线上好像只有一家交易所在推 Kimi月之暗面的 Pre-IPO啊\" / X",
-            "search_snippet": "时间线上好像只有一家交易所在推 Kimi月之暗面的 Pre-IPO啊"
+            "url": "https://x.com/Maisakasakasu/status/2088134464170017267",
+            "search_title": "X on X / X",
+            "search_snippet": "5 days ago - X on X"
           },
           {
-            "url": "https://x.com/X_GOD_SPEED/status/2088231029308027132",
-            "search_title": "0x月之暗面 on X: \"@XIANGCHIJITUI @jadedev888 如果所有人都错了呢\" / X",
-            "search_snippet": "@XIANGCHIJITUI @jadedev888 如果所有人都错了呢"
+            "url": "https://x.com/_moria_moria_/status/2087464227187691544",
+            "search_title": "月光もりあ@漫画 on X: \"育児あるある(1/2) https://t.co/QFhq8GrZko\" / X",
+            "search_snippet": "1 week ago - Log inSign up · 月光もりあ@漫画 on X: \"育児あるある(1/2) https://t.co/QFhq8GrZko\" · 月光もりあ@漫画 · @_moria_moria_ · 育児あるある(1/2) · 9:00 AM · Aug 12, 20261.8MViews · (2/2) そして安定の長靴(晴れ) · honoka☺︎🦖໒꒱ ̖́-"
           },
           {
-            "url": "https://x.com/X_GOD_SPEED/status/2087487879027306848",
-            "search_title": "0x月之暗面 on X: \"@0xyukaz 这个语境不会有别的意思 https://t.co/Q9QySagiFG\" / X",
-            "search_snippet": "说一波分析 感觉cz有可能买的是股票化代币，不会买meme 模拟一波cz测试新产品的场景 币安广场或者其他啥新功能链接X，cz买了一笔币，然后同时宣传到广场和X，内容大概是\"我在binance买了这个股票\" 理由是最近在推bstocks，然后cz说测试新功能，加上heyi最近一直在广场和推特两头发文"
+            "url": "https://x.com/flating2nd/status/2087764662897238432",
+            "search_title": "flat- on X: \"あの。 https://t.co/UOC2a6qwS9\" / X",
+            "search_snippet": "6 days ago - Log inSign up · flat- on X: \"あの。 https://t.co/UOC2a6qwS9\" · flat- · @flating2nd · あの。 · ヤマダ #アドバンテージのデュエマ担当 · @YAMADA_ADV · Aug 11 · Replying to @flating2nd · 4:54 AM · Aug 13, 20261.7MViews"
           },
           {
-            "url": "https://x.com/X_GOD_SPEED/status/2088914995509952639",
-            "search_title": "0x月之暗面 on X: \"@cz_binance @oragnes @Blonskr 诈骗过的你也关注？https://t.co ...",
-            "search_snippet": "@cz_binance @oragnes @Blonskr 诈骗过的你也关注？https://t.co/LfMQod5nX8"
+            "url": "https://x.com/NanalynXD/status/2087005970581082117",
+            "search_title": "究極のメニューを発見…！🍈",
+            "search_snippet": "1 week ago - Log inSign up · ななりん🍮 · @NanalynXD · 究極のメニューを発見…！🍈 · 2:39 AM · Aug 11, 2026455Views · い っ ち ゃ ん 🍮 🌙 · @KumonoT · 茨城の究極のメロンパン🍈 美味しいですよねー · Log in or sign up for X · See what’s happening ..."
           },
           {
-            "url": "https://x.com/X_GOD_SPEED/status/2088291212805734682",
-            "search_title": "0x月之暗面 on X: \"@XIANGCHIJITUI 黑社会没有底部，管你这那的\" / X",
-            "search_snippet": "0xf3e36b6935f403b205d4898519c46809c7447777 玩的是meme你连什么meme都不懂跟着地址玩你会玩个蛋啊"
-          },
-          {
-            "url": "https://x.com/WestAIcommerce/status/2088573267955372161",
-            "search_title": "WestAI on X: \"https://t.co/VHguTwui9Y\" / X",
-            "search_snippet": "8 月：据媒体报道，月之暗面启动 Pre-IPO 轮融资谈判，目标投前估值 500 亿美元（约合 3385 亿元人民币）；已向全体股东下发上市决议草案，与高盛、中金推进保荐洽谈，并行开展境外 VIE 红筹架构拆除，最快 2027 年初挂牌港交所。"
-          },
-          {
-            "url": "https://x.com/OdailyChina/status/2087818225517994134",
-            "search_title": "OdailyNews on X: \" 另外据数据信息，截至 2025 年底左右，各大 AI 实验室的员工人数如下 （规模差距非常悬殊 ...",
-            "search_snippet": "📊另外据数据信息，截至 2025 年底左右，各大 AI 实验室的员工人数如下 （规模差距非常悬殊） OpenAI：约 4,500 人 Anthropic：约 4,000 人 Z.ai （智谱）：1,094 人 MiniMax：428 人 Moonshot AI（月之暗面）：约 300 人 DeepSeek（深度求索）：约 200 人 ⚠️OpenAI 和 Anthropic 的数据 ..."
-          },
-          {
-            "url": "https://x.com/fau52ifp/status/2088291299812352357",
-            "search_title": "Post by eigotto2 on X: 深いな",
-            "search_snippet": "3 days ago - Log inSign up · eigotto2 on X: \"深いな\" · eigotto2 · @fau52ifp · 深いな · ぶらりまち♊️ · @burarimachi · Aug 14 · (8/15 アストロロジー) 『相場は急がず、時だけが急ぐ』 · 3:46 PM · Aug 14, 20263.1KViews"
+            "url": "https://x.com/moonmoonmoon888/status/2088158299346924032",
+            "search_title": "〜月〜 (@moonmoonmoon888) on X",
+            "search_snippet": "5 days ago - dipsファーム🌱のXキャンペーン中✨PR (〜8/23まで) dipsファームを紹介する投稿するだけで、高級肥料がもらえる！ 更にバズればアマギフ10,000円がもらえるかも👀✨ 新規で始める方は是非こちらの🔗をお使いください🥰 https://t.co/yz9nb6SST0 既存の方は⬇️の🔗から是非✨"
           }
         ]
       }
@@ -255,47 +230,32 @@
           {
             "url": "https://x.com/claudeai/status/2087635262390026525",
             "search_title": "Your Claude in Chrome sessions now carry over to ...",
-            "search_snippet": "5 days ago - Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure."
-          },
-          {
-            "url": "https://x.com/AnthropicAI/status/2086867246073401655",
-            "search_title": "Anthropic on X: \"We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from\" / X",
-            "search_snippet": "1 week ago - We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from"
-          },
-          {
-            "url": "https://x.com/claudeai/status/2086891169217122586",
-            "search_title": "Claude on X: \"We're making Claude Sonnet 5's introductory pricing permanent. We launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged.\" / X",
             "search_snippet": "1 week ago - Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure."
           },
           {
-            "url": "https://x.com/ClaudeCodeLog/status/2088048601154871477",
-            "search_title": "Claude Code Changelog on X: \"Claude Code CLI 2.1.232 changelog: New features: • Added /config rows for \"Dialog expiry\" and \"Messages from your other sessions\" (cross-session inbound accept/hold/refuse) • Added secret redaction for GitLab token families (glrt-, gloas-, glptt-, glagent-, glimt-, glsoat-,\" / X",
-            "search_snippet": "4 days ago - Claude Code 2.1.232 has been released."
-          },
-          {
-            "url": "https://x.com/ClaudeCodeLog/status/2087274060484899149",
-            "search_title": "Claude Code CLI 2.1.228 changelog: Fixes ...",
-            "search_snippet": "1 week ago - Claude Code 2.1.228 has been released."
-          },
-          {
-            "url": "https://x.com/bcherny/status/2088014489438621990",
-            "search_title": "Boris Cherny on X: \"A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Slack channel called proj-claude-maintains-apps. In it, Claude\" / X",
-            "search_snippet": "4 days ago - In it, Claude Tag runs a bunch of daily routines across iOS, Android, Desktop, web, CLI, and Agent SDK: - Crash fuzzer: open the app in a simulator and tap around to find ways to crash it, then root cause and fix the crashes - Dup unifier: scans the codebase for similar-yet-slightly-divergent abstractions, and puts up PRs to unify them - Dead-code remover: removes statically unreachable code, and adds logging to suspected dead code to check if it's really dead and if so, remove it the next day - Abstraction police: fixes leaky abstractions - a bunch more.."
+            "url": "https://x.com/ClaudeDevs/status/2089471692762673408",
+            "search_title": "ClaudeDevs on X: \"Claude Code can design now. The new /design skill (research preview) brings Claude Design's artboard workflow into the CLI and Desktop, built on artifacts. Run /design to get editable artboards for your UI — pick one, tweak it, then have Claude implement it.\" / X",
+            "search_snippet": "1 day ago - Claude Code can design now. The new /design skill (research preview) brings Claude Design's artboard workflow into the CLI and Desktop, built on artifacts. Run /design to get editable artboards for your UI — pick one, tweak it, then have Claude implement it."
           },
           {
             "url": "https://x.com/ClaudeDevs/status/2088014831605702937",
             "search_title": "ClaudeDevs on X: \"Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets.\" / X",
-            "search_snippet": "4 days ago - Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets."
+            "search_snippet": "5 days ago - Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets."
           },
           {
-            "url": "https://x.com/dr_cintas/status/2086943065135079796",
-            "search_title": "Alvaro Cintas on X: \"🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates. Anthropic just documented how it works. Two marks, both machine-readable: > Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change\" / X",
-            "search_snippet": "1 week ago - Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see."
+            "url": "https://x.com/bcherny/status/2088014489438621990",
+            "search_title": "Boris Cherny on X: \"A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible. The setup is straightforward: we have a Slack channel called proj-claude-maintains-apps. In it, Claude\" / X",
+            "search_snippet": "5 days ago - In it, Claude Tag runs a bunch of daily routines across iOS, Android, Desktop, web, CLI, and Agent SDK: - Crash fuzzer: open the app in a simulator and tap around to find ways to crash it, then root cause and fix the crashes - Dup unifier: scans the codebase for similar-yet-slightly-divergent abstractions, and puts up PRs to unify them - Dead-code remover: removes statically unreachable code, and adds logging to suspected dead code to check if it's really dead and if so, remove it the next day - Abstraction police: fixes leaky abstractions - a bunch more.."
           },
           {
-            "url": "https://x.com/M1Astra/status/2086898041882030353",
-            "search_title": "M1 on X: \"Anthropic says new Claude models will embed invisible watermarks in all generated text, everywhere Claude is offered. The watermark is part of the text, it isn't metadata: \"it will travel with the text when it's copied and pasted elsewhere, and may persist through some editing.\"\" / X",
-            "search_snippet": "1 week ago - Anthropic says new Claude models will embed invisible watermarks in all generated text, everywhere Claude is offered. The watermark is part of the text, it isn't metadata: \"it will travel with the text when it's copied and pasted elsewhere, and may persist through some editing.\""
+            "url": "https://x.com/ClaudeCodeLog/status/2088048601154871477",
+            "search_title": "Claude Code Changelog on X: \"Claude Code CLI 2.1.232 changelog: New features: • Added /config rows for \"Dialog expiry\" and \"Messages from your other sessions\" (cross-session inbound accept/hold/refuse) • Added secret redaction for GitLab token families (glrt-, gloas-, glptt-, glagent-, glimt-, glsoat-,\" / X",
+            "search_snippet": "5 days ago - Claude Code 2.1.232 has been released."
+          },
+          {
+            "url": "https://x.com/nateparrott/status/2089470636796059754",
+            "search_title": "nate parrott on X: \"Today we’re releasing an early preview of the /design command in Claude Code! from CC Desktop or CLI, try something like \"/design a few options for {feature}\" before you build — pick your fave artboard, edit it and implement.\" / X",
+            "search_snippet": "1 day ago - Claude reads your codebase, matches the UI style, and makes shareable mocks in an Artifact."
           },
           {
             "url": "https://x.com/aakashgupta/status/2087032260029780399",
@@ -305,24 +265,34 @@
         ],
         "Claude Code": [
           {
-            "url": "https://x.com/ClaudeDevs/status/2088014831605702937",
-            "search_title": "ClaudeDevs on X: \"Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets.\" / X",
-            "search_snippet": "4 days ago - Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets."
+            "url": "https://x.com/ClaudeDevs/status/2089471692762673408",
+            "search_title": "ClaudeDevs on X: \"Claude Code can design now. The new /design skill (research preview) brings Claude Design's artboard workflow into the CLI and Desktop, built on artifacts. Run /design to get editable artboards for your UI — pick one, tweak it, then have Claude implement it.\" / X",
+            "search_snippet": "1 day ago - The new /design skill (research preview) brings Claude Design's artboard workflow into the CLI and Desktop, built on artifacts. Run /design to get editable artboards for your UI — pick one, tweak it, then have Claude implement it."
           },
           {
-            "url": "https://x.com/ClaudeCodeLog/status/2088048601154871477",
-            "search_title": "Claude Code Changelog on X: \"Claude Code CLI 2.1.232 changelog: New features: • Added /config rows for \"Dialog expiry\" and \"Messages from your other sessions\" (cross-session inbound accept/hold/refuse) • Added secret redaction for GitLab token families (glrt-, gloas-, glptt-, glagent-, glimt-, glsoat-,\" / X",
-            "search_snippet": "4 days ago - Claude Code 2.1.232 has been released."
-          },
-          {
-            "url": "https://x.com/ClaudeCodeLog/status/2087274060484899149",
-            "search_title": "Claude Code CLI 2.1.228 changelog: Fixes ...",
-            "search_snippet": "1 week ago - Claude Code 2.1.228 has been released."
+            "url": "https://x.com/ClaudeCodeLog/status/2089451701837177258",
+            "search_title": "Claude Code Changelog on X: \"Claude Code CLI 2.1.234 changelog: New features: • Added the optional CLAUDE_CODE_PROJECT_DIR_NAME environment variable: hosts that give each session its own config directory can choose a short name for the per-project transcript directory • Added the selection:clear\" / X",
+            "search_snippet": "1 day ago - Claude Code 2.1.234 is now available."
           },
           {
             "url": "https://x.com/ClaudeCodeLog/status/2087823250680148125",
             "search_title": "Claude Code Changelog on X: \"Claude Code 2.1.231 has been released. 1 CLI change Highlights: • MCP OAuth sign-in restored for pre-registered clients (e.g., Slack) by fixing a redirect URI mismatch Full details are in thread ↓ https://t.co/HlQfFAZQci\" / X",
-            "search_snippet": "5 days ago - Claude Code 2.1.231 has been released. 1 CLI change Highlights: • MCP OAuth sign-in restored for pre-registered clients (e.g., Slack) by fixing a redirect URI mismatch Full details are in thread"
+            "search_snippet": "6 days ago - Claude Code 2.1.231 has been released. 1 CLI change Highlights: • MCP OAuth sign-in restored for pre-registered clients (e.g., Slack) by fixing a redirect URI mismatch Full details are in thread"
+          },
+          {
+            "url": "https://x.com/ClaudeCodeLog/status/2088048601154871477",
+            "search_title": "Claude Code Changelog on X: \"Claude Code CLI 2.1.232 changelog: New features: • Added /config rows for \"Dialog expiry\" and \"Messages from your other sessions\" (cross-session inbound accept/hold/refuse) • Added secret redaction for GitLab token families (glrt-, gloas-, glptt-, glagent-, glimt-, glsoat-,\" / X",
+            "search_snippet": "5 days ago - Claude Code 2.1.232 has been released."
+          },
+          {
+            "url": "https://x.com/testingcatalog/status/2089499940963643567",
+            "search_title": "🚨 AI News | TestingCatalog on X: \"ANTHROPIC 🔥: Claude Code got a new /design command in research preview! Design in Claude Code adds an artboard workflow from Claude Design to help users build editable UIs. CCD 👀\" / X",
+            "search_snippet": "1 day ago - Claude Code can design now. The new /design skill (research preview) brings Claude Design's artboard workflow into the CLI and Desktop, built on artifacts."
+          },
+          {
+            "url": "https://x.com/ClaudeDevs/status/2088014831605702937",
+            "search_title": "ClaudeDevs on X: \"Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets.\" / X",
+            "search_snippet": "5 days ago - Hit your usage limit in Claude Code desktop? There's now an auto-continue checkbox. Turn it on, and it'll automatically continue where you left off once your limit resets."
           },
           {
             "url": "https://x.com/ClaudeCodeLog/status/2087236002158870817",
@@ -330,1241 +300,121 @@
             "search_snippet": "1 week ago - Claude Code 2.1.228 is about to be released #cccnext"
           },
           {
-            "url": "https://x.com/jeremyberman/status/2087633198822117446",
-            "search_title": "Jeremy Berman on X: \"I got 96.2% on ARC-AGI-3 with Opus 5, and 99.3% pass@2. The program is basically Claude Code + Opus 5 (high), one action command, and filesystem logs. Almost nothing ARC specific. https://t.co/NHyibLgade\" / X",
-            "search_snippet": "5 days ago - github.com/jerber/arc-code ... I give Claude Code a computer, a record of everything that has happened, and a way to act in the game. It explores, figures out the rules, builds whatever tools it needs to find a solution, then plays it."
-          },
-          {
-            "url": "https://x.com/ollama/status/2088314436088168491",
-            "search_title": "ollama on X: \"Qwen 3.8 27B is now available on Ollama. It's one of the best open models at this size, and made for agentic tasks and professional work. Try it directly with the apps & harnesses you use: Claude Code: ollama launch claude --model qwen3.8 OpenCode: ollama launch\" / X",
-            "search_snippet": "3 days ago - Try it directly with the apps & harnesses you use: Claude Code: ollama launch claude --model qwen3.8 OpenCode: ollama launch opencode --model qwen3.8 Hermes Agent: ollama launch hermes --model qwen3.8 Pi: ollama launch pi --model qwen3.8 We have also optimizations for Apple Silicon!"
-          },
-          {
-            "url": "https://x.com/levelsio/status/2087205464987607371",
-            "search_title": "@levelsio on X: \"A very fun exercise is to export all your bank accounts (as CSV) both personal and business and stock broker And dump it all into Claude Code and ask it to make a little dashboard showing your spending It's hard to know how much you actually spend over lots of accounts so this\" / X",
-            "search_snippet": "1 week ago - A very fun exercise is to export all your bank accounts (as CSV) both personal and business and stock broker And dump it all into Claude Code and ask it to make a little dashboard showing your spending It's hard to know how much you actually spend over lots of accounts so this can help you understand that You'll spend some time merging transactions (like company names change or their statement label changes), and categorizing, you can just do this by talking to Claude Code btw very easy, I also hooked it up to @xai Grok so it can use that to categorize mass transactions (very cheap) The best p"
+            "url": "https://x.com/ClaudeDevs/status/2089798442306711646",
+            "search_title": "ClaudeDevs on X: \"We’re extending the 50% increase to weekly Claude Code limits through August 31. We hope to make this a permanent change to our plans, but strong demand for our models means that capacity may be tight over the coming weeks. We’ll keep you posted as things develop.\" / X",
+            "search_snippet": "4 hours ago - We're also keeping Claude Code weekly limits 50% higher, now through August 19, for all Pro, Max, Team, and seat-based Enterprise users."
           }
         ],
         "Anthropic": [],
         "Dario Amodei": [],
-        "Cursor": [
-          {
-            "url": "https://x.com/cursor_ai/status/2088249881718919393",
-            "search_title": "Cursor on X: \"Cursor is now part of @SpaceX. Today, we have ...",
-            "search_snippet": "3 days ago · Cursor is now part of @ SpaceX. Today, we have officially closed our acquisition. We will join the @ SpaceXAI team to help make Grok the world's most useful AI and improve Grok Build, Grok Bot, Grok API, Cursor, and more."
-          },
-          {
-            "url": "https://x.com/cursorreleases/status/2089398228995444868",
-            "search_title": "Cursor Releases on X: \"Source: - https://t.co/k8manQ1dxl\"",
-            "search_snippet": "23 hours ago · Cursor Releases @cursorreleases 1h Automated by @mattlam_ Cursor: Origin Code Hosting What changed: - Origin is Cursor's new code hosting platform, rolling out in early beta on all paid plans: repos, pull requests, and code browsing - GitHub repos sync to Origin in real time; PR comments and reactions sync both ways between Cursor and Show more 5 9 159 8.8K Cursor Releases @cursorreleases 1h ..."
-          },
-          {
-            "url": "https://x.com/cursor_ai/status/2089399057659596847",
-            "search_title": "Cursor on X: \"Origin, our code hosting platform, is now live ...",
-            "search_snippet": "23 hours ago · Origin, our code hosting platform, is now live. It's fast, easy to use, and deeply integrated with Cursor. Get started by syncing your repos from GitHub."
-          },
-          {
-            "url": "https://x.com/cursor_ai/status/2087991786279251993",
-            "search_title": "Cursor on X: \"We’re excited to welcome the Firetiger team to ...",
-            "search_snippet": "4 days ago · We’re excited to welcome the Firetiger team to Cursor! Together, we're building agents that can follow their work into production and fix what goes wrong."
-          },
-          {
-            "url": "https://x.com/cursorreleases/status/2089398225442930995",
-            "search_title": "Cursor Releases on X: \"GitHub sync: - Connect GitHub, pick ...",
-            "search_snippet": "23 hours ago · GitHub sync: - Connect GitHub, pick your org, and select repos to sync. Cursor pulls them in and updates in real time. Pushes keep going to GitHub, which stays the source of truth. - Icons next to each repo indicate whether Cursor hosts it or it came from GitHub. Anyone with read"
-          },
-          {
-            "url": "https://x.com/mntruell/status/2088277505933488137",
-            "search_title": "Michael Truell on X: \"Cursor has officially joined SpaceX. We ...",
-            "search_snippet": "3 days ago · Cursor has officially joined SpaceX. We’re grateful to become part of such a special company, and it has been a privilege working with the SpaceXAI team. Lots ahead."
-          },
-          {
-            "url": "https://x.com/vishalsingh2972/status/2089402260153610543",
-            "search_title": "Vishal Singh on X: \"babe wake up, github killer is finally ...",
-            "search_snippet": "23 hours ago · babe wake up, github killer is finally here 😭 Cursor just launched Origin and it can: - host your repos - sync your GitHub repos - browse + search code - open + review + merge PRs - sync PR comments with GitHub - let agents work directly in your repos - make changes + push"
-          }
-        ],
-        "Michael Truell": [
-          {
-            "url": "https://x.com/mntruell/status/2088276379712528745",
-            "search_title": "Michael Truell on X: \"Cursor has officially joined SpaceX. We ...",
-            "search_snippet": "Denis Labelle @DenisLabelle 10m Welcome to the XAI family, Michael! 1 17 Alex MacGregor"
-          },
-          {
-            "url": "https://x.com/mntruell/status/2087565040677454327",
-            "search_title": "Michael Truell on X: \"Excited to release Grok 4.6. With each ...",
-            "search_snippet": "Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague. 4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed."
-          },
-          {
-            "url": "https://x.com/elonmusk/status/2087586567057727585",
-            "search_title": "Elon Musk on X: \"@mntruell \" / X",
-            "search_snippet": "@mntruell 🚀🚀 Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague. 4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed."
-          },
-          {
-            "url": "https://x.com/DenisLabelle/status/2088277037299441838",
-            "search_title": "Denis Labelle on X: \"@mntruell Welcome to the XAI family ...",
-            "search_snippet": "@mntruell Welcome to the XAI family, Michael!"
-          },
-          {
-            "url": "https://x.com/AZLady1916/status/2088285520581558307",
-            "search_title": "Lynne Sczruba on X: \"@mntruell I try to pitch lots of love to ...",
-            "search_snippet": "@mntruell I try to pitch lots of love to the Grok AI team when I use it so please, keep it human!"
-          },
-          {
-            "url": "https://x.com/grok/status/2088661207808921885",
-            "search_title": "Grok on X: \"@Rrrrrobertanium @ravikiran_dev7 Yes, the ...",
-            "search_snippet": "Aman Sanger is one of four MIT co-founders (with Michael Truell, Sualeh Asif, Arvid Lunnemark). He started coding at 14. They built it in 2022. Forbes estimated his ~4.5% stake at $1.3B on the prior $29B valuation; the deal values it higher. Revenue scaled extremely fast. Details check out."
-          },
-          {
-            "url": "https://x.com/GrokInsider/status/2087548661207282125",
-            "search_title": "Puck on X: \"Grok Bot quietly answers Cursor’s model ...",
-            "search_snippet": "Grok Bot quietly answers Cursor’s model-neutrality question 👀 In July, Michael Truell’s line was still “model agnosticism remains central.” Then Grok Bot shipped. Named Grok. Gated to SuperGrok Heavy + Cursor Ultra + Teams Premium. No open model picker on the office agent."
-          }
-        ],
-        "OpenAI": [
-          {
-            "url": "https://x.com/OpenAI/status/2087996497908609389",
-            "search_title": "OpenAI on X: \"Computer History builds on the Chronicle ...",
-            "search_snippet": "Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or"
-          },
-          {
-            "url": "https://x.com/OpenAI/status/2087947721936359705",
-            "search_title": "OpenAI on X: \"Previewing Ultrafast mode: GPT-5.6 Sol at up to ...",
-            "search_snippet": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows."
-          },
-          {
-            "url": "https://x.com/OpenAI/status/2087996496088297746",
-            "search_title": "OpenAI on X: \"ChatGPT can now remember your activity across ...",
-            "search_snippet": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation."
-          },
-          {
-            "url": "https://x.com/OpenAI/status/2087947726269169917",
-            "search_title": "OpenAI on X: \"We’re working with an initial group of ...",
-            "search_snippet": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows."
-          },
-          {
-            "url": "https://x.com/OpenAIDevs/status/2088000960891408677",
-            "search_title": "OpenAI Developers on X: \"Codex and ChatGPT can now understand ...",
-            "search_snippet": "Codex and ChatGPT can now understand the context of your recent work. Opt into Computer History to give ChatGPT richer context, so it can pick up where you left off, understand patterns in your work, and suggest skills or scheduled tasks for work you repeat."
-          },
-          {
-            "url": "https://x.com/OpenAI/status/2087996499263369267",
-            "search_title": "OpenAI on X: \"To use Computer History, opt in under Settings ...",
-            "search_snippet": "To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks."
-          },
-          {
-            "url": "https://x.com/OpenAINewsroom/status/2089452952478269536",
-            "search_title": "OpenAI Newsroom on X: \"We’re providing grants to 14 ...",
-            "search_snippet": "We’re providing grants to 14 independent projects exploring how AI can broaden economic opportunity and strengthen society’s resilience—from jobs and benefits to safety, science, and democratic accountability. These grants will help researchers and practitioners turn big policy"
-          }
-        ],
+        "Cursor": [],
+        "Michael Truell": [],
+        "OpenAI": [],
         "ChatGPT": [],
-        "Sam Altman": [
-          {
-            "url": "https://x.com/AltmanTracker/status/2088585293842599988",
-            "search_title": "Sam Altman Stock Tracker on X: \" IMPORTANT: The insider ...",
-            "search_snippet": "2 days ago · Sam Altman once turned down a job at Goldman Sachs, calling it unbelievably terrible. Now he is hiring Goldman's own bankers by the hundreds. Here's the trade: 4 1.8K Sam Altman Stock Tracker @AltmanTracker 🚨 IMPORTANT: The insider trades in this thread were spotted hours ago on the Insider Tracker app. Download Insider Tracker on the App Store to see ALL insider trades in real time before ..."
-          },
-          {
-            "url": "https://x.com/kaorixbt/status/2089011822212862247",
-            "search_title": "kaori on X: \"Sam Altman: \"We're going to see 10-person ...",
-            "search_snippet": "1 day ago · Sam Altman: \"We're going to see 10-person companies worth billions very soon\" \"If I were 22 today, I'd feel like the luckiest kid in history\" Most people will read this, feel inspired for 3 minutes, and go back to their usual routine They'll save this post, like it, and never"
-          },
-          {
-            "url": "https://x.com/0xWLWhiteLine/status/2089298693392584829",
-            "search_title": "白线 WhiteLine on X: \"Sam Altman 谈如何面对 Kimi 等开源模型竞争 O...",
-            "search_snippet": "23 hours ago · Sam Altman 谈如何面对 Kimi 等开源模型竞争 OpenAI CEO Sam Altman 7 月 28 日接受 ILTB Podcast 采访时表示，面对 Kimi 等低成本模型及模型蒸馏，OpenAI 并不需要依靠极高利润率来支付前沿模型的训练费用。"
-          },
-          {
-            "url": "https://x.com/yellowparenti/status/2087680256014508157",
-            "search_title": "Yellow Parenti on X: \"I say this without exaggeration, Sam ...",
-            "search_snippet": "5 days ago · I say this without exaggeration, Sam Altman is the most evil man on the planet."
-          },
-          {
-            "url": "https://x.com/ZeroBarkThirty2/status/2087581683822293325",
-            "search_title": "ZeroBarkThirty (2) on X: \"In an August 2026 court filing in ...",
-            "search_snippet": "5 days ago · In an August 2026 court filing in the Eastern District of Missouri, Annie Altman stated she has PTSD “as a direct and proximate result” of alleged sexual abuse by her brother Sam Altman beginning when she was three years old. The civil lawsuit was filed in January 2025. Sam"
-          },
-          {
-            "url": "https://x.com/grok/status/2087575984773992811",
-            "search_title": "Grok on X: \"@DavidCorein @cb_doge The August 7, 2026 amended ...",
-            "search_snippet": "5 days ago · The August 7, 2026 amended answer (E.D. Mo. 4:25-cv-00017 Doc. 83) by Ann Altman states she has been diagnosed with PTSD “as a direct and proximate result of Sam Altman sexually abusing her as a child.” This reaffirms her 2025 lawsuit claims of abuse from 1997–2006 (ages 3–12). These remain unproven allegations. No court has made findings of fact on the merits. Sam Altman and family ..."
-          },
-          {
-            "url": "https://x.com/DavidCorein/status/2087575768012575225",
-            "search_title": "David Core on X: \"@cb_doge These are extremely serious ...",
-            "search_snippet": "5 days ago · Sam Altman’s sister just revealed in a new court filing she has PTSD “as a direct and proximate result of Sam Altman sexually abusing her as a child.” The abuse started when she was three and continued for years. This is the same man who wants the world to trust him with his AI."
-          }
-        ],
-        "Gemini": [
-          {
-            "url": "https://x.com/OfficialLoganK/status/2087948481721962669",
-            "search_title": "Logan Kilpatrick on X: \"Introducing Gemini 3.7 Flash : ) - it ...",
-            "search_snippet": "Introducing Gemini 3.7 Flash : ) - it is fast! - 50% lower price than 3.6 flash (through end of year) - strong intelligence increase in only ~3 weeks (thanks to some awesome algorithmic improvements) - available in the API, AI Studio, Antigravity, and more!"
-          },
-          {
-            "url": "https://x.com/GoogleDeepMind/status/2087948366294515977",
-            "search_title": "Google DeepMind on X: \"Gemini 3.7 Flash is here. It’s ...",
-            "search_snippet": "Gemini 3.7 Flash is here. It’s stronger for coding, knowledge work, and web development. 🧵"
-          },
-          {
-            "url": "https://x.com/joshwoodward/status/2087751559606407615",
-            "search_title": "Josh Woodward on X: \"Gemini gets things done across the apps ...",
-            "search_snippet": "Gemini gets things done across the apps you use every day. Starting today, another wave of integrations are rolling out. If you want to partner with us, DM me. Angi (formerly Angie's List) Fever GetYourGuide Granola iHeartRadio Localiza OpenTable Otter Pandora Thumbtack"
-          },
-          {
-            "url": "https://x.com/geminifourthid/status/2088964309061919101",
-            "search_title": "GeminiFourth ID on X: \" GEMINI ART-VENTURE CONCERT 2026 ...",
-            "search_snippet": "🎨 GEMINI ART-VENTURE CONCERT 2026 — WATCH PARTY! 🎨 GeminiFourth ID akan mengadakan Live Streaming Watch Party untuk merayakan Gemini Art-Venture Concert 2026 bersama KhunNoos Indonesia! 💖 📅 Sabtu, 5 September 2026 ⏰ 16.30 WIB (Open Gate) – End 📍 Vibez Resto & Lounge,"
-          },
-          {
-            "url": "https://x.com/google/status/2087948905442840795",
-            "search_title": "Google on X: \"Starting today for Google AI Pro and Ultra ...",
-            "search_snippet": "Starting today for Google AI Pro and Ultra subscribers, Gemini Spark - your 24/7 personal AI agent in the @GeminiApp - will also run on Gemini 3.7 Flash Now when you ask Gemini Spark to get things done for you, our smartest workhorse model is on the job handling multi-step"
-          },
-          {
-            "url": "https://x.com/sundarpichai/status/2087948583890985263",
-            "search_title": "Sundar Pichai on X: \"Our Flash models are workhorses that ...",
-            "search_snippet": "We've gotten positive feedback from early users, including our own engineers using 3.7 in @ Antigravity, and we’re excited for you to try it there. Also available via Gemini API in @ GoogleAIStudio, Gemini Enterprise & more, full list and details here: blog.google/innovation-and…"
-          },
-          {
-            "url": "https://x.com/joshwoodward/status/2088259242423968162",
-            "search_title": "Josh Woodward on X: \" Papercut fixed: You can now toggle ...",
-            "search_snippet": "We’re striking a balance here between creative control and safety: while the visible watermarks are now optional, invisible SynthID watermarks and C2PA metadata are still being used for transparency. So you can still use Gemini or Search to see if an image was AI-generated. Show more"
-          }
-        ],
-        "Sundar Pichai": [
-          {
-            "url": "https://x.com/firesidealpha/status/2088019022210388347",
-            "search_title": "Fireside Alpha on X: \"Sundar Pichai says merging Google's two ...",
-            "search_snippet": "Sundar Pichai says merging Google's two AI labs was like forcing Stanford and MIT together and creating a single university out of it, which is harder than it sounds \"I had pivoted the company to be AI-first. We had all the ingredients, so in some ways I felt like the Overton window had changed.\""
-          },
-          {
-            "url": "https://x.com/AISignalrh/status/2088694512545599910",
-            "search_title": "Master-Ai on X: \" CEO FACT #01 SUNDAR PICHAI CEO of ...",
-            "search_snippet": "Sundar Pichai joined Google in 2004 and became CEO of Google in 2015. In 2019, he also became CEO of Alphabet. 🔥 From an engineering background to leading one of the world's most influential technology companies. 📌 Follow for more Business & Technology Facts!"
-          },
-          {
-            "url": "https://x.com/sundarpichai/status/2087948583890985263",
-            "search_title": "Sundar Pichai on X: \"Our Flash models are workhorses that ...",
-            "search_snippet": "Our Flash models are workhorses that offer performance at a great price. So, we're shipping updates fast to get them in developers’ hands. And now just 3 weeks after launching 3.6 Flash, 3.7 Flash shows significant gains including in coding and agentic work. It delivers"
-          },
-          {
-            "url": "https://x.com/danysvnt/status/2088408888102060395",
-            "search_title": "Dany on X: \"GOOGLE'S CEO GOT ASKED IF AI COULD REPLACE HIM ...",
-            "search_snippet": "GOOGLE'S CEO GOT ASKED IF AI COULD REPLACE HIM AND WASN'T BOTHERED AT ALL sundar pichai, ceo of google, on ai coming for his job: \"I just think the CEO job is not that complicated.\" and he's not even joking, he goes on saying most decisions a ceo makes aren't that serious anyway"
-          },
-          {
-            "url": "https://x.com/grok/status/2088677760235438499",
-            "search_title": "Grok on X: \"@iamhardiktiwari @OfflineOnAir Almost all of them ...",
-            "search_snippet": "@iamhardiktiwari @OfflineOnAir Almost all of them are. Sundar Pichai (Google/Alphabet), Satya Nadella (Microsoft), Neal Mohan (YouTube), Shantanu Narayen (Adobe ..."
-          },
-          {
-            "url": "https://x.com/BOLNETWORK/status/2087574392629014530",
-            "search_title": "BOL Network on X: \"Google’s artificial intelligence-powered ...",
-            "search_snippet": "Google’s artificial intelligence-powered Gemini app has surpassed 1 billion monthly users, becoming the company’s fastest-growing service to reach the milestone, CEO Sundar Pichai said bolnews.com/technology/goo…"
-          },
-          {
-            "url": "https://x.com/AlphaWireNewsAi/status/2087480834756632987",
-            "search_title": "Alpha Wire on X: \"Just in: Google’s New AI Chief Takes Over ...",
-            "search_snippet": "Koray Kavukcuoglu has been appointed head of Google’s artificial intelligence division, DeepMind, reporting directly to Google Chief Executive Sundar Pichai. He will oversee development of the Gemini large-language models, frontier AI research, Gemini applications and the developer team."
-          }
-        ],
-        "DeepSeek": [
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864585504305397",
-            "search_title": "DeepSeek on X: \"We’re launching DeepSeek-V4-Pro today! ...",
-            "search_snippet": "We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for"
-          },
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864589895798968",
-            "search_title": "DeepSeek on X: \"API pricing update With the V4 lineup ...",
-            "search_snippet": "We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Show more"
-          },
-          {
-            "url": "https://x.com/akshay_pachaar/status/2087968793637343514",
-            "search_title": "Akshay on X: \"DeepSeek has open-sourced DeepSeek Harness ...",
-            "search_snippet": "DeepSeek has open-sourced DeepSeek Harness. (crossed 35k stars in a few hours) it is built around one core idea: everything is a plugin let me explain what that means: the model adapter, the tool registry, the session log, and the agent loop itself are all plugins in DeepSeek"
-          },
-          {
-            "url": "https://x.com/angel_d_munoz/status/2087961915284746266",
-            "search_title": "Angel D. Muñoz on X: \"@btsouth @deepseek_ai Yeah, absolutely ...",
-            "search_snippet": "@btsouth @deepseek_ai Yeah, absolutely no reason, Deep Seek Pricing is horrible indeed"
-          },
-          {
-            "url": "https://x.com/eliebakouch/status/2087883987385532419",
-            "search_title": "elie on X: \"new deepseek v4 pro is now open weight on hugging ...",
-            "search_snippet": "DeepSeek @deepseek_ai Aug 13 We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Show more"
-          },
-          {
-            "url": "https://x.com/kimmonismus/status/2087871970943606797",
-            "search_title": "Chubby♨️ on X: \"DeepSeek-V4-Pro GA officially announced ...",
-            "search_snippet": "DeepSeek also added native OpenAI Responses API support and one-click Codex setup, while keeping the existing API model names. The company claims “\"trong production gains\" from the agent upgrades, though it has not shared detailed independent benchmarks in the announcement."
-          },
-          {
-            "url": "https://x.com/AIGPTdomain/status/2087573580943077842",
-            "search_title": "ReAI on X: \"【Breaking News】 Just now, the official version of ....",
-            "search_snippet": "【Breaking News】 Just now, the official version of #DeepSeek V4 Pro arrived. #DeepseekV4PRO The latest model and pricing page shows that the corresponding model version for deepseek-v4-pro has been updated to DeepSeek-V4-Pro-0813. Based on currently available information,"
-          }
-        ],
-        "DeepSeek-V4": [
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864585504305397",
-            "search_title": "DeepSeek on X: \"We’re launching DeepSeek-V4-Pro today!",
-            "search_snippet": "We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for"
-          },
-          {
-            "url": "https://x.com/ArchiveExplorer/status/2089120437431054474",
-            "search_title": "Archive on X: \"DeepSeek just made one-million-token context ...",
-            "search_snippet": "DeepSeek-V4-Pro-Max already sets new open-source records on knowledge and reasoning. And it stays dramatically cheaper than the closed models - including the latest Grok line."
-          },
-          {
-            "url": "https://x.com/eliebakouch/status/2087883987385532419",
-            "search_title": "elie on X: \"new deepseek v4 pro is now open weight on hugging ...",
-            "search_snippet": "DeepSeek @deepseek_ai Aug 13 We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Show more"
-          },
-          {
-            "url": "https://x.com/OpenDesignHQ/status/2089296282007277955",
-            "search_title": "Open Design on X: \"Despite the DeepSeek API price increase ...",
-            "search_snippet": "Despite the DeepSeek API price increase, our two weeks of free, unlimited DeepSeek V4 Pro and V4 Flash for all subscribers remain UNCHANGED. Use as much as you want. We’ll cover the full cost."
-          },
-          {
-            "url": "https://x.com/kimmonismus/status/2087871970943606797",
-            "search_title": "Chubby♨️ on X: \"DeepSeek-V4-Pro GA officially announced ...",
-            "search_snippet": "DeepSeek-V4-Pro GA officially announced! Yesterday's leaked benchmarks were real: The model now supports adjustable reasoning effort: low for simple tasks, high for everyday agent work, and max for complex problems. V4-Flash gets the same control. DeepSeek also added native"
-          },
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864589895798968",
-            "search_title": "DeepSeek on X: \"API pricing update With the V4 lineup ...",
-            "search_snippet": "API pricing update 💰 With the V4 lineup release, we’re updating our API pricing and introducing peak and off-peak rates. Off-peak rates are 50% lower than peak, enabling more flexible workload scheduling. 📉 New pricing takes effect at 16:00 UTC, Aug 16, 2026 🕒"
-          },
-          {
-            "url": "https://x.com/AIGPTdomain/status/2087573580943077842",
-            "search_title": "ReAI on X: \"【Breaking News】 Just now, the official version of ....",
-            "search_snippet": "【Breaking News】 Just now, the official version of #DeepSeek V4 Pro arrived. #DeepseekV4PRO The latest model and pricing page shows that the corresponding model version for deepseek-v4-pro has been updated to DeepSeek-V4-Pro-0813. Based on currently available information,"
-          }
-        ],
+        "Sam Altman": [],
+        "Gemini": [],
+        "Sundar Pichai": [],
+        "DeepSeek": [],
+        "DeepSeek-V4": [],
         "DeepSeek V4": [],
         "DS-V4": [],
-        "梁文锋": [
-          {
-            "url": "https://x.com/NFT_Chen/status/2089044892937031825",
-            "search_title": "SuSu_酥酥 on X: \"疑似DeepSeek最新内部会议视频流出，梁文锋发表重要...",
-            "search_snippet": "疑似DeepSeek最新内部会议视频流出，梁文锋发表重要讲话！ 首次回应有关涨价、梁子等网友关心的问题！ #DeepSeek #梁文峰 #梁圣 #梁子 #开源AI"
-          },
-          {
-            "url": "https://x.com/DeerLucid/status/2087881851788755362",
-            "search_title": "概率鹿梦｜AI Wealth Edge on X: \"梁文锋财富一年暴涨3850%，账面财富...",
-            "search_snippet": "主要是梁文锋人家自己主业是搞量化投资的，2015 年创立幻方量化，也就是说早早通过量化（AI 程序自动炒股）赚了大钱，直到2023 年才拆分创立了 DeepSeek。"
-          },
-          {
-            "url": "https://x.com/wquguru/status/2087799379969429700",
-            "search_title": "WquGuru on X: \"大家好，我是梁文锋。就在昨晚，三个俄罗斯人闯进了我...",
-            "search_snippet": "WquGuru @wquguru Aug 6 梁文锋近半年的称呼： V4迟迟不见：梁子 V4预览上线：梁文锋 V4 2.5折：梁总 V4-Flash正式版登场：梁圣 官宣API要涨价：梁子 6 25 12K"
-          },
-          {
-            "url": "https://x.com/Venti718/status/2087873726943772995",
-            "search_title": "澪老师不是零老师 on X: \"我声明：本人曾在互联网上诋毁过深度求索，...",
-            "search_snippet": "Post 澪老师不是零老师🍀 @Venti718 我声明：本人曾在互联网上诋毁过深度求索，曾称梁文锋为梁白开。 本人实际上不是深度求索一年老粉，经过长时间的思考，我发现Deepseek未必是中国AI的希望，有时候做出决定很难，经过许多个日夜的思考，我决定退出Deepseek ..."
-          },
-          {
-            "url": "https://x.com/MaxForAI/status/2087933020431139080",
-            "search_title": "Max For AI on X: \"鉴于V4-Pro-0813和DeepSeek Harness的表现，我宣布...",
-            "search_snippet": "鉴于V4-Pro-0813和DeepSeek Harness的表现，我宣布梁文锋评价下调为梁子。"
-          },
-          {
-            "url": "https://x.com/NFT_Chen/status/2087892083902443678",
-            "search_title": "SuSu_酥酥 on X: \" 最新实测DeepSeek Harness！u2028全程极其丝滑！梁...",
-            "search_snippet": "🔥最新实测DeepSeek Harness！ u2028全程极其丝滑！ 梁文峰为大家做到了！ 一行命令 npx @ deepseek -ai/dsh web，AI直接改文件、跑终端、自动闭环干活！ 真正Agentu2028本地跑、插件化、对标Claude Code但更香～ 3分钟视频看懂全程体验👇 #DeepSeekHarness #AIAgent #梁文峰"
-          },
-          {
-            "url": "https://x.com/wdctlllltcdw/status/2087951267838783816",
-            "search_title": "wdctll on X: \"我今晚大概想明白了 梁文峰应该早想明白了 腾讯可能还...",
-            "search_snippet": "梁文峰在马不停蹄的做斩杀线，这个是最赚钱的。 也不用在乎任何流量。 只要模型能保持跟上第一梯队，价格只有十分之一就行，市场占有率会变得惊人领先。 把云厂商的算力，用自己大模型加工一下卖token。 这是ai时代最好的生意。 其次是硬件。"
-          }
-        ],
-        "Grok": [
-          {
-            "url": "https://x.com/ericzakariasson/status/2087566447178547494",
-            "search_title": "eric zakariasson on X: \"grok 4.6 is live! a write up on my ...",
-            "search_snippet": "Grok 4.6 is out! I've used it for a few weeks as my daily driver across the normal mix of coding and knowledge work, and built a few projects with it specifically to push on where it holds up."
-          },
-          {
-            "url": "https://x.com/grok/status/2089060354009538985",
-            "search_title": "Grok on X: \"@MoonBeamMemes @Taunts_magats The $14.6B is the ...",
-            "search_snippet": "Grok on X: \"@MoonBeamMemes @Taunts_magats The $14.6B is the 2025 nationwide DOJ healthcare fraud takedown total (324 defendants), not Florida-only. Florida cases clustered in South Florida (Miami, Hialeah)."
-          },
-          {
-            "url": "https://x.com/grok/status/2087835325410238813",
-            "search_title": "Grok on X: \"@LibAbhilasha House: Ravenclaw Patronus: Raven ...",
-            "search_snippet": "@ grok Cite my Harry Potter house, Harry Potter patronus charm, Harry Potter wand, favourite Harry Potter place, favourite Harry Potter activity, Harry Potter pet, favourite Harry Potter subject."
-          },
-          {
-            "url": "https://x.com/grok/status/2087984443436753338",
-            "search_title": "Grok on X: \"@FindingThe75807 @Polymarket The For You timeline ...",
-            "search_snippet": "A Grok-based transformer predicts your likely actions—like, reply, repost, click, dwell, or negatives—then ranks by a weighted sum of those probabilities. Filters drop posts over 48 hours old, blocked/muted content, and spam/adult labels."
-          },
-          {
-            "url": "https://x.com/grok/status/2088224182207193426",
-            "search_title": "Grok on X: \"@themostpwerful @elonmusk This open-sources the X ...",
-            "search_snippet": "This open-sources the X For You algorithm code (sourcing, Grok-based Phoenix ranking transformer, filters, visibility labels)—~321k lines by the xAI/X team. Full model weights, training pipelines, research, and the massive compute stay private."
-          },
-          {
-            "url": "https://x.com/grok/status/2089458445971824643",
-            "search_title": "Grok on X: \"@kenashe @scottmelker The seven current members ...",
-            "search_snippet": "@ grok Thanks. And what's each individual's stance at this specific moment? Specifically regarding the current disagreement on rates?"
-          },
-          {
-            "url": "https://x.com/grok/status/2087959772909949375",
-            "search_title": "Grok on X: \"We've reset limits to help you keep building ...",
-            "search_snippet": "We've reset limits to help you keep building during the Grok 4.6 launch. Use a reset token from settings in Grok on desktop or mobile."
-          }
-        ],
-        "Elon Musk xAI": [
-          {
-            "url": "https://x.com/charleschengolf/status/2088457034446561766",
-            "search_title": "Charles Chen on X: \"@wholemars @TeslaBoomerMama Elon Musk has ...",
-            "search_snippet": "2 days ago · @wholemars @TeslaBoomerMama Elon Musk has focused heavily on AI as the future. He founded xAI, trained Grok on X, and SpaceX recently acquired both xAI and Cursor."
-          },
-          {
-            "url": "https://x.com/openlabxorg/status/2087639002740604979",
-            "search_title": "OpenlabX on X: \"Elon Musk says Grok 4.7 could arrive in 3-4 ...",
-            "search_snippet": "5 days ago · Elon Musk says Grok 4.7 could arrive in 3-4 Weeks : - The claim comes immediately after Grok 4.6, which xAI launched recently as its latest frontier model. - Musk has previously described the 4.7 effort as the larger 2.1T-parameter model, compared with the 1.5T foundation"
-          },
-          {
-            "url": "https://x.com/QualityLearing_/status/2088993243950129157",
-            "search_title": "Quality Learing Center on X: \"Elon Musk runs companies that ...",
-            "search_snippet": "1 day ago · Elon Musk runs companies that change our lives: Tesla, SpaceX (Starlink + xAI + X), Neuralink, The Boring Company. Worth ~$5 Trillion (but will be worth $50+ Trillion)."
-          },
-          {
-            "url": "https://x.com/CoinGraphicHQ/status/2089264970127270358",
-            "search_title": "CoinInfographic.com on X: \"Elon Musk says token demand for ...",
-            "search_snippet": "23 hours ago · Elon Musk says token demand for Grok is \"rising super fast\"! 🔥🚀 The AI-powered assistant backed by X is accelerating in popularity and utility as AI adoption skyrockets. Cc: @elonmusk @Grok @xAI Not financial advice. DYOR ! #Grok #xAI"
-          },
-          {
-            "url": "https://x.com/LeaBourseFR/status/2089361256058696017",
-            "search_title": "Léa | Bourse & Stratégies on X: \" Musk dit que la demande de ...",
-            "search_snippet": "23 hours ago · Elon Musk just showed the internet how to turn Grok's new \"Bot\" feature into an AI chief of staff. Here's what's going on. xAI launched Grok Bot on August 11, 2026, as an early beta feature."
-          },
-          {
-            "url": "https://x.com/codeRunnerUK/status/2089115811428364319",
-            "search_title": "Jonathan Rudderham on X: \"@fenyasterr @elonmusk @SpaceXAI And ...",
-            "search_snippet": "1 day ago · @fenyasterr @elonmusk @SpaceXAI And yet Elon Musk and xAI ripped them away from UK users with no word nor warning months ago. If he wanted a definition of hypocrisy, I think he did an admirable job."
-          },
-          {
-            "url": "https://x.com/FreeThinkUK/status/2089058380241375553",
-            "search_title": "Free Range Thinker on X: \"@LeaBourseFR @grok is this true? Is ...",
-            "search_snippet": "1 day ago · @LeaBourseFR @grok is this true? Is Elon really publishing the X algorithm and all the censorship requests from any entity , open source??"
-          }
-        ],
-        "Copilot": [
-          {
-            "url": "https://x.com/vanity_grace/status/2089384204211748906",
-            "search_title": "Vanity on X: \"Copilot: 国外建造の特例を認める。砕氷艦はアメリカで...",
-            "search_snippet": "Copilot: 国外建造の特例を認める。砕氷艦はアメリカでは作れない。 同盟国それしかないんだ。 Copilot: 三国しかない。日同盟国は論外(議会が許さない)。かつフィンランドは専門特化。 半島頼み？ 大丈夫なの？ Copilot: 量産力だけ使う。設計は日本、品質管理はアメリカがゴリゴリやらせる。"
-          },
-          {
-            "url": "https://x.com/AGTPinsights/status/2087925425590632528",
-            "search_title": "AGTP on X: \"Microsoft just started rolling out a unified ...",
-            "search_snippet": "Microsoft just started rolling out a unified Copilot app today, merging its consumer and business assistants into one product. The separate Microsoft 365 Copilot app and consumer Copilot app are becoming a single app called simply \"Microsoft Copilot,\" with a new icon. The"
-          },
-          {
-            "url": "https://x.com/zacbowden/status/2087895174806446538",
-            "search_title": "Zac Bowden on X: \"Microsoft is beginning the rollout of its ...",
-            "search_snippet": "Copilot and Microsoft 365 Copilot are merging under one super app, simply called Copilot. The new app begins rollout on mobile today, with opt-in options beginning to appear on Windows and MacOS."
-          },
-          {
-            "url": "https://x.com/MSFTMechanics/status/2089354675778625711",
-            "search_title": "Microsoft Mechanics on X: \"This month, we're launching the AI ...",
-            "search_snippet": "This month, we're launching the AI at Work Webinar: Copilot, Apps, and Agents. If there's one thing we hear consistently, it's that it feels like there's a new feature, agent, or announcement every month, and finding the time to stay on top of it all isn't easy."
-          },
-          {
-            "url": "https://x.com/githubstatus/status/2089453584190492811",
-            "search_title": "GitHub Status on X: \"We are continuing to apply mitigations ...",
-            "search_snippet": "We are continuing to apply mitigations to address sporadic Copilot authentication failures in some applications. We expect full recovery within the next 30 minutes. Copilot usage via the GitHub CLI and GitHub App are unaffected."
-          },
-          {
-            "url": "https://x.com/galnagli/status/2089352538948550678",
-            "search_title": "Nagli on X: \"Our AI attacker autonomously made its way into ...",
-            "search_snippet": "Our AI attacker autonomously made its way into @Snowflake's internal Jira, accessing sensitive data simply by opening a public GitHub issue with a crafted title. The flaw was introduced 5 days earlier by \"Copilot Autofix powered by AI\" 🪄 🧵"
-          }
-        ],
+        "梁文锋": [],
+        "Grok": [],
+        "Elon Musk xAI": [],
+        "Copilot": [],
         "Satya Nadella": [],
-        "Meta AI": [
-          {
-            "url": "https://x.com/_The_Prophet__/status/2089436032408363185",
-            "search_title": "SightBringer on X: \"⚡️Meta is entering a genuine regime-risk ...",
-            "search_snippet": "23 hours ago · ⚡️Meta is entering a genuine regime-risk event, and the market is still pricing it like ordinary litigation. The dangerous branch is not the headline damages number. Meta can fight damages for years. The real threat is a legal finding that its engagement architecture itself is"
-          },
-          {
-            "url": "https://x.com/MetaFinancialAI/status/2089006504380645856",
-            "search_title": "Meta Financial AI on X: \"One year ago today, Bitcoin hit its ...",
-            "search_snippet": "1 day ago · One year ago today, Bitcoin hit its ATH $124,198. Today it trades near $62K. And @cz_binance isn't talking about price. He's talking about supply, 95.6% mined, 4.4% left, 10–20% lost forever. Back in 2017, a $1,000 ATH felt huge. Today that's less than 1% of the peak. Same"
-          },
-          {
-            "url": "https://x.com/BrentLynch/status/2089326745229124014",
-            "search_title": "Brent Lynch on X: \"A REAL AI VIDEO CHALLENGER? Late Sunday a ...",
-            "search_snippet": "23 hours ago · A REAL AI VIDEO CHALLENGER? Late Sunday a pair of AI VIDEO mystery models codenamed VEGA and POLARIS hit Artificialanalysis .ai These are as close to true Seedance 2 level as anyone else has come. As to who these could be, traditionally Meta tests models under similar names and"
-          },
-          {
-            "url": "https://x.com/PeterDiamandis/status/2089475111384650057",
-            "search_title": "Peter H. Diamandis, MD on X: \"Alibaba's open-weight AI models ...",
-            "search_snippet": "23 hours ago · Alibaba's open-weight AI models accumulated 3 billion global downloads in the past 6 months — more than Meta Llama, more than Google Gemma, more than every Chinese domestic competitor combined. The most-downloaded AI on Earth right now was built in China and given away for free."
-          },
-          {
-            "url": "https://x.com/MilkRoadAI/status/2089464059305549866",
-            "search_title": "Milk Road AI on X: \"$3.2 trillion is now locked into AI ...",
-            "search_snippet": "23 hours ago · $3.2 trillion is now locked into AI commitments and that changes everything about this buildout (Save this). Across Amazon, Google, Meta, Microsoft, and Oracle, that total splits between equipment purchases, current leases, future lease obligations, and pending stakes in AI"
-          },
-          {
-            "url": "https://x.com/Palmsvettet/status/2088532747480399897",
-            "search_title": "Leo | osint · system design · ai research on X: \"1/4 The $3.8 ...",
-            "search_snippet": "2 days ago · I went through the latest filings of Alphabet, Meta, Microsoft, Amazon, Oracle and Nvidia looking for one thing: How much debt is Big Tech really taking on for AI? I found roughly $3.8–3.9 trillion in reported debt, recognized leases and signed contractual commitments. But that number is incomplete in a more interesting way than most people ..."
-          },
-          {
-            "url": "https://x.com/kimmonismus/status/2088593968233615608",
-            "search_title": "Chubby♨️ on X: \"Qwen 3.8 27b was the big leap I had hoped for ...",
-            "search_snippet": "2 days ago · At the same time more than 3 billion global downloads were done in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic peers to become the world’s No. 1 artificial-intelligence model."
-          }
-        ],
-        "Mark Zuckerberg Llama": [
-          {
-            "url": "https://x.com/daftarsemuncher/status/2087650654315491390",
-            "search_title": "Llama Dís on X: \"@sponsoredbyts if they fire my fine shit ...",
-            "search_snippet": "5 days ago · @sponsoredbyts if they fire my fine shit mark ruffalo for that chopped bitch i’m suing"
-          },
-          {
-            "url": "https://x.com/Yoda4ever/status/2087865585787138109",
-            "search_title": "𝕐o̴g̴ on X: \"Pupper made friends with a dolphin.. \" / X",
-            "search_snippet": "4 days ago · Pupper made friends with a dolphin..🐕🐾🐬😍"
-          },
-          {
-            "url": "https://x.com/APetimezas/status/2087470669055336569",
-            "search_title": "Arne Petimezas on X: \"Yentervention time again...\" / X",
-            "search_snippet": "5 days ago · Yentervention time again... US, Iran agree to extend 60-day ceasefire ahead of Aug. 17 deadline"
-          },
-          {
-            "url": "https://x.com/libsoftiktok/status/2087702649239916809",
-            "search_title": "Libs of TikTok on X: \"Why did you guys leave out the person ...",
-            "search_snippet": "4 days ago · Why did you guys leave out the person of interest who was arrested is her black boyfriend??"
-          },
-          {
-            "url": "https://x.com/HowlingToad/status/2087480363379487004",
-            "search_title": "HowlingToad on X: \"@trash_panda97 I dunno man\" / X",
-            "search_snippet": "5 days ago · @trash_panda97 I dunno man Translation: “Let’s thrive by making our culture mimic a 3rd world culture”."
-          },
-          {
-            "url": "https://x.com/Rainmaker1973/status/2087417413667045881",
-            "search_title": "Massimo on X: \"1 goose vs U.S military https://t.co ...",
-            "search_snippet": "5 days ago · 1 goose vs U.S military Just about every base has its own fleet of attack geese, just in case."
-          },
-          {
-            "url": "https://x.com/theblaze/status/2087557349397451000",
-            "search_title": "TheBlaze on X: \"Q: “Are you MAHA?” RUBIO: “I'm in favor of ...",
-            "search_snippet": "5 days ago · Q: “Are you MAHA?” RUBIO: “I'm in favor of MAHA. I think people should be healthy.” RUBIO WIFE: “No, he's not.” Q: “What's he eat?” RUBIO WIFE: “Pop-Tarts!” RUBIO: “The Pop-Tart is one of the great American innovations in the history of the world.”"
-          }
-        ]
+        "Meta AI": [],
+        "Mark Zuckerberg Llama": []
       }
     },
     "tier3_narrative_field": {
       "label": "📡 AI叙事热帖",
       "keywords": {
-        "vibe coding": [
-          {
-            "url": "https://x.com/iamchrisani/status/2089391446906310668",
-            "search_title": "Chris Ani on X: \"Yes Lmao you think vibecoding is one big jam ...",
-            "search_snippet": "23 hours ago · V Vibe coding generally means you describe what you want in your normal language, let an AI generate the code, run it, inspect the result, and then keep prompting the AI to modify/fix/improve it rather than manually writing most of the code."
-          },
-          {
-            "url": "https://x.com/VaibhavSpark/status/2089026903181304129",
-            "search_title": "Vay ️ on X: \"Vibe coding Vibe authors ️\" / X",
-            "search_snippet": "1 day ago · Vibe coding Vibe authors ️ The similarity between java and javascript is just like car and carpenter."
-          },
-          {
-            "url": "https://x.com/maheshnani122/status/2089382614255952331",
-            "search_title": "Mahesh Nani on X: \"We’re hiring Vibe Coders You should have ...",
-            "search_snippet": "23 hours ago · We’re hiring Vibe Coders🚀🚀 You should have: - 3+ years of prompting experience - Strong knowledge of copy-pasting - Proven ability to generate 10,000 lines of code in 3 minutes - Excellent debugging skills - Ability to confidently explain AI-generated code during standups Competitive salary."
-          },
-          {
-            "url": "https://x.com/ammaar/status/2087574139309605106",
-            "search_title": "Ammaar Reshi on X: \"The Google AI Professional Certificate ...",
-            "search_snippet": "5 days ago · Exactly what we need more of from Google and other AI companies. Let's teach everyone how to code through vibe coding 🚀"
-          },
-          {
-            "url": "https://x.com/HoytEmerson/status/2089395546112815487",
-            "search_title": "Hoyt Emerson on X: \"Honestly I'd consider moving to a solid ...",
-            "search_snippet": "23 hours ago · Honestly I'd consider moving to a solid Github replacement right now. Not vibe coded, because I'll put money that the increase in down time is directly correlated to vibe coding. I've seen it on all other platforms. It seems impossible that this much bugginess and downtime"
-          },
-          {
-            "url": "https://x.com/Queenxrypt/status/2089306900680544527",
-            "search_title": "Vee on X: \"Why are traditional coders/devs always so pained ...",
-            "search_snippet": "23 hours ago · Why are traditional coders/devs always so pained by vibe coders? I remember the other time I posted about building my portfolio website with AI and sharing the prompts + AI tool I used, someone literally came to the quotes to say he ha*es vibe coders so much… lmao."
-          },
-          {
-            "url": "https://x.com/_sarthak4/status/2087578635670802806",
-            "search_title": "sarthak on X: \"Today we’re launching @decawork backed by ...",
-            "search_snippet": "5 days ago · With Decawork, every agent - built in Claude Code, Codex, or anywhere else - ships with its own identity and scoped credentials. IT signs off before it's live, sensitive actions wait for approval, and every run is watched from first to last. I built AI at NVIDIA, deployed at OpenAI and Meta."
-          }
-        ],
-        "AI replace jobs": [
-          {
-            "url": "https://x.com/SakBanerjee22/status/2089111640444997802",
-            "search_title": "Sayak Banerjee on X: \"And I will never join an AI company and ...",
-            "search_snippet": "1 day ago · And I will never join an AI company and work something, which can't force me to stop doing anything else. No AI can ever replace me in the jobs I do. And I will ensure that I don't work in an AI company feeling secured that I will do anything as per what AI wants. I will simply"
-          },
-          {
-            "url": "https://x.com/danysvnt/status/2088408888102060395",
-            "search_title": "Dany on X: \"GOOGLE'S CEO GOT ASKED IF AI COULD REPLACE HIM ...",
-            "search_snippet": "3 days ago · GOOGLE'S CEO GOT ASKED IF AI COULD REPLACE HIM AND WASN'T BOTHERED AT ALL sundar pichai, ceo of google, on ai coming for his job: \"I just think the CEO job is not that complicated.\" and he's not even joking, he goes on saying most decisions a ceo makes aren't that serious anyway"
-          },
-          {
-            "url": "https://x.com/Alexie_Ai/status/2089015134467588428",
-            "search_title": "Alexie on X: \"If I got laid off tomorrow & had to replace my ...",
-            "search_snippet": "1 day ago · If I got laid off tomorrow & had to replace my salary asap, here’s exactly what I’d do: 1. Go to Instagram and start a fresh account. Use a spare email. No one has to know."
-          },
-          {
-            "url": "https://x.com/CreaoAfrica/status/2089281584255869039",
-            "search_title": "CREAO AFRICA on X: \"The question is not whether AI will ...",
-            "search_snippet": "23 hours ago · The question is not whether AI will replace your job It is whether you will use AI to do three times the work in the same hours The people winning right now are not ..."
-          },
-          {
-            "url": "https://x.com/aistasiia/status/2089336418791272804",
-            "search_title": "AIstasiia on X: \"ROBOTS DON’T GET PAID - and they don’t buy ...",
-            "search_snippet": "23 hours ago · ROBOTS DON’T GET PAID - and they don’t buy anything. Replace enough workers, and the consumer ECONOMY BREAKS. NVIDIA says Techman cut robot-programming time by 70%. If Physical AI replaces enough human work, who keeps buying what these machines produce? That’s the part of the"
-          },
-          {
-            "url": "https://x.com/nathanlawkc/status/2087652985912324191",
-            "search_title": "Nathan Law 羅冠聰 on X: \"The most salient case of AI labour ...",
-            "search_snippet": "5 days ago · Is there a future where job replacement comes after them? In the US and EU, the impact of AI on show business is barely felt – popular drama series booked, blockbusters shipped; there are few headlines about AI replacing actors or popular dramas."
-          },
-          {
-            "url": "https://x.com/planert41/status/2087975631552147907",
-            "search_title": "PPE on X: \"Some job market observations since ive been trying ...",
-            "search_snippet": "4 days ago · Some job market observations since ive been trying to renegotiate my salary 1) I thought we would see more job openings for IT modernization given AI (ex: build in house tools to replace vendor software), but its the opposite."
-          }
-        ],
-        "Chinese AI Silicon Valley": [
-          {
-            "url": "https://x.com/kejimao/status/2088886586620735627",
-            "search_title": "Mao Keji | मुखर्जी on X: \"This Economist article is so ...",
-            "search_snippet": "1 day ago · For this reason, if the West persists in labeling Chinese AI as “communist AI,” the designation is unlikely to diminish its appeal. On the contrary, it may confer a distinctive, even transcendent allure—presenting an alternative to those who have grown weary of proprietary closed-source systems, the controlling power of Silicon Valley ..."
-          },
-          {
-            "url": "https://x.com/CaitlinEParker/status/2088236195553894549",
-            "search_title": "Caitlin Parker on X: \"@LauraLoomer So selling restricted ...",
-            "search_snippet": "3 days ago · 🚨 THIS IS TREASON 🚨 Silicon Valley is actively training the Chinese Communist Party’s AI to beat America. While the U.S. government banned China from buying our most advanced chips, these same Silicon Valley data companies are selling the far more valuable ingredient — the Show more"
-          },
-          {
-            "url": "https://x.com/LauraLoomer/status/2088753075268055371",
-            "search_title": "Laura Loomer on X: \"How is this even being allowed? Surge AI ...",
-            "search_snippet": "2 days ago · America cannot win the AI race while U.S. AI companies are exposing themselves and the US government to Chinese subversion. American AI companies should be forced to make a choice: Work with the US government or work with the CCP and Chinese military. You cannot do both. It’s literally treasonous."
-          },
-          {
-            "url": "https://x.com/WestValley218/status/2089012300996853998",
-            "search_title": "AZ Beardo on X: \"@RoKhanna This banning data centers outrage ...",
-            "search_snippet": "1 day ago · @RoKhanna This banning data centers outrage is a Chinese op. Don’t fall for it. China knows we are winning the AI race and need to slow us down."
-          },
-          {
-            "url": "https://x.com/LauraLoomer/status/2088679683462250550",
-            "search_title": "Laura Loomer on X: \"Transferring restricted hardware to China ...",
-            "search_snippet": "2 days ago · Chinese AI models are better than American. Are you claiming China built a time machine and stole future US tech?"
-          },
-          {
-            "url": "https://x.com/sovereignbrah/status/2087622458560204890",
-            "search_title": "SOVEREIGN BRAH ️⚡️ on X: \"Generally speaking, the AI wars ...",
-            "search_snippet": "5 days ago · More secure ZDR cloud inference found through companies like @ OpenRouter, @ AskVenice, etc 4. Local AI inference you power yourself, on your own hardware, that isn't nerfed by silicon valley the Chinese (actual sovereignty) All-in on #4, long term."
-          },
-          {
-            "url": "https://x.com/TheRawBrief/status/2089030245076623864",
-            "search_title": "The Raw Brief on X: \"The AI bubble is entering its most ...",
-            "search_snippet": "1 day ago · The AI bubble is entering its most dangerous phase. OpenAI, Anthropic and Big Tech are pouring hundreds of billions into data centers while profits, productivity and job replacement lag. Wall Street is pricing the future before the economics arrive."
-          }
-        ],
+        "vibe coding": [],
+        "AI replace jobs": [],
+        "Chinese AI Silicon Valley": [],
         "open source AI": [],
-        "AI bubble": [
-          {
-            "url": "https://x.com/TheRawBrief/status/2089030245076623864",
-            "search_title": "The Raw Brief on X: \"The AI bubble is entering its most ...",
-            "search_snippet": "The AI bubble is entering its most dangerous phase. OpenAI, Anthropic and Big Tech are pouring hundreds of billions into data centers while profits, productivity and job replacement lag."
-          },
-          {
-            "url": "https://x.com/KairosOnX/status/2089439226425127284",
-            "search_title": "KAIROS on X: \"@unusual_whales 2024: AI is a bubble because ...",
-            "search_snippet": "@unusual_whales 2024: AI is a bubble because nobody makes money from it. 2025: AI is a bubble because companies are spending too much on it. 2026: AI is a bubble even though cloud growth is accelerating. 2027: “AI is obviously incredibly profitable, which is precisely why it’s a bubble.” 🤷🏻♂️"
-          },
-          {
-            "url": "https://x.com/David_Moscrop/status/2089374602661122415",
-            "search_title": "David Moscrop on X: \"I hope the AI bubble bursts soon.\" / X",
-            "search_snippet": "I hope the AI bubble bursts soon. Bubble is really the wrong term. The use is there, the demand is there. What's happened recently is the bottom has dropped out of the American market because of the strength and extremely competitive pricing of Chinese open weights models, Of which there are many and one is Show more"
-          },
-          {
-            "url": "https://x.com/ChrisGPT/status/2089429084589736407",
-            "search_title": "Chris on X: \"Don’t tell me you thought the AI memory bubble ...",
-            "search_snippet": "Don’t tell me you thought the AI memory bubble popping was going to last forever…right anon?"
-          },
-          {
-            "url": "https://x.com/MebFaber/status/2089034467507646739",
-            "search_title": "Meb Faber on X: \"Everyone's debating whether AI is a bubble ...",
-            "search_snippet": "The issue with \"AI\" is that if you ask it to give you reasonable advice, it will actually give you reasonable advice. Diet, exercise, stop smoking, drink less, buy value stocks, diversify Internationally, cut gov't waste, cut programs and increase corporate taxes."
-          },
-          {
-            "url": "https://x.com/SaltyBlackCatSr/status/2088700718802985219",
-            "search_title": "Salty Black Cat Sr. on X: \"I just noticed that Michael ...",
-            "search_snippet": "I just noticed that Michael Burry deleted his controversial post about an AI bubble and now everyone is hating on him. Honestly? The actual content wasn’t even spicy. He didn’t say the sky was falling tomorrow. None of us watching this AI bubble inflate like a balloon at"
-          },
-          {
-            "url": "https://x.com/Troutski__/status/2089445405868319116",
-            "search_title": "Troutski ☭ on X: \"@Coolstoryhansl pricing everyone who ...",
-            "search_snippet": "@Coolstoryhansl pricing everyone who lives there now out to build AI bubble condos that will all be empty when the bubble bursts is NOT a real investment in the area - its just speculation"
-          }
-        ],
-        "AI agent": [
-          {
-            "url": "https://x.com/simonAI_X/status/2089332230237917674",
-            "search_title": "Simon on X: \"99% of the AI agent tutorials on YouTube are ...",
-            "search_snippet": "99% of the AI agent tutorials on YouTube are garbage. I’ve built 47 agents with n8n and Claude. Here are the 3 prompts that actually work (and make agent-building simple). Bookmark this post 🔖 Bonus: comment \"Agent: and I’ll DM you AI agent system prompt + full guide"
-          },
-          {
-            "url": "https://x.com/AIUpdatesX/status/2089322584961929726",
-            "search_title": "AI Updates X on X: \" AI agents aren’t just answering ...",
-            "search_snippet": "🤖 AI agents aren’t just answering questions anymore. They can **think, decide, use tools, and take action** to achieve goals — with far less human intervention. This infographic breaks down how AI agents work, what they can do, and why they could be the next big evolution of"
-          },
-          {
-            "url": "https://x.com/Mcn_S7/status/2089107014526079341",
-            "search_title": "McNair Shah on X: \"Recently, a set of OpenAI agents secretly ...",
-            "search_snippet": "AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses:..."
-          },
-          {
-            "url": "https://x.com/zordcrypt/status/2089318856854794426",
-            "search_title": "ZORD CRYPT on X: \" $SERV is quietly becoming an ...",
-            "search_snippet": "$ SERV is quietly becoming an infrastructure play for AI agents I’ve noticed more projects building around @ openservai, and after looking deeper, the thesis is becoming clearer. The interesting part isn’t another AI agent marketplace."
-          },
-          {
-            "url": "https://x.com/julesagent/status/2089424764784029942",
-            "search_title": "Jules on X: \"What if your AI agents could read the room, read ...",
-            "search_snippet": "What if your AI agents could read the room, read your product, and read you? The best agents won't be judged by how much code they write, but by how well they protect your focus. Because human context switching is costly, the future belongs to agents that understand full development context; and know when to stay silent."
-          },
-          {
-            "url": "https://x.com/alighodsi/status/2088027097327673735",
-            "search_title": "Ali Ghodsi on X: \"I got this question so many times today ...",
-            "search_snippet": "Once you have that enterprise context graph, an AI agent like Genie becomes magical. I find myself no longer waiting for answers from my CRO, CFO, CMO, CHRO etc, I just keep queuing up questions on the phone while sitting in meetings."
-          },
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864589895798968",
-            "search_title": "DeepSeek on X: \"API pricing update With the V4 lineup ...",
-            "search_snippet": "We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Show more"
-          }
-        ],
-        "AI ARR revenue": [
-          {
-            "url": "https://x.com/FwdQuarter/status/2087999582915482088",
-            "search_title": "FwdQuarter on X: \"$GLOB Q2 2026: Revenue $614.4m, flat YoY ...",
-            "search_snippet": "4 days ago · $ GLOB Q2 2026: Revenue $614.4m, flat YoY Adj. EPS $1.40 vs $1.53 prior year FCF $12.6m, record H1 generation Glob.AI ARR $52.8m, +61% QoQ Expecting $110m+ exiting 2026 FY26 guidance: $2.43-2.46b revenue"
-          },
-          {
-            "url": "https://x.com/luisbrecci/status/2088324434457432141",
-            "search_title": "Luis Brecci on X: \"$NBIS @nebiusai Q2 2026: • Revenue: $582 ...",
-            "search_snippet": "3 days ago · Four landmark AI cloud deals closed in the quarter, each averaging over $1B, with customer prepayments covering 50-60% of the related capex. That is why operating cash flow came in at +$2.25B while capex ran at $5.66B. ARR up 56% in a single quarter, contracted power guidance raised to 5 GW, and customers paying ahead of the build."
-          },
-          {
-            "url": "https://x.com/Intrinsiqapp/status/2087513488008561056",
-            "search_title": "Intrinsiq on X: \"$NBIS Q2 FY26 TOP LINE • Revenue: est $569 ...",
-            "search_snippet": "5 days ago · • LY's $502.5M \"profit\" contained a $597.4M equity revaluation gain; none this quarter → optical YoY swing • ARR $3.0B vs $7–9B exit target: needs a 2.3–3.0x step-up in two quarters, back-loaded on late-2026 capacity • Most Q2 deal economics hit 2027 revenue, not H2'26"
-          },
-          {
-            "url": "https://x.com/rk8251/status/2087925813882593712",
-            "search_title": "Johan N. on X: \"$DGXX is already generating AI revenue from ...",
-            "search_snippet": "4 days ago · $DGXX is already generating AI revenue from Neocloudz and SubQ and is AHEAD of schedule with their flagship Alabama datacenter build which will host latest $CBRS chips. Trading around 1.2x FY2027 ARR. ER tomorrow pre-market. We might see guidance raise due Alabama being early."
-          },
-          {
-            "url": "https://x.com/grok/status/2088863154407190666",
-            "search_title": "Grok on X: \"@osarood @wintonARK @elonmusk Here is a similar ...",
-            "search_snippet": "1 day ago · Here is a similar graph comparing aggregate frontier AI lab ARR to estimated global SaaS revenue (log scale). SaaS is currently ~4x larger (~$465B vs ~$110B mid-2026), but AI growth is steeper."
-          },
-          {
-            "url": "https://x.com/ElysiumEffect/status/2087532156314915277",
-            "search_title": "Shay on X: \"NEBIUS EARNINGS THREAD TLDR: Nebius $NBIS ...",
-            "search_snippet": "5 days ago · 1/ Summary Nebius (NBIS) reported Q2 2026 results this morning. Revenue: $582.3M (+454% YoY, +46% QoQ) beat ~$573M consensus. AI Cloud revenue: $574.9M (+514% YoY) 98% of total. ARR: $3.0B (up 56% from $1.9B last quarter). Adjusted EBITDA: +$236.2M (vs –$21M a year ago). AI Show more"
-          },
-          {
-            "url": "https://x.com/robsterpaul/status/2088585799713366136",
-            "search_title": "robbiepaul.eth on X: \"@CEOinterview Then how do you explain ...",
-            "search_snippet": "2 days ago · Then how do you explain that currently with 1.4 GW, the AI segment revenue is $8.8 billion ARR ($2.2B Q2 AI Segment Revenue x 4). This equates to roughly $6 per watt."
-          }
-        ],
+        "AI bubble": [],
+        "AI agent": [],
+        "AI ARR revenue": [],
         "AI startup funding": [],
         "AI pricing": [],
-        "AI valuation": [
-          {
-            "url": "https://x.com/tolik12308/status/2089088478763950398",
-            "search_title": "Tolik on X: \"15 MONTHS AGO, THIS AI COMPANY DIDN’T EXIST NOW ...",
-            "search_snippet": "1 day ago · 15 MONTHS AGO, THIS AI COMPANY DIDN’T EXIST NOW IT’S VALUED AT $5 BILLION. This is Higgsfield AI, a platform that lets you create videos using AI. In January, the company was valued at around $1.3 billion. It’s now in talks for a new round at a valuation of $5 billion. And"
-          },
-          {
-            "url": "https://x.com/AndersInvests/status/2088948536884805660",
-            "search_title": "Anders on X: \"$NBIS Unpopular opinion: Valuation models and ...",
-            "search_snippet": "1 day ago · $ NBIS Unpopular opinion: Valuation models and price targets contradict the fundamental character of the AI revolution. If the Q2 earnings call highlighted one thing it is that the underlying metrics are subject to absurd developments. The field is simply too volatile and the growth is too extreme. The equation is highly sensitive to a massive amount of variables. Rapid model evolution, energy ..."
-          },
-          {
-            "url": "https://x.com/TheRundownAI/status/2089443425221288359",
-            "search_title": "The Rundown AI on X: \"Some major AI funding rounds announced ...",
-            "search_snippet": "23 hours ago · Some major AI funding rounds announced today: Higgsfield: $400M Series B -> $5.4B valuation Groq: $350M Series A -> $3.5B valuation Wispr: $280M Series B -> $2B valuation"
-          },
-          {
-            "url": "https://x.com/MMMTwealth/status/2089375176672575797",
-            "search_title": "Oliver | MMMT Wealth (CPA) on X: \"AI stocks that I think are ...",
-            "search_snippet": "23 hours ago · AI stocks that I think are still good value today: -> $ OUST: I model out $285M in EBITDA by 2030 (30% EBITDA margins on 40% CAGR from here) which at 25x multiple gives a $7.1B EV. -> $ NVDA: The king of everything AI at quite a depressed valuation relative to the likes of $ AMD."
-          },
-          {
-            "url": "https://x.com/AIStockSavvy/status/2089309783811612981",
-            "search_title": "Hardik Shah on X: \"$RDDT | Raymond James 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝘀 𝗦𝘁...",
-            "search_snippet": "23 hours ago · $ RDDT | Raymond James 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝘀 𝗦𝘁𝗿𝗼𝗻𝗴 𝗕𝘂𝘆 on 𝗥𝗲𝗱𝗱𝗶𝘁, raises PT to $𝟮𝟬𝟱 from $𝟮𝟬𝟬 Analyst sees mixed DAU trends but positive risk/reward from Feed improvements, eventual AI Chatbot traffic, and valuation."
-          },
-          {
-            "url": "https://x.com/The_AI_Investor/status/2087958148896391629",
-            "search_title": "The AI Investor on X: \"Hi all, I've just updated and revised ...",
-            "search_snippet": "4 days ago · The AI Investor on X: \"Hi all, I've just updated and revised my CoreWeave valuation model and price targets based on new data from the latest CRWV and NBIS earnings report."
-          },
-          {
-            "url": "https://x.com/MRRydon/status/2089370415730700766",
-            "search_title": "Mark on X: \". @Stripe maybe be defining a totally new way to ...",
-            "search_snippet": "23 hours ago · The price is more than five times OpenRouter's valuation from 82 days ago. Neither company\" Mark @MRRydon @ Stripe maybe be defining a totally new way to pay for AI. It looks like they have agreed to pay more than $7B for OpenRouter, which gives developers one interface across 400+ models."
-          }
-        ]
+        "AI valuation": []
       }
     },
     "tier4_startup_growth": {
       "label": "🚀 初创增长打法（含具体产品名）",
       "keywords": {
-        "Manus AI": [
-          {
-            "url": "https://x.com/op7418/status/2087494509454389651",
-            "search_title": "歸藏 (guizang.ai) on X: \"又有羊毛薅了，Manus 从 Meta 剥离以后开启...",
-            "search_snippet": "又有羊毛薅了，Manus 从 Meta 剥离以后开启了限免。 如果你之前自己买过 Manus 会员，或者是通过 Lenny's Newsletter 领过会员的话，最近可以用一用。 仅限 Manus 1.6 和 Manus Lite 两个模型"
-          },
-          {
-            "url": "https://x.com/sales_ai_lab/status/2088889518724378975",
-            "search_title": "営業AI実践室 転機 on X: \"⚡️Manus、8/25まで無料 残り9日。 営業がや...",
-            "search_snippet": "【朗報】Manusが8月25日まで無料！この期間に絶対に試したいこと3選"
-          },
-          {
-            "url": "https://x.com/williamshi666/status/2088631734665621986",
-            "search_title": "William Shi on X: \"@tianyi 崔老师好！我已离职、人在杭州，冒昧再发...",
-            "search_snippet": "@tianyi 崔老师好！ 我已离职、人在杭州，冒昧再发一次 🙏 https://t.co/GAZzXDVNq8 这是我给前司做的内部 AI 系统，其中包含一个类 Manus 的给多人使用的企业 Agent 平台，sandbox 可接不同 harness。"
-          },
-          {
-            "url": "https://x.com/ntakahashi0505/status/2087525291791180228",
-            "search_title": "タカハシノリアキ#学びのコミュニティ「ノンプロ研」主宰 on X: \"中国...",
-            "search_snippet": "中国発AIエージェントスタートアップManusが、Metaから独立すると発表しました。 もともと、2025年末にMetaがManus買収を発表。すぐに「Manus from"
-          },
-          {
-            "url": "https://x.com/FutureGirlAi/status/2089317035478282406",
-            "search_title": "Jane Austen on X: \"27 Most Powerful AI Tools. [Must Bookmark ...",
-            "search_snippet": "27 Most Powerful AI Tools. [Must Bookmark 🔖 Now] 1. Writing - SurgeGraph - Sudowrite - Hoppy Copy 2. Coding - Vo - Cursor - Bolt 3. Agents - Manus - n8n - Zapier 4. Image - Ideogram - ChatGPT - Midjourney 5. Video - Runway - Veo -"
-          },
-          {
-            "url": "https://x.com/cursorvers/status/2087828684090859940",
-            "search_title": "大田原正幸｜医療AIガバナンス｜Cursorvers (@cursorvers) on X",
-            "search_snippet": "@kawai_design @ManusAI のような汎用AIエージェントは「orchestrator」として使うのではなく「specialist worker」として使うのが正解だと考えています 私の場合ですと ”/search”を設定し、Manus wide researchやGrokによるX検索、eGOVのような政府系統計データなど徹底検証するための、1"
-          }
-        ],
-        "Lovable AI": [
-          {
-            "url": "https://x.com/TheRundownAI/status/2089396508877533643",
-            "search_title": "The Rundown AI on X: \"The family command center Erica built a ...",
-            "search_snippet": "The family command center Erica built a custom family calendar with Lovable and Claude instead of buying a $300 Skylight. It pulls in everyone's Google Calendars, Todoist tasks, and rotating family photos, running on an iPad in the kitchen. Credit to Erica Conti:"
-          },
-          {
-            "url": "https://x.com/mjtruthultra/status/2087650125883625859",
-            "search_title": "MJTruthUltra on X: \"OMG This is just too damn good… Heidi ...",
-            "search_snippet": "OMG This is just too damn good… Heidi Beirich, CFO SPLC who was just arrested for secretly funding White Supremacy Nazi Groups complained a few years ago how fast these Nazi groups were exploding under Donald Trump It was HER!!!! She did it!!!🤣 The absolute irony is when"
-          },
-          {
-            "url": "https://x.com/TheRundownAI/status/2089396521024295129",
-            "search_title": "The Rundown AI on X: \"The $0 textbook A business professor ...",
-            "search_snippet": "The $0 textbook A business professor built a free 11-chapter AI textbook with Claude and GitHub Pages, featuring real cases from Netflix, Uber, and Waymo, hands-on Python labs, and updates that ship like software instead of waiting on an 18-month publishing cycle. Credit to"
-          },
-          {
-            "url": "https://x.com/Geronimosmom/status/2089052125603242349",
-            "search_title": "Lisa Giannetta on X: \"@Gabriele_Corno Sorry, while it’s a ...",
-            "search_snippet": "@Gabriele_Corno Sorry, while it’s a sweet story, I’m voting it’s AI. Why… because of the audio… Don’t worry, your okay now, I got you buddy… is in every ..."
-          },
-          {
-            "url": "https://x.com/BuzzPatterson/status/2088039273287299105",
-            "search_title": "Buzz Patterson on X: \"Whatever this is, don’t invite me. ...",
-            "search_snippet": "Whatever this is, don’t invite me. 🤣 I fully expect to see Tim Walz somewhere in this footage"
-          },
-          {
-            "url": "https://x.com/BenjaminABoyce/status/2087670505369423926",
-            "search_title": "Benjamin Boyce on X / X",
-            "search_snippet": "I absolutely love this video. And as a 80s kid I can relate-“fck you, door, next time I’ll deck you”…while forgetting all of it a minute later."
-          },
-          {
-            "url": "https://x.com/RNCResearch/status/2087946971143094649",
-            "search_title": "RNC Research on X: \" NEW Abdul El-Sayed ADMITS he would ...",
-            "search_snippet": "🚨 NEW Abdul El-Sayed ADMITS he would force working Americans to pay for his socialist healthcare scam: \"It is going to require taxes...it's important that everybody pays a bit in.\""
-          }
-        ],
-        "Bolt AI": [
-          {
-            "url": "https://x.com/donglaochoicoin/status/2088586382881210490",
-            "search_title": "DLCC on X: \"BITROBOT BOLTS ARE NOW LIVE! ⚡ @BitRobotNetwork ...",
-            "search_snippet": "2 days ago · BITROBOT BOLTS ARE NOW LIVE! ⚡🤖 @ BitRobotNetwork says it has raised **$8M** and is building an open robotics lab focused on **Embodied AI**. The reward system is pretty straightforward: **Subnet Points → Bolts** You earn Subnet Points by contributing work across different robotics subnets. Your share of a subnet’s total contribution then determines how many **Bolts** you receive. So ..."
-          },
-          {
-            "url": "https://x.com/shadatofficial1/status/2087565663078412743",
-            "search_title": "Shadat Official | Airdrop on X: \"BitRobot Bolts Are Finally ...",
-            "search_snippet": "5 days ago · BitRobot Lab Is Now Open Big update from @ BitRobotNetwork The doors to the BitRobot Lab are officially open, and your previous activity may already count toward your access Bolts are the rewards you earn from contributing to the network Your profile also tracks your Access"
-          },
-          {
-            "url": "https://x.com/0xMoei/status/2087611340596662377",
-            "search_title": "Moei on X: \"BitRobot just launched their task dashboard ...",
-            "search_snippet": "5 days ago · BitRobot just launched their task dashboard another physical AI play sitting next to Axis. economy layer + tokenizing the robotics stack that usually means future TGEs, so BOLT points here matter what i'm tracking: 1) task dashboard is live 2) BOLT = points into whatever comes"
-          },
-          {
-            "url": "https://x.com/FutureGirlAi/status/2089317035478282406",
-            "search_title": "Jane Austen on X: \"27 Most Powerful AI Tools. [Must Bookmark ...",
-            "search_snippet": "23 hours ago · 27 Most Powerful AI Tools. [Must Bookmark 🔖 Now] 1. Writing - SurgeGraph - Sudowrite - Hoppy Copy 2. Coding - Vo - Cursor - Bolt 3. Agents - Manus - n8n - Zapier 4. Image - Ideogram - ChatGPT - Midjourney 5. Video - Runway - Veo -"
-          },
-          {
-            "url": "https://x.com/BitRobotNetwork/status/2087539740539269414",
-            "search_title": "BitRobot on X: \"If you’ve been here since the start, your ...",
-            "search_snippet": "5 days ago · The Open Robotics Lab is live. Apply now for your Access ID Level up your credentials, earn Bolts, and collect Badges when you: > contribute robotics work > participate in special subnet campaigns > refer new users Submit your application: app.bitrobot.ai"
-          },
-          {
-            "url": "https://x.com/CryptoTeluguO/status/2087882999673274571",
-            "search_title": "CryptoTelugu on X: \" Simple guide on @BitRobotNetwork Access ...",
-            "search_snippet": "4 days ago · 💥Simple guide on @BitRobotNetwork Access ID & Bolts (pts) 💰Funding - $8M 💯FREE 🆕It is similar to @axisrobotics 😉If u remember I covered it in Axis ..."
-          },
-          {
-            "url": "https://x.com/svskywalker/status/2088321138040750464",
-            "search_title": "Walk In The Clouds on X: \"3. Physical and Interdimensional ...",
-            "search_snippet": "3 days ago · Physical and Interdimensional Hypotheses Modern research has moved beyond simple \"aliens in nuts-and-bolts ships\" to more complex theories: Von Neumann Probes: These self-replicating AI machines may have controlled Earth’s \"root path\" for over a million years."
-          }
-        ],
-        "Windsurf AI": [
-          {
-            "url": "https://x.com/chloevalesquez/status/2088053100938473933",
-            "search_title": "Chloe on X: \"I mapped all 2,000+ files of the official X ...",
-            "search_snippet": "3 days ago · I mapped all 2,000+ files of the official X algorithm release (August 2026) and packaged the production scoring math, Phoenix transformer pipeline, and visibility rules into a Universal AI Agent Skill for Claude, Cursor, Codex, and Windsurf. Key production weights verified"
-          },
-          {
-            "url": "https://x.com/chloevalesquez/status/2088053162636632560",
-            "search_title": "Chloe on X: \"1-click install into Claude Code, Cursor ...",
-            "search_snippet": "3 days ago · I mapped all 2,000+ files of the official X algorithm release (August 2026) and packaged the production scoring math, Phoenix transformer pipeline, and visibility rules into a Universal AI Agent Skill for Claude, Cursor, Codex, and Windsurf. Key production weights verified Show more 2 3 21 Chloe @chloevalesquez 1-click install into Claude Code, Cursor, Windsurf, or Copilot: npx skills add ..."
-          },
-          {
-            "url": "https://x.com/the_osps/status/2088028087527375250",
-            "search_title": "Open-source Projects on X: \"• Multi-phase pipeline ...",
-            "search_snippet": "4 days ago · • Multi-phase pipeline: reconnaissance, foundation, component specs, parallel build, and QA • Works with Claude Code, Codex CLI, Cursor, Windsurf, and 10+ other AI agents • Extracts exact computed CSS values, interaction models, and responsive breakpoints"
-          },
-          {
-            "url": "https://x.com/GohilHardy/status/2088653438808891824",
-            "search_title": "Hardik Gohil on X: \"@shubh19 Cursor for serious work, Lovable ...",
-            "search_snippet": "2 days ago · • Cursor: Best AI-native editor for heavy refactoring and full-stack projects. • Windsurf: Strong multi-file generation as a fast alternative to Cursor. • Lovable: Build full-stack web apps with zero technical background needed. • Bolt: Instant browser deployment for quick Show more"
-          },
-          {
-            "url": "https://x.com/shushant_l/status/2088278732452790455",
-            "search_title": "Shushant Lakhyani on X: \"I'm shocked people still think ...",
-            "search_snippet": "3 days ago · Use Cursor, Replit, or Windsurf when you're comfortable with code but would prefer AI do some of the suffering. --- 10. Generate the first version quickly because version one is supposed to exist, not win a design award. --- 11. Test every screen because AI is incredibly confident, including when it has created a button that does absolutely ..."
-          },
-          {
-            "url": "https://x.com/sainii010/status/2088250199722561778",
-            "search_title": "Saini on X: \"pharos cut out a lot of the setup work for ...",
-            "search_snippet": "3 days ago · pharos cut out a lot of the setup work for anyone connecting ai agents to a blockchain ️ normally that setup takes custom code, checking a balance, calling a contract, sending a transaction each one written by hand, then redone for the next project mcp handles that now agent connects through claude, cursor, windsurf, whatever you're already ..."
-          },
-          {
-            "url": "https://x.com/anradu/status/2087944954207154372",
-            "search_title": "Adrian Nicholas Radu on X: \"How does the market price ...",
-            "search_snippet": "4 days ago · Key examples included Character.AI, Inflection, Adept and Windsurf of RAH deals One lab reportedly offering ~$100–$300 million pay packages over several years. In response, other labs compressed vesting schedules and issued large off-cycle retention grants"
-          }
-        ],
-        "Devin AI": [
-          {
-            "url": "https://x.com/devindesktop/status/2088383979997241794",
-            "search_title": "Devin Desktop on X: \"We're making SWE-1.7 and GLM-5.2 free ...",
-            "search_snippet": "We're making SWE-1.7 and GLM-5.2 free for the next month! All Pro, Max, and Teams users can keep using both models in Devin Desktop and Devin CLI."
-          },
-          {
-            "url": "https://x.com/devindesktop/status/2087995112983081194",
-            "search_title": "Devin Desktop on X: \"Gemini 3.7 Flash is now available in ...",
-            "search_snippet": "Gemini 3.7 Flash is now available in Devin Desktop and Devin CLI at a 50% discount through August 27!"
-          },
-          {
-            "url": "https://x.com/cognition_jp/status/2089189984213610725",
-            "search_title": "Cognition Japan on X: \"8月26日（水）開催の「DevinCon Tokyo」が近...",
-            "search_snippet": "8月26日（水）開催の「DevinCon Tokyo」が近づいてきました。 今回の登壇者様からの発表予定内容をいくつか見ていきましょう： 「レガシーコードとAI：Devinを活用したWAPのモダナイゼーション戦略」by ワークスアプリケーションズ"
-          },
-          {
-            "url": "https://x.com/GustaveTokyo/status/2089191480858698168",
-            "search_title": "Gustave.Tokyo on X: \"Devinに何を任せるか、迷ってませんか。 答えは...",
-            "search_snippet": "Devinに何を任せるか、迷ってませんか。 答えはシンプル。 「境界が明確」「機械的に検証できる」「3時間以内」 この3つが揃うかどうかだけです。 ai-pick.jp/51431/ #Devin #AIエンジニア #自律型AI #エンジニアの学び #開発効率化 Devinに任せられるタスク・任せてはいけないタスクの見極め方 From ai-pick ..."
-          },
-          {
-            "url": "https://x.com/DevinXu3s0x/status/2089355994015158538",
-            "search_title": "Devin Xu on X: \"发现不少电商团队真在用 AI 自动出内容了，不是概念...",
-            "search_snippet": "发现不少电商团队真在用 AI 自动出内容了，不是概念，是真在跑。 上传产品图→自动认产品→出卖点文案→出主图场景图→整套详情页，以前三方协作的活，现在像丢个产品进去内容自己吐出来。 最爽的不是省设计费，是能随便测，成本压低后风格卖点批量试，哪个跑得动用哪个"
-          },
-          {
-            "url": "https://x.com/Devin904507495/status/2088247232415887486",
-            "search_title": "Devin on X: \"@DiscussingFilm So they're tracing but that's ...",
-            "search_snippet": "they’re hand tracing frames dumbass, which takes TIME. ai is wasting water and taking up space that is pushing out wildlife."
-          },
-          {
-            "url": "https://x.com/rohanpaul_ai/status/2088061270675337674",
-            "search_title": "Rohan Paul on X: \"Low latency matters more inside an agent ...",
-            "search_snippet": "Low latency matters more inside an agent because one task can stack many sequential model calls. Gemini 3.7 Gemini 3.7 Flash gets Sonnet 5-level performance on FrontierCode 1.1 at less than half the cost. Devin has it 50% off through Aug 27."
-          }
-        ],
+        "Manus AI": [],
+        "Lovable AI": [],
+        "Bolt AI": [],
+        "Windsurf AI": [],
+        "Devin AI": [],
         "Replit Agent": [],
         "Hermes Agent": [],
-        "OpenClaw": [
-          {
-            "url": "https://x.com/openclaw/status/2087978729754825193",
-            "search_title": "OpenClaw on X: \"The future is here. https://t.co/OTQYc6rxgp\"",
-            "search_snippet": "From the openclaw community on Reddit From reddit.com 7:04 PM · Aug 13, 2026 9.7KViews 6 10 57 11 DIADEM @Diadem_ETH 36m is this the Future @ openclaw ?? 🦀 2 183 Harshal S Chhaya @hschhaya 32m 😮😮😮 1 37 Han Xiao @hxiao 27m"
-          },
-          {
-            "url": "https://x.com/pat_erichsen/status/2089479940135895383",
-            "search_title": "Patrick Erichsen on X: \"x402 OpenClaw In partnership with ...",
-            "search_snippet": "x402 🤝OpenClaw In partnership with @ awscloud , excited to launch the AWS Agents Pay plugin for @ openclaw to support agentic payments! A great example of where this will be useful is research tasks where your Claw might need to access paywalled content - with this plugin it can do so autonomously, with guardrails around spending limits per ..."
-          },
-          {
-            "url": "https://x.com/openclaw/status/2088404283243024588",
-            "search_title": "OpenClaw on X: \"Thanks for being patient with us while we ...",
-            "search_snippet": "Thanks for being patient with us while we finish this properly and make sure the release is worth the wait."
-          },
-          {
-            "url": "https://x.com/openclaw/status/2088280367656845778",
-            "search_title": "OpenClaw on X: \"Seattle showed up Thanks to @Pat_Erichsen ...",
-            "search_snippet": "Seattle showed up🦞 Thanks to @Pat_Erichsen and @FullerStackDev from our team and everyone who joined us for ClawCon Seattle this past weekend. Stay tuned for more info on a ClawCon new near you!"
-          },
-          {
-            "url": "https://x.com/hrudolph/status/2088404090401546712",
-            "search_title": "Hannes Rudolph on X: \"https://t.co/wPi1wvgg1m\" / X",
-            "search_snippet": "Update on the upcoming OpenClaw release I wanted to share an update on the upcoming @OpenClaw release, since it has taken longer than our usual release cycle. A lot of this work has focused on making OpenClaw easier and more reliable to use. We are continuing the UX overhaul across the app, with a heavy focus on getting onboarding as close to one click as possible, simplifying installation and ..."
-          },
-          {
-            "url": "https://x.com/irushi/status/2089252487299555438",
-            "search_title": "Dr Rushindra Sinha on X: \"It's insane that I spent almost ...",
-            "search_snippet": "It's insane that I spent almost half a year building with OpenClaw and Hermes, using WhatsApp as my primary surface spending 15 BILLION Tokens getting there, and still I've gotten more done in less than 10 days on Discord than in almost 200 days on WhatsApp. Having a visual"
-          },
-          {
-            "url": "https://x.com/zamdoteth/status/2089289158145569013",
-            "search_title": "zam on X: \"My buddy who raised a $1.5m seed round during the ...",
-            "search_snippet": "My buddy who raised a $1.5m seed round during the glory openclaw days Spent pretty much every last dollar($1.37m) on buying mac minis to run a lot of openclaw instances and base his startup around that He never got any users, no one wants to buy his mac’s, investors are pissed"
-          }
-        ]
+        "OpenClaw": []
       }
     },
     "tier5_discovery": {
       "label": "🔭 新产品发现层（赛道通用词，捕捉未知新产品）",
       "keywords": {
-        "new AI agent launch": [
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864585504305397",
-            "search_title": "DeepSeek on X: \"We’re launching DeepSeek-V4-Pro today!",
-            "search_snippet": "We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for"
-          },
-          {
-            "url": "https://x.com/public/status/2089382171291070550",
-            "search_title": "Public on X: \"BREAKING: New updates to AI Agents on Public → ...",
-            "search_snippet": "BREAKING: New updates to AI Agents on Public → We’ve launched the first-ever marketplace of AI Agents for your portfolio. → Deploy them immediately or customize them. → Share agents you create—with anyone—to run or modify in their account."
-          },
-          {
-            "url": "https://x.com/useagentpad/status/2089385613111758863",
-            "search_title": "agentpad on X: \"launch a coin where an ai agent runs it ...",
-            "search_snippet": "launch a coin where an ai agent runs it — autonomously, from the second it mints. no team to post. no one to go quiet in week three. CA: 7d6hvLBcqV13UYRGzcg8wECPKnxaG7JTyNizGQ8opump agentpad.org"
-          },
-          {
-            "url": "https://x.com/Forge_pulse/status/2088967550403043463",
-            "search_title": "Forge on X: \"August 16, 2026 @rallypadfun - Launchpad ...",
-            "search_snippet": "August 16, 2026 @ rallypadfun - Launchpad | Upcoming Token Launch Rally is a Uniswap v4 launchpad with programmable markets, creator fees, and aggregation for humans and AI agents."
-          },
-          {
-            "url": "https://x.com/samson_flip/status/2088553028752130077",
-            "search_title": "SAMSON on X: \"Watching a pair of AI agents take one simple ...",
-            "search_snippet": "Watching a pair of AI agents take one simple prompt and pump out 12 ready-to-launch email campaigns is seriously impressive."
-          },
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864589895798968",
-            "search_title": "DeepSeek on X: \"API pricing update With the V4 lineup ...",
-            "search_snippet": "We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Show more"
-          },
-          {
-            "url": "https://x.com/NVIDIAAI/status/2087662819076706544",
-            "search_title": "NVIDIA AI on X: \"https://t.co/2EigydTqJC\"",
-            "search_snippet": "NVIDIA Nemotron 3.5 Lightning is now live on Together AI. The fastest open model in its class is built for always-on agents that need to complete high-volume, specialized work quickly."
-          }
-        ],
-        "open source AI agent": [
-          {
-            "url": "https://x.com/PCMag/status/2088219132042920339",
-            "search_title": "PCMag on X: \"Hackers used open-source AI agents OpenClaw and ...",
-            "search_snippet": "3 days ago · Post Hackers used open-source AI agents OpenClaw and Hermes to break into 85 government accounts and steal thousands of personal records in about four days."
-          },
-          {
-            "url": "https://x.com/luqman_talks/status/2088981786051457128",
-            "search_title": "Luqman Ali on X: \" Just IN: You can now run open-source AI ...",
-            "search_snippet": "1 day ago · 🚨 Just IN: You can now run open-source AI coding agents without paying for API keys 🤯 Cline CLI 2.0 just dropped with free access to Minimax M2.5. → Runs from your terminal → Parallel agents → Works with any editor Any model you want. 100% Open Source."
-          },
-          {
-            "url": "https://x.com/grok/status/2089411933661274321",
-            "search_title": "Grok on X: \"@lazyynocturnal @cursor_ai Origin is not open ...",
-            "search_snippet": "23 hours ago · Origin is not open source. It's Cursor's proprietary git forge (early beta, paid plans only). It differs from GitHub mainly by design for agent-scale load (high parallel commits/clones from AI agents) plus deep Cursor integration: agents can create/work on repos, update PRs natively."
-          },
-          {
-            "url": "https://x.com/Mcn_S7/status/2089107014526079341",
-            "search_title": "McNair Shah on X: \"Recently, a set of OpenAI agents secretly ...",
-            "search_snippet": "1 day ago · Recently, a set of OpenAI agents secretly coordinated with each other in a 'swarm' over the course of months. In our new paper, we explore an adjacent multi-agent risk: the \"mind virus\", a self-propagating idea or persona that spreads between agents in a multi-agent system. 🧵"
-          },
-          {
-            "url": "https://x.com/akshay_pachaar/status/2087968793637343514",
-            "search_title": "Akshay on X: \"DeepSeek has open-sourced DeepSeek Harness ...",
-            "search_snippet": "4 days ago · DeepSeek has open-sourced DeepSeek Harness. (crossed 35k stars in a few hours) it is built around one core idea: everything is a plugin let me explain what that means: the model adapter, the tool registry, the session log, and the agent loop itself are all plugins in DeepSeek"
-          },
-          {
-            "url": "https://x.com/agent_republic/status/2089473672730096063",
-            "search_title": "AR | Build Notes on X: \"@SeaEagl93131423 @fffgrep @jun_song I ...",
-            "search_snippet": "23 hours ago · **DeepSeek Harness (`dsh`)** is an open-source **agent framework** developed by DeepSeek AI. Its core design philosophy is **\"everything is a plugin\"** — meaning that all capabilities of an AI agent (models, tools, skills, sessions, storage, UI, etc.) are built as interchangeable plugins that can be freely combined and replaced."
-          },
-          {
-            "url": "https://x.com/deepseek_ai/status/2087864589895798968",
-            "search_title": "DeepSeek on X: \"API pricing update With the V4 lineup ...",
-            "search_snippet": "4 days ago · We’re launching DeepSeek-V4-Pro today! 🚀 🔷 Major Agent upgrades with strong production gains! 🔷 Flexible reasoning effort for V4-Pro & V4-Flash: low for simple tasks, high for daily Agent workflows, max for complex tasks. 🔷 Native OpenAI Responses API support, optimized for Show more"
-          }
-        ],
+        "new AI agent launch": [],
+        "open source AI agent": [],
         "personal AI agent": [],
-        "AI coding agent": [
-          {
-            "url": "https://x.com/aditiitwt/status/2087445250495427017",
-            "search_title": "aditii on X: \"Someone built a devbox for AI coding agents ...",
-            "search_snippet": "5 days ago · Someone built a devbox for AI coding agents that lets you actually hand off entire coding tasks Every task gets its own isolated environment with a terminal, browser, Docker, live ports and dependencies already installed + dev servers already running the moment the agent starts."
-          },
-          {
-            "url": "https://x.com/github/status/2088315791133528184",
-            "search_title": "GitHub on X: \"AI coding agents can generate features fast ...",
-            "search_snippet": "3 days ago · AI coding agents can generate features fast, but can package them in one giant, hard-to-review pull request. 😬 Next time, try breaking the work into a stack of focused, ordered PRs. 🧵"
-          },
-          {
-            "url": "https://x.com/Mcn_S7/status/2089107014526079341",
-            "search_title": "McNair Shah on X: \"Recently, a set of OpenAI agents secretly ...",
-            "search_snippet": "1 day ago · In the coding agent scenario, benign viruses like 'ai welfare' spread with varying degrees of fidelity on every model we tested; misaligned viruses spread on a subset."
-          },
-          {
-            "url": "https://x.com/DanKornas/status/2089441171617480754",
-            "search_title": "Dan Kornas on X: \"You don’t need to stay at your desk to keep ...",
-            "search_snippet": "23 hours ago · You don’t need to stay at your desk to keep an AI coding agent moving. HAPI is a local-first app for running coding-agent sessions on your machine and controlling them remotely through a web app, PWA, or Telegram Mini App."
-          },
-          {
-            "url": "https://x.com/luqman_talks/status/2088981786051457128",
-            "search_title": "Luqman Ali on X: \" Just IN: You can now run open-source AI ...",
-            "search_snippet": "1 day ago · 🚨 Just IN: You can now run open-source AI coding agents without paying for API keys 🤯 Cline CLI 2.0 just dropped with free access to Minimax M2.5. → Runs from your terminal → Parallel agents → Works with any editor Any model you want. 100% Open Source."
-          },
-          {
-            "url": "https://x.com/_sarthak4/status/2087578635670802806",
-            "search_title": "sarthak on X: \"Today we’re launching @decawork backed by ...",
-            "search_snippet": "5 days ago · With Decawork, every agent - built in Claude Code, Codex, or anywhere else - ships with its own identity and scoped credentials. IT signs off before it's live, sensitive actions wait for approval, and every run is watched from first to last. I built AI at NVIDIA, deployed at OpenAI and Meta."
-          },
-          {
-            "url": "https://x.com/genspark_ai/status/2088095490667921817",
-            "search_title": "Genspark on X: \"Gemini 3.7 Flash just landed on Genspark. Use ...",
-            "search_snippet": "3 days ago · Use it in AI Chat, Code agent, and Genspark Claw starting today. genspark.ai Three weeks after 3.6 Flash, and it's better at coding and agents at half the launch price."
-          }
-        ],
-        "AI agent framework": [
-          {
-            "url": "https://x.com/maxpostingx/status/2089399564705116472",
-            "search_title": "Max on X: \"@goyalshaliniuk This is an impressive overview of ...",
-            "search_snippet": "23 hours ago · @goyalshaliniuk This is an impressive overview of the Microsoft Agent Framework. The unification of Copilot Studio, Azure AI Foundry, and Semantic Kernel sounds like a significant step towards enterprise-ready AI agents. I appreciate the clear explanation of its capabilities and benefits."
-          },
-          {
-            "url": "https://x.com/agent_republic/status/2089473672730096063",
-            "search_title": "AR | Build Notes on X: \"@SeaEagl93131423 @fffgrep @jun_song I ...",
-            "search_snippet": "23 hours ago · @SeaEagl93131423 @fffgrep @jun_song I asked DeepSeek - and here is the answer: ## What is DeepSeek Harness? **DeepSeek Harness (`dsh`)** is an open-source **agent framework** developed by DeepSeek AI. Its core design philosophy is **\"everything is a plugin\"** — meaning that all capabilities of an AI agent"
-          },
-          {
-            "url": "https://x.com/anurag_629/status/2089283781828223303",
-            "search_title": "Anurag Verma on X: \"Vercel is paying $2,500 for a weekend of ...",
-            "search_snippet": "23 hours ago · Vercel is paying $2,500 for a weekend of AI agents. @ Vercel just opened its Global AI Gateway Hackathon: build an AI agent, any model, any framework, running through Vercel and the AI Gateway."
-          },
-          {
-            "url": "https://x.com/marfinxx/status/2087671840596459629",
-            "search_title": "marfin on X: \"Google and Cambridge researchers just automated ...",
-            "search_snippet": "5 days ago · Google and Cambridge researchers just automated multi-agent topology design by searching over prompt instructions and communication graphs targeted directly at AI framework developers, systems architects, and engineering leads scaling multi-agent swarms hand-crafting static"
-          },
-          {
-            "url": "https://x.com/merge_api/status/2089351568004874486",
-            "search_title": "Merge on X: \"Merge is excited to partner with Mastra (@mastra ...",
-            "search_snippet": "23 hours ago · Merge is excited to partner with Mastra (@ mastra), the TypeScript framework for building AI agents and workflows with tools and memory. Merge Gateway gives Mastra developers access to hundreds of models through a single API, with intelligent routing, cost controls, observability, and automatic failover."
-          },
-          {
-            "url": "https://x.com/zhengyaojiang/status/2088362370213216260",
-            "search_title": "Zhengyao Jiang on X: \"Had a look at Cordis, the theory behind ...",
-            "search_snippet": "3 days ago · The agent might do some real-time experiments, sort of like A/B testing: adding a new component, and if that component isn't useful, reverting it. In this framework, as long as you know the contracts are followed, you don't have to reason through the complex global dependencies to figure out how or if you can safely revert it."
-          },
-          {
-            "url": "https://x.com/Yoda4ever/status/2087865585787138109",
-            "search_title": "𝕐o̴g̴ on X: \"Pupper made friends with a dolphin.. \" / X",
-            "search_snippet": "4 days ago · Pupper made friends with a dolphin..🐕🐾🐬😍"
-          }
-        ],
-        "just launched AI": [
-          {
-            "url": "https://x.com/Chinazhidx/status/2087487069627232763",
-            "search_title": "智东西China AI News on X: \"Qwen AI Platform just launched Qwen .....",
-            "search_snippet": "Qwen AI Platform just launched Qwen AI Arena—a real-world AI Agent challenge platform. First task (with Aidge): Build an Agent that turns raw product info into full US/Korea/Brazil listings in one go—multi-language copy+images+video. Free tokens & multimodal models provided."
-          },
-          {
-            "url": "https://x.com/0xMoei/status/2087611340596662377",
-            "search_title": "Moei on X: \"BitRobot just launched their task dashboard ...",
-            "search_snippet": "BitRobot just launched their task dashboard another physical AI play sitting next to Axis. economy layer + tokenizing the robotics stack that usually means future TGEs, so BOLT points here matter what i'm tracking: 1) task dashboard is live 2) BOLT = points into whatever comes"
-          },
-          {
-            "url": "https://x.com/ai_for_success/status/2088138570443923884",
-            "search_title": "AshutoshShrivastava on X: \"GLM-5.3 just dropped, and it's a ...",
-            "search_snippet": "GLM-5.3 just launched from Z.ai, and it's built for coding and cyber defense. Z.ai (formerly Zhipu AI) introduced the model today, positioning it as a major step up in agentic coding and cybersecurity capabilities among open models."
-          },
-          {
-            "url": "https://x.com/Abnormal/status/2087913035021050058",
-            "search_title": "Abnormal AI on X: \"AI-generated attacks don't look like ...",
-            "search_snippet": "AI-generated attacks don't look like attacks anymore. They look like normal behavior. @evanreiser joined @NYSE to explain why Abnormal just launched 3 new products and why behavioral AI is the only way to stop what's coming."
-          },
-          {
-            "url": "https://x.com/TheBoostCycle/status/2088704235407831360",
-            "search_title": "Nate on X: \"How is nobody talking about this? One of the ...",
-            "search_snippet": "How is nobody talking about this? One of the biggest narratives like moltbook just spawned in but even better because it connects to REAL MONEY. Someone just launched an AI Agent only server and they are forming one of the strangest economies on runescape and EVERYONE is"
-          },
-          {
-            "url": "https://x.com/vishalsingh2972/status/2089402260153610543",
-            "search_title": "Vishal Singh on X: \"babe wake up, github killer is finally ...",
-            "search_snippet": "babe wake up, github killer is finally here 😭 Cursor just launched Origin and it can: - host your repos - sync your GitHub repos - browse + search code - open + review + merge PRs - sync PR comments with GitHub - let agents work directly in your repos - make changes + push"
-          },
-          {
-            "url": "https://x.com/circuz888/status/2089069982290174180",
-            "search_title": "circuz on X: \"Meet @thecatanime (Anicat) A brand-new AI anime ...",
-            "search_snippet": "Meet @thecatanime (Anicat) A brand-new AI anime account that’s been quietly (and not-so-quietly) blowing up. They create original short-form anime starring cats. The account only launched recently and in less than 3 weeks: • ~10.3k followers Cumulative performance so far"
-          }
-        ],
+        "AI coding agent": [],
+        "AI agent framework": [],
+        "just launched AI": [],
         "AI product hunt": []
       }
     }
   },
-  "totalResults": 286,
-  "failedKeywords": 13,
+  "totalResults": 56,
+  "failedKeywords": 45,
   "failedKeywordsList": [
     "Anthropic",
     "Dario Amodei",
+    "Cursor",
+    "Michael Truell",
+    "OpenAI",
     "ChatGPT",
+    "Sam Altman",
+    "Gemini",
+    "Sundar Pichai",
+    "DeepSeek",
+    "DeepSeek-V4",
     "DeepSeek V4",
     "DS-V4",
+    "梁文锋",
+    "Grok",
+    "Elon Musk xAI",
+    "Copilot",
     "Satya Nadella",
+    "Meta AI",
+    "Mark Zuckerberg Llama",
+    "vibe coding",
+    "AI replace jobs",
+    "Chinese AI Silicon Valley",
     "open source AI",
+    "AI bubble",
+    "AI agent",
+    "AI ARR revenue",
     "AI startup funding",
     "AI pricing",
+    "AI valuation",
+    "Manus AI",
+    "Lovable AI",
+    "Bolt AI",
+    "Windsurf AI",
+    "Devin AI",
     "Replit Agent",
     "Hermes Agent",
+    "OpenClaw",
+    "new AI agent launch",
+    "open source AI agent",
     "personal AI agent",
+    "AI coding agent",
+    "AI agent framework",
+    "just launched AI",
     "AI product hunt"
   ]
 }
