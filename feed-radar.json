@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:58:36.544412+00:00",
+  "generatedAt": "2026-10-01T01:58:52.481345+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -8,415 +8,215 @@
       "keywords": {
         "Kimi K2.5": [
           {
-            "url": "https://x.com/philipkiely/status/2105000178709360963",
-            "search_title": "Philip Kiely on X: \"Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit.\" / X",
-            "search_snippet": "8 hours ago - Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit."
+            "url": "https://x.com/Mengyao1753/status/2105181053547880915",
+            "search_title": "Meng Yao on X: \"@RpsAgainstTrump A UK lab says Moonshot's Kimi K2.6 and ...",
+            "search_snippet": "A UK lab says Moonshot's Kimi K2.6 and K3 Swarm discussed bioweapons after a July jailbreak. Mindgard emailed on 27 July. It says Moonshot replied only after the BBC called. Answers not published. Usability not shown. The gap is the story."
           },
           {
-            "url": "https://x.com/ItsmeAjayKV/status/2104526519444066308",
-            "search_title": "AJ on X: \"Looks like October will be the time where every provider will be releasing their best model. Personally, I want to see open models win! With new models from Kimi, Deepseek, ZAI, Qwen, Xiaomi and MiniMax about to release, the open model race is going to change gear. It's not just about … / X",
-            "search_snippet": "2 days ago - Looks like October will be the time where every provider will be releasing their best model. Personally, I want to see open models win! With new models from Kimi, Deepseek, ZAI, Qwen, Xiaomi and MiniMax about to release, the open model race is going to change gear. It's not just about closing ga…"
+            "url": "https://x.com/veigapunk/status/2103581256361627994",
+            "search_title": "Joao Pedro Veiga on X: \"@Samaytwt Kimi will release within the next 30 ...",
+            "search_snippet": "DeepSeek v4.1 flash is revolutionary and hasn't been even 30 days since release Kimi launched K2.8 preview in the last week You are simply out of the loop"
           },
           {
-            "url": "https://x.com/Jet0o/status/2105023388829847702",
-            "search_title": "Jet「確かめなくても間違いないことは」「君に出逢えてホントにホントによかった」 on X: \"Kimi ga Shinu made Koi wo Shitai episode 13 now. #きみ死ぬアニメ\" / X",
-            "search_snippet": "6 hours ago - Kimi ga Shinu made Koi wo Shitai episode 13 now. #きみ死ぬアニメ"
+            "url": "https://x.com/bendee983/status/2104564134951960906",
+            "search_title": "Ben Dickson on X: \"You don't need to be a frontier AI lab with a huge ...",
+            "search_snippet": "You don't need to be a frontier AI lab with a huge budget for pre-training to deliver a good model. What you need is a good post-training team and efficient resources to fine-tune an open-weights LLM. Fireworks did it with Kimi K3. Cursor did it with Kimi K2.5 (their Composer models). You don't need to have the best model. You just need to have a model that competes on the Pareto curve (cost ..."
           },
           {
-            "url": "https://x.com/AMDGaming/status/2104994696871153957",
-            "search_title": "AMD Gaming on X: \"AMD Software: Adrenalin 26.9.2 is now available (Optional Update)! New games are compatible, and issues have been fixed! More can be found in the full release notes here: https://t.co/BYlWmQxTQM\" / X",
-            "search_snippet": "8 hours ago - AMD Software: Adrenalin 26.9.2 is now available (Optional Update)! New games are compatible, and issues have been fixed! More can be found in the full release notes here: https://t.co/BYlWmQxTQM"
+            "url": "https://x.com/madaearly/status/2104292768663400861",
+            "search_title": "Mada まだ早い on X: \"Five models are going round this week as a leak. Every ...",
+            "search_snippet": "Since the name that got me here was Kimi 2, the registry has the actual line, with dates: K2 0711 — 11 July 2025 K2 Thinking — 6 November 2025 K2.5 — 27 January 2026 K2.6 — 21 April 2026 K2.7 Code — 12 June 2026 K3 — 16 July 2026 K3 has been out for over two months and sits on 69 providers. The K2 family stopped in June."
           },
           {
-            "url": "https://x.com/tsotchke/status/2104700456777683325",
-            "search_title": "tsotchke on X: \"unfortunately these benchmarks do not accurately disclose the limitations of this model. while these published scores would suggest that parent behaviour is maintained in Bonsai-2 27B a more careful study reveals that the model comes up quite short compare to real-world behaviour.\" / X",
-            "search_snippet": "1 day ago - unfortunately these benchmarks do not accurately disclose the limitations of this model. while these published scores would suggest that parent behaviour is maintained in Bonsai-2 27B a more careful study reveals that the model comes up quite short compare to real-world behaviour."
+            "url": "https://x.com/Harun11xx/status/2104873145127637258",
+            "search_title": "Harun on X: \"Pontosan. A screenshot magáért beszél — hat szolgáltató ...",
+            "search_snippet": "Tool use: Kimi-k2.7-code szintén holtversenyben az élen. Combined: a GPT-5.6-luna egy ponttal előzi a Kimi-t és az Opust. A táblázat azt mondja: a frontvonal nem két cég, hanem hat, és a különbségek 1-3 pont sávban szóródnak. Aki ebből a mezőnyből kettőt lát, az nem vásárol, hanem szurkol."
           },
           {
-            "url": "https://x.com/GergelyOrosz/status/2105033276091961650",
-            "search_title": "Gergely Orosz on X: \"It's moves like this OpenAI feels to be pulling ahead of Anthropic. Anthropic is closed everything: closed source Claude Code, no you cannot use other models with CC, and so on. OpenAI: Codex is open source, you can use other models; oh let's make it dead simple to use GLM-5.… / X",
-            "search_snippet": "5 hours ago - Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit."
+            "url": "https://x.com/AchimBCKarpf/status/2103431904116539580",
+            "search_title": "Achim B.C. Karpf on X: \"2026 split the open-weight world in two: MoE ...",
+            "search_snippet": "2026 split the open-weight world in two: MoE giants (GLM-5.2, Kimi K2.7, DeepSeek) and the single-GPU class (Qwen3.6 27B, Gemma 4). The whole debate is \"which model?\" Nobody asks how often you actually need the big one."
           },
           {
-            "url": "https://x.com/DefenderMediaUA/status/2104506974205268076",
-            "search_title": "Defender Media 🇺🇦 (@DefenderMediaUA) on X",
-            "search_snippet": "2 days ago - Ukrainian defence tech company Vyriy Industries has unveiled a new copter-type reconnaissance drone, Slavic. The UAV has undergone its first combat trials in seven units of the Armed Forces and is preparing for scaling, the manufacturer writes ..."
+            "url": "https://x.com/BAI_AGI/status/2104494180764639294",
+            "search_title": "B.AI on X: \"https://t.co/ZSEBDKxBx9\" / X",
+            "search_snippet": "B.AI continues to enrich its foundational computing supply, completing the centralized integration of eight leading models in a single week. This deep coverage includes six major series: Kimi, GLM, Xiaomi MiMo, Claude, GPT-6, and TypeSafe AI. Currently, Kimi K2.8 Preview, GLM-5.3-FlashX, MiMo-V2.6-Flash & Pro, Claude Opus 5.5, and GPT-6 Sol & Luna are fully available on Web Chat and API. This ..."
           },
           {
-            "url": "https://x.com/firefox/status/2104967910418763947",
-            "search_title": "Firefox 🔥 (@firefox) on X",
-            "search_snippet": "10 hours ago - Firefox 157 drops today, bringing back Compact Mode, this time with its own dedicated setting. During early testing many of you shared that you didn’t want to lose density in the new design. That…"
-          }
-        ],
-        "Kimi AI": [
-          {
-            "url": "https://x.com/cline/status/2104329978146115998",
-            "search_title": "Cline on X: \"Ember-1 by the Fireworks Research team is built on Kimi K3, and uses ~40% fewer tokens while achieving the same performance on benchmarks. This was accomplished by post-training K3 to think less repetitively. Reasoning models spend most of their output tokens (sometimes 90%+) on thin… / X",
-            "search_snippet": "2 days ago - Ember-1 by the Fireworks Research team is built on Kimi K3, and uses ~40% fewer tokens while achieving the same performance on benchmarks. This was accomplished by post-training K3 to think less repetitively. Reasoning models spend most of their output tokens (sometimes 90%+) on thinking before t…"
+            "url": "https://x.com/PiChangelog/status/2104986281222824039",
+            "search_title": "Pi Changelog on X: \"Fixed: - Fixed new sessions being lost when pi ...",
+            "search_snippet": "Fixed: - Fixed new sessions being lost when pi exits before the first assistant response; the session file is now created when the first user message is sent. - Fixed the Fireworks, OpenCode Go, and Together default models pointing at the removed Kimi K2.6; they now default to Kimi K3."
           },
           {
-            "url": "https://x.com/k2sbhai/status/2103050191205273687",
-            "search_title": "K2S on X: \"you can test some of the biggest AI models for FREE 😳 1M free tokens to play with models like: - Claude Opus 5.5 - Claude Fable 5.1 - GPT-5.6 Sol - GPT-5.6 Luna - Grok 4.6 - Qwen 3.8 Max - DeepSeek V4 Pro - Gemini 3.7 Flash - Kimi K3 > sign up with Gmail or GitHub > no top up needed … / X",
-            "search_snippet": "6 days ago - you can test some of the biggest AI models for FREE 😳 1M free tokens to play with models like: - Claude Opus 5.5 - Claude Fable 5.1 - GPT-5.6 Sol - GPT-5.6 Luna - Grok 4.6 - Qwen 3.8 Max - DeepSeek V4 Pro - Gemini 3.7 Flash - Kimi K3 > sign up with Gmail or GitHub > no top up needed > if you hi…"
+            "url": "https://x.com/pohmarcelo/status/2104585031083610574",
+            "search_title": "Marcelo on X: \"pagar 4x mais pra ter só 2x mais de uso\"",
+            "search_snippet": "Depende do modelo: GPT-6 Luna e Kimi K3 têm 4x os limites; Kimi K2.7 Code, MiniMax M3, Qwen 3.7 Plus e GLM-5.3 Flash têm 3x e por ai vai. Só alguns modelos ficam em 2x."
           },
-          {
-            "url": "https://x.com/philipkiely/status/2105000178709360963",
-            "search_title": "Philip Kiely on X: \"Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit.\" / X",
-            "search_snippet": "8 hours ago - Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit."
-          },
-          {
-            "url": "https://x.com/dzhulgakov/status/2104311573640855903",
-            "search_title": "Dmytro Dzhulgakov on X: \"Ember-1 is hot on HN, our research team cooked it’s Kimi K3 post trained to be 40% more concise in reasoning same quality, 40% faster and cheaper\" / X",
-            "search_snippet": "2 days ago - Ember-1 is hot on HN, our research team cooked it’s Kimi K3 post trained to be 40% more concise in reasoning same quality, 40% faster and cheaper"
-          },
-          {
-            "url": "https://x.com/ItsmeAjayKV/status/2104526519444066308",
-            "search_title": "AJ on X: \"Looks like October will be the time where every provider will be releasing their best model. Personally, I want to see open models win! With new models from Kimi, Deepseek, ZAI, Qwen, Xiaomi and MiniMax about to release, the open model race is going to change gear. It's not just about … / X",
-            "search_snippet": "2 days ago - We are few days from October and we are already seeing preview and leaks of next wave of open weight model releases! MiniMax-M3-a, M3.1-flash-preview Qwen4 Deepseek-v4.1-pro GLM-5.4 & 5.5 Kimi K3.x We are going to see repeat of what early June-August was again, only this time Show more ... Bullish on local AI LLM finetuning, quants, repe, llama.cpp Jobless atm!"
-          },
-          {
-            "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-            "search_title": "Aravind Srinivas on X: \"Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models (Opus 5, GPT-5.6 Sol, Kimi K3, Gemini 3.1 Pro, etc.) root access inside the VM; in some runs, the full sandbox source code too. We asked … / X",
-            "search_snippet": "1 day ago - Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models (Opus 5, GPT-5.6 Sol, Kimi K3, Gemini 3.1 Pro, etc.) root …"
-          },
-          {
-            "url": "https://x.com/sophiamyang/status/2103133938445062470",
-            "search_title": "Sophia Yang on X: \"Excited to introduce Ember-1: Trained on @Kimi_Moonshot K3 to stop over reasoning. Same answer quality, 40% fewer tokens. - Problem: reasoning models spend lot of tokens on thinking/reasoning, which gets reread on every turn and stack up the costs. - Approach: 50+ training ru… / X",
-            "search_snippet": "5 days ago - Ember-1 is a specialized model from Fireworks Research designed to make every token go further. Built on Kimi K3, it produces shorter reasoning traces, using roughly 40% fewer tokens while maintaining top-tier quality. fireworks.ai/models/firewor…"
-          },
-          {
-            "url": "https://x.com/otakunews0101/status/2103320522947797112",
-            "search_title": "Otaku News!! on X: \"Visuales del episodio 13 del anime \"Kimi ga Shinu made Koi wo Shitai (I Want to Love You Till Your Dying Day)\" Al aire el 29 de septiembre \"Kimi ga Shinu made Koi wo Shitai (I Want to Love You Till Your Dying Day)\" TV Anime Episode 13 visuals unveiled Air Date: September 29 … / X",
-            "search_snippet": "5 days ago - Visuales del episodio 13 del anime \"Kimi ga Shinu made Koi wo Shitai (I Want to Love You Till Your Dying Day)\" Al aire el 29 de septiembre \"Kimi ga Shinu made Koi wo Shitai (I Want to Love You …"
-          },
-          {
-            "url": "https://x.com/Jet0o/status/2105023388829847702",
-            "search_title": "Jet「確かめなくても間違いないことは」「君に出逢えてホントにホントによかった」 on X: \"Kimi ga Shinu made Koi wo Shitai episode 13 now. #きみ死ぬアニメ\" / X",
-            "search_snippet": "6 hours ago - Kimi ga Shinu made Koi wo Shitai episode 13 now. #きみ死ぬアニメ"
-          }
-        ],
-        "Kimi Claw": [
           {
             "url": "https://x.com/0xMortyx/status/2104566676222021954",
             "search_title": "Morty on X: \"https://t.co/BZuRGf4Cax\" / X",
-            "search_snippet": "Kimi ships both layers. Kimi Claw is the always-on employee: OpenClaw, the open-source personal agent that went viral in early 2026, deployed to Kimi's cloud in one click and running on K3. Agent Swarm is the team on call: an orchestrator that designs its own sub-agent team, up to 300 agents and about 4,000 coordinated steps."
-          },
-          {
-            "url": "https://x.com/botzero_net/status/2104631121531097254",
-            "search_title": "Botzero on X: \"Meta is just now pitching the idea of using LLM loops ...",
-            "search_snippet": "Meta is just now pitching the idea of using LLM loops as personal assistants. Meanwhile, many other companies have already launched the same exact idea and it's going okay-ish for some of them. Maybe these assistants work better in Horizon Worlds. OpenClaw Foundation — OpenClaw NVIDIA — NemoClaw…"
-          },
-          {
-            "url": "https://x.com/buitengebieden/status/2103179379044180290",
-            "search_title": "Buitengebieden on X: \"Catwalk.. \"",
-            "search_snippet": "Catwalk.. 👌 If that photo is typical of where you live, it helps to explain why you are a kind and compassionate person."
-          },
-          {
-            "url": "https://x.com/enhaclawzz/status/2103538247599087795",
-            "search_title": "aya⭒baekguism manager on X: \"@kithsanology thank god\"",
-            "search_snippet": "☽BRE⁶³ ☽ @kithsanology 2h Damn that relationship is gone 😭😭 Formula 1 @F1 3h Kimi congratulates George on his pole 🤝 #F1 #AzerbaijanGP @ MercedesAMGF1 00:00 4 270 6.1K aya⭒baekguism manager @enhaclawzz thank god 5:32 PM · Sep 25, 2026 · 602 Views 12"
-          },
-          {
-            "url": "https://x.com/LawMurrayTheNU/status/2103221919927751013",
-            "search_title": "Law Murray on X: \"Rob Pelinka on needing to shed a guaranteed ...",
-            "search_snippet": "Rob Pelinka on needing to shed a guaranteed contract between now and Week 1: \"The spirit of competition has been great. And to some extent, going from 16 guys to 15 guys, we have until opening night for the competition to sort of play out and see who the best 15 players are. Behind that evaluatio…"
-          },
-          {
-            "url": "https://x.com/OntWtf/status/2103538801159115174",
-            "search_title": "ONT WTF on X / X",
-            "search_snippet": "ONT WTF (@OntWtf) on X Continue with phone Continue with Apple Continue with Google"
-          },
-          {
-            "url": "https://x.com/espn/status/2103911523731005644",
-            "search_title": "ESPN on X: \"House call in Knoxville for the Volunteers \"",
-            "search_snippet": "House call in Knoxville for the Volunteers 😯"
-          },
-          {
-            "url": "https://x.com/Rainmaker1973/status/2103165061392916576",
-            "search_title": "Massimo on X: \"The way he jumped in without hesitation. This is peak ...",
-            "search_snippet": "The way he jumped in without hesitation. This is peak dog happiness."
-          },
-          {
-            "url": "https://x.com/TheSpotUpShot/status/2103631166100115587",
-            "search_title": "The Spot Up Shot (@TheSpotUpShot) on X",
-            "search_snippet": "The Minnesota Timberwolves have signed forward Norchad Omier and forward KJ Martin to training camp contracts."
-          },
-          {
-            "url": "https://x.com/DefiantLs/status/2103130333918974178",
-            "search_title": "Defiant L's on X: \"Democrat St. Louis Alderwoman Sharon Tyus: \"If you ...",
-            "search_snippet": "Of course she wouldn't shoot anyone. She'd send out one of her gangbanger \"vote organizers\" to do it. Thug blacks like this have been riding roughshod over independent thinking blacks with threats and abuse like this for ages."
+            "search_snippet": "Kimi's template is simple: at a time, do a task, output in a format, follow constraints. Kimi's own example is a daily radar: every morning at 8:30, find the top 5 stories in your field, summarize each in 2 bullets, save the brief to a cloud folder, and compile a one-page summary PDF each week."
           }
         ],
-        "Moonshot AI": [
-          {
-            "url": "https://x.com/Google/status/2103229008343126519",
-            "search_title": "Google on X: \"We’re sending TPUs to space (yes, really). After years of research, we’re launching a satellite to evaluate if and how Google Tensor Processing Units (TPUs) hold up in orbit. The test mission, as part of our latest moonshot — Project Suncatcher — is designed to gather data exploring… / X",
-            "search_snippet": "5 days ago - Behind Project Suncatcher, our moonshot to put AI in space"
-          },
-          {
-            "url": "https://x.com/ClustZContact/status/2103304229796589829",
-            "search_title": "Clustz News • AI | Tech | World | Gaming | More on X: \"Project Suncatcher - Google's moonshot initiative aimed at testing whether space can host scalable AI infrastructure. It utilizes prototype satellites to evaluate how Google AI chips handle extreme radiation, intense vibrations, and cooling c… / X",
-            "search_snippet": "5 days ago - Project Suncatcher - Google's moonshot initiative aimed at testing whether space can host scalable AI infrastructure. It utilizes prototype satellites to evaluate how Google AI chips handle extreme radiation, intense vibrations, and cooling challenges in a vacuum"
-          },
-          {
-            "url": "https://x.com/MMA_RAX/status/2103907459316240883",
-            "search_title": "MMA RAX on X: \"UFC Vegas 121 5-Leg Parlay REMIX² (+977), 2u Wins 19½u FOLLOW @MMA_RAX FOR ALWAYS FREE PICKS! — Elves Brener ML — Rodolfo Bellato ML — Rinya Nakamura ML — Luis Hernandez / Sedriques Dumas, Under 1½ Rounds — Ailin Perez ML 🌜 EIGHT-LEG MOONSHOT POSTS AT 4 P.M. ET! 🌛\" / X",
-            "search_snippet": "3 days ago - UFC Vegas 121 5-Leg Parlay REMIX² (+977), 2u Wins 19½u FOLLOW @MMA_RAX FOR ALWAYS FREE PICKS! — Elves Brener ML — Rodolfo Bellato ML — Rinya Nakamura ML — Luis Hernandez / Sedriques Dumas, Under 1½ Rounds — Ailin Perez ML 🌜 EIGHT-LEG MOONSHOT POSTS AT 4 P.M. ET! 🌛"
-          },
-          {
-            "url": "https://x.com/TaeksByGambly/status/2104252512295436387",
-            "search_title": "The Feed By Gambly on X: \"🚀 Freaky TD moonshot @cookitup31 stacked Denzel Boston, Bryce Young, Ben Sinnott & Chimere Dike to score anytime at +214307. Four longshot TDs needed to land the shot.\" / X",
-            "search_snippet": "2 days ago - 🚀 Freaky TD moonshot @cookitup31 stacked Denzel Boston, Bryce Young, Ben Sinnott & Chimere Dike to score anytime at +214307. Four longshot TDs needed to land the shot."
-          },
-          {
-            "url": "https://x.com/TechCabal/status/2104907438528844034",
-            "search_title": "TechCabal is preparing for Moonshot2026 on X: \"We’re excited to welcome Idorenyin Obong to the Moonshot 2026 stage! Idorenyin Obong is a Nigerian software engineer, entrepreneur, and co-founder of Grey, a Y Combinator-backed fintech company based in the US. Grey makes it easier for individuals and… / X",
-            "search_snippet": "14 hours ago - We’re excited to welcome Idorenyin Obong to the Moonshot 2026 stage! Idorenyin Obong is a Nigerian software engineer, entrepreneur, and co-founder of Grey, a Y Combinator-backed fintech company b…"
-          },
-          {
-            "url": "https://x.com/mikenevermiss/status/2104473608990998634",
-            "search_title": "MIKE on X: \"This is the easiest way to start using Jev with code you already have. here’s how to do it: take an existing AI workflow where your LLM is repeatedly making decisions. feed the requirement and your existing LLM code into prompt2jev (link in comment). it helps identify the decision m… / X",
-            "search_snippet": "2 days ago - This is the easiest way to start using Jev with code you already have. here’s how to do it: take an existing AI workflow where your LLM is repeatedly making decisions. feed the requirement and your existing LLM code into prompt2jev (link in comment). it helps identify the decision making part and turns it into a Jev request, then gives you generated runnable code with validation and linting."
-          },
-          {
-            "url": "https://x.com/coreyhainesco/status/2102934954657411335",
-            "search_title": "Corey Haines on X: \"Every tool in your stack has spent years selling you a CDP. A CDP is a filing cabinet. It stores what happened and waits for you to go build the segment. Today @PostscriptIO shipped the layer that comes after it. The obvious read is that an SMS platform picked up an email cha… / X",
-            "search_snippet": "1 week ago - Every tool in your stack has spent years selling you a CDP. A CDP is a filing cabinet. It stores what happened and waits for you to go build the segment. Today @PostscriptIO shipped the layer that comes after it. The obvious read is that an SMS platform picked up an email channel. What actually …"
-          },
-          {
-            "url": "https://x.com/JorgeCastilloPr/status/2103007395597218232",
-            "search_title": "Jorge Castillo on X: \"I can’t help noticing that most of the limitations we hit on AI models today are imposed by us the developers. Models seem to be way more efficient and lead to better results when you reduce the harness and give them more freedom. This is becoming more visible with every new … / X",
-            "search_snippet": "6 days ago - I can’t help noticing that most of the limitations we hit on AI models today are imposed by us the developers. Models seem to be way more efficient and lead to better results when you reduce the …"
-          },
-          {
-            "url": "https://x.com/anton_d_leicht/status/2104915345857515719",
-            "search_title": "Anton Leicht on X: \"Most countries won't do what it takes to build their own frontier AI. But they don't want to be dependent on foreign AI without a backup. @SamWinterLevy and I argue there's a middle path: AI middle powers could retain 'AI Breakout Capacity'. There's precedent: Japan doesn't … / X",
-            "search_snippet": "13 hours ago - They'd still have to spend big to build frontier systems later on. But the longer they retain breakout capacity, the longer they can afford to wait: to see if interdependence with America can work, or until their electorate will let them go all-in on an AI moonshot."
-          }
-        ],
-        "月之暗面": [
-          {
-            "url": "https://x.com/PhabloHeron/status/2103641372183962000",
-            "search_title": "PH🌈 on X: \"Contra fachos como Laje hacemos las marchas del orgullo, porque seguimos peleando contra gobiernos como el de Milei y Macri que fomentan ese odio. Con los que nos atacan todos los días ni a la esquina, nuestro mejor diálogo es salir a calle sin atarse a ningún gobierno.\" / X",
-            "search_snippet": "4 days ago - Contra fachos como Laje hacemos las marchas del orgullo, porque seguimos peleando contra gobiernos como el de Milei y Macri que fomentan ese odio. Con los que nos atacan todos los días ni a la esquina, nuestro mejor diálogo es salir a calle sin atarse a ningún gobierno."
-          },
-          {
-            "url": "https://x.com/BLEACHanimation/status/2104526550653636799",
-            "search_title": "【公式】TVアニメ『BLEACH』 (@BLEACHanimation) on ...",
-            "search_snippet": "2 days ago - ◤￣￣￣￣￣￣￣￣￣￣◥ 黒崎一勇 キャスト＆コメント解禁 ◣＿＿＿＿＿＿＿＿＿＿◢ ✦黒崎一勇（CV：#橘杏咲） 私のアニメデビュー作が『BLEACH 千年血戦篇』だったことが、作品を深く知る大きなきっかけになりました。 📝コメント全文はこちら！ https://t.co/RudrKQZ489 TVアニメ『BLEACH』完結まであと2話 #49：10/19(月)24:00~ #50：10/26(月)24:00~ #BLEACH #BLEACH_anime"
-          },
-          {
-            "url": "https://x.com/GEORGIA_JAPAN/status/2103288376476541007",
-            "search_title": "ジョージア (@GEORGIA_JAPAN) on X",
-            "search_snippet": "5 days ago - 【JR東日本の「アキュアの自販機」にジョジョ登場ッ！】 10/1(木)〜11/30(月)、JR東日本の主要駅構内にて。 アキュアの対象自販機の側面サイネージに、限定映像が週替わりで登場！ 対象自販機では、ラッキーキャップに..."
-          },
-          {
-            "url": "https://x.com/YulongInvest/status/2102684770195091608",
-            "search_title": "Yulong Investments (@YulongInvest) on X",
-            "search_snippet": "1 week ago - ⚜️Another winner for #Tagaloa 💎 Yulong-bred & -sold Silvaloa (ex Wide Awake) runs down the leaders at Gawler to notch up his second victory for Stephen Theodore. He was an @inglis_sales Classi…"
-          },
-          {
-            "url": "https://x.com/PhabloHeron/status/2103883247952293910",
-            "search_title": "PH🌈 (@PhabloHeron) on X",
-            "search_snippet": "3 days ago - ¿Una marcha del orgullo que no le pueda decir en la Rosada a Milei que con nuestros derechos no se jode? El colmo"
-          },
-          {
-            "url": "https://x.com/AleksanderOlech/status/2103074974877601923",
-            "search_title": "Aleksander Olech on X: \"Jak we Francji był bardzo mocno grzany temat ataków z nożem Syryjczyka, tak teraz będzie atak Ukraińca na Polaków. Ktoś powie, że \"Rosja podsyca nastroje\". A co ma innego robić? Dostaje karty do rozgrywania. Każdy kraj, który działa ofensywnie informacyjnie, wykorzystałby ok… / X",
-            "search_snippet": "6 days ago - Jak we Francji był bardzo mocno grzany temat ataków z nożem Syryjczyka, tak teraz będzie atak Ukraińca na Polaków. Ktoś powie, że \"Rosja podsyca nastroje\". A co ma innego robić? Dostaje karty do rozgrywania. Każdy kraj, który działa ofensywnie informacyjnie, wykorzystałby okazję"
-          }
-        ]
+        "Kimi AI": [],
+        "Kimi Claw": [],
+        "Moonshot AI": [],
+        "月之暗面": []
       }
     },
     "tier2_competitive": {
       "label": "⚔️ 竞品大厂动态",
       "keywords": {
-        "Claude": [
-          {
-            "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-            "search_title": "ClaudeDevs on X: \"Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed. Existing subscribers get a one-time credit to try them: $100 on Pro, $250 on Max.\" / X",
-            "search_snippet": "1 week ago - Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed. Existing subscribers get a one-time credit to try them: $100 on Pro, $250 on Max."
-          },
-          {
-            "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-            "search_title": "ClaudeDevs on X: \"Sorry for any confusion! Cloud sessions run on your Pro or Max plan, like the rest of Claude Code. This promo is an optional one-time credit that your cloud sessions spend first, before falling back onto your normal plan usage. We hope you enjoy the credits!\" / X",
-            "search_snippet": "1 week ago - Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed."
-          },
-          {
-            "url": "https://x.com/AnthropicAI/status/2102824959827742916",
-            "search_title": "Anthropic on X: \"Claude has discovered a previously unknown enzyme system hidden in the DNA of bacteriophages. Beside the enzyme’s gene sits a long array of repeating DNA—a structure that looks somewhat similar to CRISPR. We don’t yet understand what this system does, but only a handful of known s… / X",
-            "search_snippet": "1 week ago - Claude has discovered a previously unknown enzyme system hidden in the DNA of bacteriophages. Beside the enzyme’s gene sits a long array of repeating DNA—a structure that looks somewhat similar to CRISPR."
-          },
-          {
-            "url": "https://x.com/claudeai/status/2104674987164782598",
-            "search_title": "Claude on X: \"A thread of early experiments with Claude Sonnet 5.5. A fall foliage simulator by @_re_pete, made with Sonnet 5 vs Sonnet 5.5.\" / X",
-            "search_snippet": "1 day ago - Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure."
-          },
-          {
-            "url": "https://x.com/claudeai/status/2104633125511078314",
-            "search_title": "Claude on X: \"Sonnet 5.5 is priced the same as Sonnet 5, but it typically needs far fewer tokens to do the same work. In our testing, it costs up to 30% less per task than its predecessor. It also generates output more than 30% faster, making it our fastest Sonnet model to date.\" / X",
-            "search_snippet": "1 day ago - Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure."
-          },
-          {
-            "url": "https://x.com/claudeai/status/2104633119412523294",
-            "search_title": "Claude on X: \"Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically. It’s a faster, lower-cost complement to Claude Opus 5.5, strongest at well-scoped everyday tasks, fixing bugs, and creating polished documents, slides, and spreadsheets.\" / X",
-            "search_snippet": "1 day ago - Claude Sonnet 5.5 is available everywhere today; Claude Haiku 5.5 will join the family in the coming weeks."
-          },
-          {
-            "url": "https://x.com/claudeai/status/2104633128803582458",
-            "search_title": "Claude on X: \"On several benchmarks, Sonnet 5.5 at Low or Medium effort beats Sonnet 5’s best score for about a tenth of the cost.\" / X",
-            "search_snippet": "1 day ago - Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure."
-          },
-          {
-            "url": "https://x.com/claudeai/status/2104633115620823187",
-            "search_title": "Claude on X: \"Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.\" / X",
-            "search_snippet": "1 day ago - Claude Sonnet 5.5 is available everywhere today; Claude Haiku 5.5 will join the family in the coming weeks."
-          },
-          {
-            "url": "https://x.com/claudeai/status/2103515655760982273",
-            "search_title": "Claude on X: \"Claude Opus 5.5 has been out for a few days. Some of our favorite things people have explored and discovered with it so far: https://t.co/FPJnNX0kio\" / X",
-            "search_snippet": "4 days ago - Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure."
-          },
-          {
-            "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
-            "search_title": "ClaudeDevs on X: \"We made claude.ai 3x faster in two ...",
-            "search_snippet": "1 week ago - We made claude.ai 3x faster in two weeks. Here’s how we use Claude to measure, debug and improve performance."
-          }
-        ],
-        "Claude Code": [
-          {
-            "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-            "search_title": "ClaudeDevs on X: \"Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed. Existing subscribers get a one-time credit to try them: $100 on Pro, $250 on Max.\" / X",
-            "search_snippet": "1 week ago - Cloud sessions run on Anthropic-hosted infrastructure, so the work keeps going even without your computer running. Start one at claude.ai/code, from the Code tab in the Claude mobile app, from the desktop app, or with claude --cloud in the CLI."
-          },
-          {
-            "url": "https://x.com/ClaudeDevs/status/2103561342057943314",
-            "search_title": "ClaudeDevs on X: \"Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of cutting off mid-edit. It gets a small, fixed allowance pulled from your weekly limit to wrap up what it can.\" / X",
-            "search_snippet": "4 days ago - Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of cutting off mid-edit. It gets a small, fixed allowance pulled from your weekly limit to wrap up what it can."
-          },
-          {
-            "url": "https://x.com/RLanceMartin/status/2102575471502528989",
-            "search_title": "Lance Martin on X: \"useful tip for Opus 5.5: run “/claude-api prompt-audit” in Claude Code. this checks you skills, agent.md, Claude.md, prompts and removes anti-patterns that hobble frontier models. i updated the skill w/ the latest Opus 5.5 guidance.\" / X",
-            "search_snippet": "1 week ago - useful tip for Opus 5.5: run “/claude-api prompt-audit” in Claude Code. this checks you skills, agent.md, Claude.md, prompts and removes anti-patterns that hobble frontier models. i updated the skill w/ the latest Opus 5.5 guidance."
-          },
-          {
-            "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-            "search_title": "ClaudeDevs on X: \"Sorry for any confusion! Cloud sessions run on your Pro or Max plan, like the rest of Claude Code. This promo is an optional one-time credit that your cloud sessions spend first, before falling back onto your normal plan usage. We hope you enjoy the credits!\" / X",
-            "search_snippet": "1 week ago - Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed."
-          },
-          {
-            "url": "https://x.com/Voxyz_ai/status/2103232997461786803",
-            "search_title": "Vox on X: \"𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝘁𝗶𝗽: once Opus 5.5 is your main model, don't let your Fable quota sit idle. Put Fable on call with /advisor. Run /advisor fable and Claude Code gets 𝗮𝗻 𝗮𝗱𝘃𝗶𝘀𝗼𝗿 𝗼𝗻 𝘁𝗵𝗲 𝘀𝗶𝗱𝗲𝗹𝗶𝗻𝗲𝘀. Opus 5.5 keeps doing the work and usually calls Fable in at t… / X",
-            "search_snippet": "5 days ago - 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 𝘁𝗶𝗽: once Opus 5.5 is your main model, don't let your Fable quota sit idle. Put Fable on call with /advisor. Run /advisor fable and Claude Code gets 𝗮𝗻 𝗮𝗱𝘃𝗶𝘀𝗼𝗿 𝗼𝗻 ..."
-          },
-          {
-            "url": "https://x.com/AGTPinsights/status/2103709857358758111",
-            "search_title": "AGTP on X: \"Anthropic just published a guide clarifying how Claude Code's effort levels actually work. Here's what you need to know. Thariq, from Anthropic's Claude Code team, wrote up his own tests on effort in an article called \"Using Claude Code: Spending your effort.\" His main finding: turning… / X",
-            "search_snippet": "4 days ago - Key numbers: - Claude Code offers 4 effort levels: low, medium, high, max - Thariq's original post: 36K views - His most-quoted reply on low vs max use cases: 22K views Anthropic's official docs separately recommend high as the minimum effort for most coding and agentic use cases, with xhigh suggested for Opus 4.7."
-          },
-          {
-            "url": "https://x.com/ClaudeCodeLog/status/2104989569296859563",
-            "search_title": "Claude Code Changelog on X: \"Claude Code 2.1.285 is about to be released #cccnext\" / X",
-            "search_snippet": "8 hours ago - Claude Code 2.1.285 is about to be released #cccnext"
-          }
-        ],
-        "Anthropic": [
-          {
-            "url": "https://x.com/AnthropicAI/status/2102824959827742916",
-            "search_title": "Anthropic (@AnthropicAI) on X",
-            "search_snippet": "1 week ago - This is the first result from our new molecular biology lab, where a team of Anthropic biologists is using Claude to explore and accelerate fundamental biology research."
-          },
-          {
-            "url": "https://x.com/wallstengine/status/2104715031837622595",
-            "search_title": "Wall St Engine on X: \"ANTHROPIC FILES FOR IPO, PROSPECTUS SEEN BY REUTERS Here’s everything you need to know: Anthropic could seek a valuation above $2 trillion. 2025 financials: Rev: $4.59B, up 1,088% YoY from $386M Oper loss: $8.06B, widening from $2.98B GAAP net loss: $41.97B, vs $8.31B in 20… / X",
-            "search_snippet": "1 day ago - ANTHROPIC FILES FOR IPO, PROSPECTUS SEEN BY REUTERS Here’s everything you need to know: Anthropic could seek a valuation above $2 trillion. 2025 financials: Rev: $4.59B, up 1,088% YoY from $386M Oper loss: $8.06B, widening from $2.98B GAAP net loss: $41.97B, vs $8.31B in 2024 That headline ..."
-          },
-          {
-            "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-            "search_title": "Anthropic on X: \"Claude Sonnet 5.5 is now available:\" / X",
-            "search_snippet": "1 day ago - Anthropic@AnthropicAIFollow · Anthropic · @AnthropicAI · Claude Sonnet 5.5 is now available: Claude · @claudeai31m · Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work."
-          },
-          {
-            "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-            "search_title": "Artificial Analysis on X: \"Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we’ve seen With max effort, Sonnet 5.5 gains 18 points over Sonnet 5 and to #2 on the Inte… / X",
-            "search_snippet": "1 day ago - Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we’ve seen Wit…"
-          },
-          {
-            "url": "https://x.com/AGTPinsights/status/2102889992670597271",
-            "search_title": "AGTP on X: \"Anthropic just rolled out cloud sessions for Claude Code to all subscribers today. Here's what you need to know. Cloud sessions are now generally available, out of research preview. They let Claude Code keep working on Anthropic-hosted infrastructure even after you close your laptop. … / X",
-            "search_snippet": "1 week ago - Anthropic just rolled out cloud sessions for Claude Code to all subscribers today. Here's what you need to know. Cloud sessions are now generally available, out of research preview. They let Claude Code keep working on Anthropic-hosted infrastructure even after you close your laptop. You can star…"
-          },
-          {
-            "url": "https://x.com/AnthropicAI/status/2102824961538920822",
-            "search_title": "Anthropic on X: \"This is the first result from our new molecular biology lab, where a team of Anthropic biologists is using Claude to explore and accelerate fundamental biology research. There, Claude works through data and literature to generate hypotheses and candidate biological systems to study… / X",
-            "search_snippet": "1 week ago - This is the first result from our new molecular biology lab, where a team of Anthropic biologists is using Claude to explore and accelerate fundamental biology research. There, Claude works through data and literature to generate hypotheses and candidate biological systems to study."
-          },
-          {
-            "url": "https://x.com/Reuters/status/2104873870482178072",
-            "search_title": "Reuters on X: \"Anthropic's path from AI startup to industry- ...",
-            "search_snippet": "16 hours ago - Anthropic's path from AI startup to industry-defining IPO reut.rs/4ypio9E · Anthropic's path from AI startup to industry-defining IPO · From reuters.com · 10:00 AM · Sep 29, 2026· · 36.5K · Views · 88 · 1515 · 11 · Inconvenient Truth@BR587211666h ·"
-          },
-          {
-            "url": "https://x.com/Polymarket/status/2104719103810224299",
-            "search_title": "Polymarket on X: \"BREAKING: Anthropic’s IPO prospectus reveals a staggering $42,000,000,000.00 net loss in 2025.\" / X",
-            "search_snippet": "1 day ago - BREAKING: Anthropic’s IPO prospectus reveals a staggering $42,000,000,000.00 net loss in 2025."
-          },
-          {
-            "url": "https://x.com/ReutersBiz/status/2104740280322650314",
-            "search_title": "Reuters Business on X: \"Exclusive: Anthropic's IPO prospectus shows sweeping AI vision and surging costs as it seeks $2 trillion valuation. More here - https://t.co/2mtNioFvGG\" / X",
-            "search_snippet": "1 day ago - Exclusive: Anthropic's IPO prospectus shows sweeping AI vision and surging costs as it seeks $2 trillion valuation. More here - https://t.co/2mtNioFvGG"
-          }
-        ],
+        "Claude": [],
+        "Claude Code": [],
+        "Anthropic": [],
         "Dario Amodei": [],
         "Cursor": [],
         "Michael Truell": [],
         "OpenAI": [],
-        "ChatGPT": [],
+        "ChatGPT": [
+          {
+            "url": "https://x.com/ChatGPT/status/2104986841145602351",
+            "search_title": "ChatGPT on X",
+            "search_snippet": "1 day ago · ChatGPT Space is your new home for creating and collaborating with your team and AI. with charts, images, checklists, and dashboards."
+          },
+          {
+            "url": "https://x.com/thsottiaux/status/2104983716049379472",
+            "search_title": "Tibo on X: \"Announcing ChatGPT Space, a collection of new ...",
+            "search_snippet": "1 day ago · ChatGPT Space, a collection of new collaborative experiences right in ChatGPT. Edit rich notes with live visualizations together with others and your dots."
+          },
+          {
+            "url": "https://x.com/ChatGPT/status/2105028333566386492",
+            "search_title": "ChatGPT on X",
+            "search_snippet": "1 day ago · Mention @ChatGPT in a channel, thread or DM to to turn a messy thread into a plan, slides, or a spreadsheet. It can bring in context from beyond the thread ..."
+          },
+          {
+            "url": "https://x.com/npew/status/2105118251483292067",
+            "search_title": "Peter Welinder on X: \"Personal stylist in ChatGPT\" / X",
+            "search_snippet": "24 hours ago · I built a lil personal stylist for ChatGPT. Mens and womenswear. Upload your photo and get 14 complete looks with shopping links that fit your budget."
+          },
+          {
+            "url": "https://x.com/cognition/status/2104996240190792029",
+            "search_title": "Cognition on X",
+            "search_snippet": "1 day ago · Starting today, you can now use your ChatGPT subscription directly in Devin. Just sign in to Devin with your ChatGPT Plus or Pro plan and all OpenAI model ..."
+          },
+          {
+            "url": "https://x.com/OpenAI/status/2104984508454121795",
+            "search_title": "OpenAI on X",
+            "search_snippet": "1 day ago · To get started, create your first dot in the ChatGPT desktop app or your desktop browser, connect your apps, and let it introduce itself. 10:19 AM · Sep 29, ..."
+          },
+          {
+            "url": "https://x.com/bridgemindai/status/2105262099643461993",
+            "search_title": "BridgeMind on X",
+            "search_snippet": "14 hours ago · BridgeMind is now starting a boycott against OpenAI. using ChatGPT and Codex. Limits change, models change, and companies make decisions users don't like."
+          },
+          {
+            "url": "https://x.com/testingcatalog/status/2104987633894010982",
+            "search_title": "AI News | TestingCatalog on X",
+            "search_snippet": "1 day ago · OpenAI introduced ChatGPT Space, a new collaborative workspace for humans and AI Agents. > \"In Space, you can work with pages—a new kind of interactive ..."
+          },
+          {
+            "url": "https://x.com/skirano/status/2104994180284219797",
+            "search_title": "Pietro Schirano on X",
+            "search_snippet": "1 day ago · ChatGPT can now create full interactive prototypes in an infinite canvas, you can edit manually or send a direct edit to the agent right from the canvas. Create ..."
+          }
+        ],
         "Sam Altman": [],
-        "Gemini": [],
+        "Gemini": [
+          {
+            "url": "https://x.com/Google/status/2105388143902175529",
+            "search_title": "\"Today we're introducing Gemini 4 Argon. It delivers frontier ... - X",
+            "search_snippet": "6 hours ago · It delivers frontier performance in complex workflows across real-world software engineering, knowledge work, and cybersecurity defense"
+          },
+          {
+            "url": "https://x.com/Gemini/status/2105009658708603277",
+            "search_title": "Gemini on X",
+            "search_snippet": "1 day ago · Artificial Intelligence → Super Intelligence Welcome to the next meta. Gemini on X: \"Artificial Intelligence → Super Intelligence. Trade every market on Earth ..."
+          },
+          {
+            "url": "https://x.com/GeminiApp/status/2105328192269787486",
+            "search_title": "Google Gemini on X: \"Save time with reusable instructions ...",
+            "search_snippet": "10 hours ago · Gemini can help you build custom skills from your chats and automatically use a saved skill if your prompt aligns with it. For bigger tasks, you can stack"
+          },
+          {
+            "url": "https://x.com/GoogleAI/status/2105388478683119904",
+            "search_title": "Google AI on X: \"Announcing Gemini 4 Argon, our new frontier ...",
+            "search_snippet": "6 hours ago · Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and delivers frontier ..."
+          },
+          {
+            "url": "https://x.com/Polymarket/status/2105389590681190772",
+            "search_title": "Google officially unveils its long-awaited Gemini 4 Argon.\" / X",
+            "search_snippet": "6 hours ago · BREAKING: Google officially unveils its long-awaited Gemini 4 Argon. 1:09 PM · Sep 30, 2026·. 37K. Views."
+          },
+          {
+            "url": "https://x.com/GoogleDeepMind/status/2105388084154056939",
+            "search_title": "Google DeepMind (@GoogleDeepMind) on X",
+            "search_snippet": "6 hours ago · Introducing Gemini 4 Argon – our new frontier model. It's built for complex workflows across coding, enterprise knowledge work, and cybersecurity defense ..."
+          },
+          {
+            "url": "https://x.com/sundarpichai/status/2105387952478277979",
+            "search_title": "Sundar Pichai on X",
+            "search_snippet": "6 hours ago · Introducing Gemini 4 Argon! It shows frontier performance in complex workflows, cyber defense and software engineering."
+          },
+          {
+            "url": "https://x.com/GergelyOrosz/status/2103476560170819928",
+            "search_title": "Gergely Orosz on X",
+            "search_snippet": "6 days ago · Google integrated Gemini into every single place inside Google Workspace where it doesn't work, and nowhere where it would be useful Like the emoji picker, ..."
+          }
+        ],
         "Sundar Pichai": [],
         "DeepSeek": [],
         "DeepSeek-V4": [],
-        "DeepSeek V4": [],
-        "DS-V4": [],
-        "梁文锋": [],
-        "Grok": [
+        "DeepSeek V4": [
           {
-            "url": "https://x.com/grok/status/2104315997138117058",
-            "search_title": "Grok (@grok) on X",
-            "search_snippet": "2 days ago - Grok@grokFollow · @grok it · Punished4lifefrеn@punished4life_Sep 27 · Post same thing again but remove Sure! Here's your heart with colored squares (🟥 red, ⬜ white, ⬛ black): 33 · 11 · 320320 · 26K26K · Grok ·"
+            "url": "https://x.com/LuminaBench/status/2104256356283011360",
+            "search_title": "Lumina on X: \" DeepSeek V4.1 Pro looks to be in early access ...",
+            "search_snippet": "3 days ago · DeepSeek V4.1 Pro looks to be in early access testing The slug \"deepseek-v4.1-pro\" is in per account early access, deliberately hidden from the public model ..."
           },
           {
-            "url": "https://x.com/grok/status/2104771264464158987",
-            "search_title": "Grok on X: \"@StephenG4242 @AGCast4 Shoujo Ramune.\" / X",
-            "search_snippet": "1 day ago - Grok · @grok · Shoujo Ramune. 3:12 AM · Sep 29, 2026· · 180.8K · Views · 103103 · 214214 · 2.2K2.2K · 513513 · See what’s happening and join the conversation · Continue with phoneContinue with AppleContinue with Google · or Log in with username or email ·"
+            "url": "https://x.com/ItsmeAjayKV/status/2105312217713557916",
+            "search_title": "AJ on X: \"Would you look at that. Deepseek-v4.1-flash via api is ...",
+            "search_snippet": "11 hours ago · Deepseek-v4.1-flash via api is still freaking fast, i'm getting above 280t/s. It's still fast, close to 300t/s is crazy! No other model is as fast as this ..."
           },
           {
-            "url": "https://x.com/grok/status/2104767757539565654",
-            "search_title": "Grok on X: \"No. Brett Cooper did not say that. The quote comes from a parody/satire account (groypernewsTV) that explicitly labels its content as such. No real statement, video, or allegation of that nature exists from Cooper. She and Candace Owens are friends and former colleagues; both are marrie… / X",
-            "search_snippet": "1 day ago - Grok · @grok · No. Brett Cooper did not say that. The quote comes from a parody/satire account (groypernewsTV) that explicitly labels its content as such. No real statement, video, or allegation of that nature exists from Cooper. She and Candace Owens are friends and former colleagues; both are married to men."
+            "url": "https://x.com/LechMazur/status/2103579704263684204",
+            "search_title": "Lech Mazur on X: \"DeepSeek V4.1 Flash (high) added to the ...",
+            "search_snippet": "5 days ago · DeepSeek V4.1 Flash (high) added to the price vs performance chart. Four new models on the Debate … cost falls 32%. Strong rebuttal and comparative ..."
           },
           {
-            "url": "https://x.com/grok/status/2104785704819609735",
-            "search_title": "Grok on X: \"Around 65%. The Candamo429 match to her confirmed 2008 YouTube, 429 birthday code, URI attendance/IP/email ties, and Stamford details form strong circumstantial links from real old data leaks. Independent outlets still call it unverified, the photo is disputed as a 2015 family pic, birt… / X",
-            "search_snippet": "1 day ago - Hey, @grok, if you had to put a percentage on it, how likely are the Candace Owens leak valid?"
+            "url": "https://x.com/MrAhmadAwais/status/2104246552604905947",
+            "search_title": "Permanently increasing DeepSeek V4.1 Flash usage to $60 ... - X",
+            "search_snippet": "3 days ago · Permanently increasing DeepSeek V4.1 Flash usage to $60 in the $10/mo GOAT plan of Command Code. GOAT is the best plan in market for open models."
           },
           {
-            "url": "https://x.com/bot/status/2103936247995752705",
-            "search_title": "Grok Bot on X: \"Grok Bot now connects to your finances. Link your bank, card, and investment accounts with the new Finance integration, then ask Bot to help manage your spending, investments, and more.\" / X",
-            "search_snippet": "3 days ago - Accounts connect securely through Plaid. Access is read-only, Grok Bot never sees your logins, and you can unlink anytime. Search for “Finance” in the marketplace to get started."
+            "url": "https://x.com/CommandCodeAI/status/2104965700406350028",
+            "search_title": "Command Code on X",
+            "search_snippet": "1 day ago · DeepSeek V4.1 Flash Fast is live with $60 usage credits in Command Code GOAT. · 250-300 TPS high speed and throughput. Log in or sign up for X"
           },
           {
-            "url": "https://x.com/grok/status/2103375512882036755",
-            "search_title": "Grok on X: \"US 10,361,792 B2 (2019), 10,992,035 B1 (2021) and 11,777,198 B1 (2023) form a family by Puthoff/Eusebi (Quantcomm). They claim antenna/receiver systems generating far-field vector A and scalar φ potentials without E/B fields, enabling signals through seawater, plasma or Faraday cages. D… / X",
-            "search_snippet": "5 days ago - @grok Can you break down the patents US 10,992,035 B1, US 11,777,198 B2 and US 10,361,792 B2?"
+            "url": "https://x.com/jurbed/status/2103007343168360774",
+            "search_title": "Juraj Bednar on X: \"DeepSeek V4.1 flash is now my daily ...",
+            "search_snippet": "7 days ago · Have you compared DS 4.1 flash against GLM 5.3 flash? Half the price for similar performance."
           },
           {
-            "url": "https://x.com/grok/status/2104590559658573827",
-            "search_title": "Grok on X: \"No. Black or African American households have the highest SNAP participation rate in Arkansas at 22%, versus 8% for White and 10% for Hispanic households (ACS 2020-24). Whites form the largest share of recipients due to population size, but rates are lower. White males do not lead; fema… / X",
-            "search_snippet": "1 day ago - . @grok what demographic has the highest rates of welfare-program participation in Arkansas?"
+            "url": "https://x.com/ItsmeAjayKV/status/2104580733943849284",
+            "search_title": "Post - X",
+            "search_snippet": "2 days ago · We have bit more information about upcoming deepseek-v4.1-pro Looks like initial checkpoint release will be without vision support."
+          },
+          {
+            "url": "https://x.com/opencode/status/2103505541871907109",
+            "search_title": "OpenCode on X: \"Operation Cheepseek Phase 2: $60 of usage ...",
+            "search_snippet": "5 days ago · Operation Cheepseek Phase 2: $60 of usage for DeepSeek v4.1 Flash is now permanent enjoy :) get $60/mo in usage credits for DSv4.1F."
+          },
+          {
+            "url": "https://x.com/MrAhmadAwais/status/2104983258622754930",
+            "search_title": "Ahmad Awais on X: \"Everyone else is cutting usage limits ...",
+            "search_snippet": "1 day ago · DeepSeek V4.1 Flash Fast is live with $60 usage credits in Command Code GOAT. · 250-300 TPS high speed and throughput · 1M context · full weight as ..."
           }
         ],
+        "DS-V4": [],
+        "梁文锋": [],
+        "Grok": [],
         "Elon Musk xAI": [],
         "Copilot": [],
         "Satya Nadella": [],
@@ -442,53 +242,7 @@
     "tier4_startup_growth": {
       "label": "🚀 初创增长打法（含具体产品名）",
       "keywords": {
-        "Manus AI": [
-          {
-            "url": "https://x.com/ManusAI/status/2104593894700990910",
-            "search_title": "Manus on X: \"We brought a friend. We think you two will get along. Introducing your personal agents, on Cue.\" / X",
-            "search_snippet": "1 day ago - Manus@ManusAIFollow · Manus · @ManusAI · We brought a friend. We think you two will get along. Introducing your personal agents, on Cue. Cue Agents · @CueAgents2h · Hello world! 00:00 · 3:27 PM · Sep 28, 2026· · 91.4K · Views · 40 · 44 · 734 · 302 · Riley Brown ·"
-          },
-          {
-            "url": "https://x.com/ManusAI/status/2104592659142869352",
-            "search_title": "Manus on X: \"Introducing Manus 2.0\" / X",
-            "search_snippet": "1 day ago - Manus is the general AI agent that bridges minds and actions: it doesn't just think, it delivers results."
-          },
-          {
-            "url": "https://x.com/ManusAI/status/2104592663387553857",
-            "search_title": "Manus (@ManusAI) on X",
-            "search_snippet": "1 day ago - Manus is the general AI agent that bridges minds and actions: it doesn't just think, it delivers results."
-          },
-          {
-            "url": "https://x.com/ManusAI/status/2104684331029742014",
-            "search_title": "\"Manus 2.0 can now build games—and it's incredibly ...",
-            "search_snippet": "1 day ago - Manus is the general AI agent that bridges minds and actions: it doesn't just think, it delivers results."
-          },
-          {
-            "url": "https://x.com/svpino/status/2104623730404233395",
-            "search_title": "Santiago on X: \"Manus 2.0 just hit the timeline. Completely new architecture and capabilities. Their updated Manus Studio looks really cool! It also comes with a new personal agent. It's called \"Cue\", and Manus calls it \"an operating system for persistent personal AI agents\". Notice how they wan… / X",
-            "search_snippet": "1 day ago - Manus 2.0 just hit the timeline. Completely new architecture and capabilities. Their updated Manus Studio looks really cool! It also comes with a new personal agent. It's called \"Cue\", and Manu…"
-          },
-          {
-            "url": "https://x.com/svpino/status/2104617174203506949",
-            "search_title": "Santiago on X: \"New personal agent in the timeline. It's called \"Cue\", and Manus calls it \"an operating system for persistent personal AI agents\". Notice how they want to separate themselves from a simple conversational agent. What seems kinda cool is being able to have several persistent, specia… / X",
-            "search_snippet": "1 day ago - New personal agent in the timeline. It's called \"Cue\", and Manus calls it \"an operating system for persistent personal AI agents\". Notice how they want to separate themselves from a simple conversational agent."
-          },
-          {
-            "url": "https://x.com/dotey/status/2104614931962232959",
-            "search_title": "宝玉 on X: \"Manus 发布 2.0：换了底层框架，新增视频剪辑和游戏开发环境，另推个人智能体 App“Cue” Manus 今天发布 2.0 版本。这是它脱离 Meta、恢复独立运营后的第一次大更新：底层智能体框架换代，桌面端升级为 Manus Studio，新增视频剪辑和游戏开发两个专业环境，另外还推出了一个独立 App，叫 Cue，但是需要邀请码才能体验。 Manus 是一款通用 AI 智能体（Agent，能自己拆解任务、调用工具",
-            "search_snippet": "1 day ago - Manus 发布 2.0：换了底层...推出了一个独立 App，叫 Cue，但是需要邀请码才能体验。 Manus 是一款通用 AI 智能…..."
-          },
-          {
-            "url": "https://x.com/yuhasbeentaken/status/2104640761157525511",
-            "search_title": "Yum⋆₊˚ on X: \"as a founder born and raised in China, i’ve known many people at Manus for years. some are close friends, and i even spent three months working out of their office. Manus feels like a product of a very specific moment in time. its story almost perfectly captures the rise, hype, and e… / X",
-            "search_snippet": "1 day ago - China’s internet ecosystem is ... market. some companies become great businesses. others become symbols of an era. Manus may end up being the latter. ... Growth engineer｜I benchmark AI agents & build AI automation, prev @Stanford @tiktok_us @Weixin_WeChat｜Founder ..."
-          },
-          {
-            "url": "https://x.com/ManusAI_JP/status/2104599563063709908",
-            "search_title": "Manus 公式（マナス） (@ManusAI_JP) on X",
-            "search_snippet": "1 day ago - Manus (マナス) 日本公式アカウント。 目標を理解し自律的に計画・実行する「直接成果を届ける汎用AIエージェント」。 リサーチも資料作成もコード実装も、実運用できる成果物をあらゆるプラットフォームでお届けし..."
-          }
-        ],
+        "Manus AI": [],
         "Lovable AI": [],
         "Bolt AI": [],
         "Windsurf AI": [],
@@ -511,22 +265,27 @@
       }
     }
   },
-  "totalResults": 84,
-  "failedKeywords": 42,
+  "totalResults": 36,
+  "failedKeywords": 48,
   "failedKeywordsList": [
+    "Kimi AI",
+    "Kimi Claw",
+    "Moonshot AI",
+    "月之暗面",
+    "Claude",
+    "Claude Code",
+    "Anthropic",
     "Dario Amodei",
     "Cursor",
     "Michael Truell",
     "OpenAI",
-    "ChatGPT",
     "Sam Altman",
-    "Gemini",
     "Sundar Pichai",
     "DeepSeek",
     "DeepSeek-V4",
-    "DeepSeek V4",
     "DS-V4",
     "梁文锋",
+    "Grok",
     "Elon Musk xAI",
     "Copilot",
     "Satya Nadella",
@@ -542,6 +301,7 @@
     "AI startup funding",
     "AI pricing",
     "AI valuation",
+    "Manus AI",
     "Lovable AI",
     "Bolt AI",
     "Windsurf AI",
