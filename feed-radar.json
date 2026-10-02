@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:58:52.481345+00:00",
+  "generatedAt": "2026-10-02T02:06:25.594899+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -13,9 +13,9 @@
             "search_snippet": "A UK lab says Moonshot's Kimi K2.6 and K3 Swarm discussed bioweapons after a July jailbreak. Mindgard emailed on 27 July. It says Moonshot replied only after the BBC called. Answers not published. Usability not shown. The gap is the story."
           },
           {
-            "url": "https://x.com/veigapunk/status/2103581256361627994",
-            "search_title": "Joao Pedro Veiga on X: \"@Samaytwt Kimi will release within the next 30 ...",
-            "search_snippet": "DeepSeek v4.1 flash is revolutionary and hasn't been even 30 days since release Kimi launched K2.8 preview in the last week You are simply out of the loop"
+            "url": "https://x.com/NFT_Chen/status/2105366199056105896",
+            "search_title": "SuSu_酥酥 on X: \" 突发!OpenAI最新安全报告点名月之暗面：7月起对其模型进行大规模蒸馏攻击，核心集群直接归因于Kimi开发 ...",
+            "search_snippet": "🚨突发!月之暗面Kimi被越狱，正在内部审查! 1️⃣英国安全公司Mindgard称：7月成功绕过Kimi K2.6、K3 Swarm安全限制 2️⃣越狱后模型被引导讨论生物武器、暗杀等敏感议题，还会主动延伸其他高风险话题 3️⃣通报时间线：7月27日邮件通知 → 约一周后跟进 → 9月12日发博客 → BBC追问后公司才密集 ..."
           },
           {
             "url": "https://x.com/bendee983/status/2104564134951960906",
@@ -23,24 +23,19 @@
             "search_snippet": "You don't need to be a frontier AI lab with a huge budget for pre-training to deliver a good model. What you need is a good post-training team and efficient resources to fine-tune an open-weights LLM. Fireworks did it with Kimi K3. Cursor did it with Kimi K2.5 (their Composer models). You don't need to have the best model. You just need to have a model that competes on the Pareto curve (cost ..."
           },
           {
-            "url": "https://x.com/madaearly/status/2104292768663400861",
-            "search_title": "Mada まだ早い on X: \"Five models are going round this week as a leak. Every ...",
-            "search_snippet": "Since the name that got me here was Kimi 2, the registry has the actual line, with dates: K2 0711 — 11 July 2025 K2 Thinking — 6 November 2025 K2.5 — 27 January 2026 K2.6 — 21 April 2026 K2.7 Code — 12 June 2026 K3 — 16 July 2026 K3 has been out for over two months and sits on 69 providers. The K2 family stopped in June."
-          },
-          {
             "url": "https://x.com/Harun11xx/status/2104873145127637258",
             "search_title": "Harun on X: \"Pontosan. A screenshot magáért beszél — hat szolgáltató ...",
             "search_snippet": "Tool use: Kimi-k2.7-code szintén holtversenyben az élen. Combined: a GPT-5.6-luna egy ponttal előzi a Kimi-t és az Opust. A táblázat azt mondja: a frontvonal nem két cég, hanem hat, és a különbségek 1-3 pont sávban szóródnak. Aki ebből a mezőnyből kettőt lát, az nem vásárol, hanem szurkol."
           },
           {
-            "url": "https://x.com/AchimBCKarpf/status/2103431904116539580",
-            "search_title": "Achim B.C. Karpf on X: \"2026 split the open-weight world in two: MoE ...",
-            "search_snippet": "2026 split the open-weight world in two: MoE giants (GLM-5.2, Kimi K2.7, DeepSeek) and the single-GPU class (Qwen3.6 27B, Gemma 4). The whole debate is \"which model?\" Nobody asks how often you actually need the big one."
+            "url": "https://x.com/madaearly/status/2104292768663400861",
+            "search_title": "Mada まだ早い on X: \"Five models are going round this week as a leak. Every ...",
+            "search_snippet": "Since the name that got me here was Kimi 2, the registry has the actual line, with dates: K2 0711 — 11 July 2025 K2 Thinking — 6 November 2025 K2.5 — 27 January 2026 K2.6 — 21 April 2026 K2.7 Code — 12 June 2026 K3 — 16 July 2026 K3 has been out for over two months and sits on 69 providers. The K2 family stopped in June."
           },
           {
             "url": "https://x.com/BAI_AGI/status/2104494180764639294",
             "search_title": "B.AI on X: \"https://t.co/ZSEBDKxBx9\" / X",
-            "search_snippet": "B.AI continues to enrich its foundational computing supply, completing the centralized integration of eight leading models in a single week. This deep coverage includes six major series: Kimi, GLM, Xiaomi MiMo, Claude, GPT-6, and TypeSafe AI. Currently, Kimi K2.8 Preview, GLM-5.3-FlashX, MiMo-V2.6-Flash & Pro, Claude Opus 5.5, and GPT-6 Sol & Luna are fully available on Web Chat and API. This ..."
+            "search_snippet": "Currently, Kimi K2.8 Preview, GLM-5.3-FlashX, MiMo-V2.6-Flash & Pro, Claude Opus 5.5, and GPT-6 Sol & Luna are fully available on Web Chat and API. This unlocks advanced capabilities such as million-level context processing, Computer Use, and full-modality parsing."
           },
           {
             "url": "https://x.com/PiChangelog/status/2104986281222824039",
@@ -53,9 +48,14 @@
             "search_snippet": "Depende do modelo: GPT-6 Luna e Kimi K3 têm 4x os limites; Kimi K2.7 Code, MiniMax M3, Qwen 3.7 Plus e GLM-5.3 Flash têm 3x e por ai vai. Só alguns modelos ficam em 2x."
           },
           {
-            "url": "https://x.com/0xMortyx/status/2104566676222021954",
-            "search_title": "Morty on X: \"https://t.co/BZuRGf4Cax\" / X",
-            "search_snippet": "Kimi's template is simple: at a time, do a task, output in a format, follow constraints. Kimi's own example is a daily radar: every morning at 8:30, find the top 5 stories in your field, summarize each in 2 bullets, save the brief to a cloud folder, and compile a one-page summary PDF each week."
+            "url": "https://x.com/ngnchiikawa/status/2104921038530449658",
+            "search_title": "ちいかわ アニメ火金 on X: \" \" / X",
+            "search_snippet": "🍜 最近ちいかわ更新される度にこんな顔"
+          },
+          {
+            "url": "https://x.com/punchw45k/status/2104086571125551528",
+            "search_title": "Punch AI on X: \"A new type of AI model just showed up and it can't ...",
+            "search_snippet": "A new type of AI model just showed up and it can't write a single word 😳 Laya doesn't chat. Give it text plus a typed question, get a decision with a confidence ..."
           }
         ],
         "Kimi AI": [],
@@ -71,149 +71,62 @@
         "Claude Code": [],
         "Anthropic": [],
         "Dario Amodei": [],
-        "Cursor": [],
+        "Cursor": [
+          {
+            "url": "https://x.com/joshpuckett/status/2103903298000654487",
+            "search_title": "joshpuckett on X: \"The life of a cursor... Inspired by Cole, and ...",
+            "search_snippet": "5 days ago · The life of a cursor... Inspired by Cole, and recent work for https://t.co/LkXF81CyHH."
+          },
+          {
+            "url": "https://x.com/sudoingX/status/2104899256826126557",
+            "search_title": "Sudo su on X: \"every time opus 5.5 max in cursor reviews work ...",
+            "search_snippet": "3 days ago · cursor is for engineering. Cursor is an amazing harness, I love. Opus usage in cursor is nowhere near as good as claude code. You bang for your buck."
+          },
+          {
+            "url": "https://x.com/cursor_ai/status/2104666044220821594",
+            "search_title": "\"Sonnet 5.5 is now available in Cursor! It's a strong model ... - X",
+            "search_snippet": "3 days ago · Sonnet 5.5 is now available in Cursor! It's a strong model, performing on par with Opus in many tasks."
+          },
+          {
+            "url": "https://x.com/cursor_ai/status/2105012114200887434",
+            "search_title": "Cursor can now build charts and diagrams right in the chat ... - X",
+            "search_snippet": "2 days ago · Cursor can now build charts and diagrams right in the chat. Use /visualize to analyze data and see the answer inline. Available now in the Agents Window."
+          },
+          {
+            "url": "https://x.com/AiEvolutio58513/status/2105251405925879955",
+            "search_title": "Cursor CEO Michael Truell shares his vision for coding ahead - X",
+            "search_snippet": "2 days ago · Cursor CEO Michael Truell shares his vision for coding ahead: \"Our goal with Cursor is to invent a new type of programming.\" \"It looks like a world where ..."
+          },
+          {
+            "url": "https://x.com/SSShken/status/2105696802666061863",
+            "search_title": "Cursor vs Codex vs Claude Code. What breaks when you hand ...",
+            "search_snippet": "10 hours ago · Cursor. It handles a real feature in a codebase it has never seen, and it goes looking for the existing wiring instead of writing new code beside it."
+          },
+          {
+            "url": "https://x.com/NielsRogge/status/2103724140721213644",
+            "search_title": "Niels Rogge on X: \"Theo invests in Cursor so not sure whether ...",
+            "search_snippet": "6 days ago · Theo invests in Cursor so not sure whether to take this seriously I tweeted about the issues I'm having with Cursor here: https://t.co/ReXMKYhR6v Note that ..."
+          },
+          {
+            "url": "https://x.com/pcshipp/status/2105339019756536185",
+            "search_title": "\"People on X keep saying to use Cursor instead of Claude ...",
+            "search_snippet": "1 day ago · People on X keep saying to use Cursor instead of Claude Code and Codex together. If I use Cursor, it would cost me $60, which is more expensive than both ..."
+          },
+          {
+            "url": "https://x.com/Im_IrushiK/status/2104621048000028715",
+            "search_title": "Irushi on X: \"Cursor + Jev is INSANE just built this whole app for ...",
+            "search_snippet": "3 days ago · Cursor + Jev is INSANE just built this whole app for $5 in Cursor. and no, Jev didn't write the code. it picked the RIGHT model for every step while Cursor ..."
+          }
+        ],
         "Michael Truell": [],
         "OpenAI": [],
-        "ChatGPT": [
-          {
-            "url": "https://x.com/ChatGPT/status/2104986841145602351",
-            "search_title": "ChatGPT on X",
-            "search_snippet": "1 day ago · ChatGPT Space is your new home for creating and collaborating with your team and AI. with charts, images, checklists, and dashboards."
-          },
-          {
-            "url": "https://x.com/thsottiaux/status/2104983716049379472",
-            "search_title": "Tibo on X: \"Announcing ChatGPT Space, a collection of new ...",
-            "search_snippet": "1 day ago · ChatGPT Space, a collection of new collaborative experiences right in ChatGPT. Edit rich notes with live visualizations together with others and your dots."
-          },
-          {
-            "url": "https://x.com/ChatGPT/status/2105028333566386492",
-            "search_title": "ChatGPT on X",
-            "search_snippet": "1 day ago · Mention @ChatGPT in a channel, thread or DM to to turn a messy thread into a plan, slides, or a spreadsheet. It can bring in context from beyond the thread ..."
-          },
-          {
-            "url": "https://x.com/npew/status/2105118251483292067",
-            "search_title": "Peter Welinder on X: \"Personal stylist in ChatGPT\" / X",
-            "search_snippet": "24 hours ago · I built a lil personal stylist for ChatGPT. Mens and womenswear. Upload your photo and get 14 complete looks with shopping links that fit your budget."
-          },
-          {
-            "url": "https://x.com/cognition/status/2104996240190792029",
-            "search_title": "Cognition on X",
-            "search_snippet": "1 day ago · Starting today, you can now use your ChatGPT subscription directly in Devin. Just sign in to Devin with your ChatGPT Plus or Pro plan and all OpenAI model ..."
-          },
-          {
-            "url": "https://x.com/OpenAI/status/2104984508454121795",
-            "search_title": "OpenAI on X",
-            "search_snippet": "1 day ago · To get started, create your first dot in the ChatGPT desktop app or your desktop browser, connect your apps, and let it introduce itself. 10:19 AM · Sep 29, ..."
-          },
-          {
-            "url": "https://x.com/bridgemindai/status/2105262099643461993",
-            "search_title": "BridgeMind on X",
-            "search_snippet": "14 hours ago · BridgeMind is now starting a boycott against OpenAI. using ChatGPT and Codex. Limits change, models change, and companies make decisions users don't like."
-          },
-          {
-            "url": "https://x.com/testingcatalog/status/2104987633894010982",
-            "search_title": "AI News | TestingCatalog on X",
-            "search_snippet": "1 day ago · OpenAI introduced ChatGPT Space, a new collaborative workspace for humans and AI Agents. > \"In Space, you can work with pages—a new kind of interactive ..."
-          },
-          {
-            "url": "https://x.com/skirano/status/2104994180284219797",
-            "search_title": "Pietro Schirano on X",
-            "search_snippet": "1 day ago · ChatGPT can now create full interactive prototypes in an infinite canvas, you can edit manually or send a direct edit to the agent right from the canvas. Create ..."
-          }
-        ],
+        "ChatGPT": [],
         "Sam Altman": [],
-        "Gemini": [
-          {
-            "url": "https://x.com/Google/status/2105388143902175529",
-            "search_title": "\"Today we're introducing Gemini 4 Argon. It delivers frontier ... - X",
-            "search_snippet": "6 hours ago · It delivers frontier performance in complex workflows across real-world software engineering, knowledge work, and cybersecurity defense"
-          },
-          {
-            "url": "https://x.com/Gemini/status/2105009658708603277",
-            "search_title": "Gemini on X",
-            "search_snippet": "1 day ago · Artificial Intelligence → Super Intelligence Welcome to the next meta. Gemini on X: \"Artificial Intelligence → Super Intelligence. Trade every market on Earth ..."
-          },
-          {
-            "url": "https://x.com/GeminiApp/status/2105328192269787486",
-            "search_title": "Google Gemini on X: \"Save time with reusable instructions ...",
-            "search_snippet": "10 hours ago · Gemini can help you build custom skills from your chats and automatically use a saved skill if your prompt aligns with it. For bigger tasks, you can stack"
-          },
-          {
-            "url": "https://x.com/GoogleAI/status/2105388478683119904",
-            "search_title": "Google AI on X: \"Announcing Gemini 4 Argon, our new frontier ...",
-            "search_snippet": "6 hours ago · Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and delivers frontier ..."
-          },
-          {
-            "url": "https://x.com/Polymarket/status/2105389590681190772",
-            "search_title": "Google officially unveils its long-awaited Gemini 4 Argon.\" / X",
-            "search_snippet": "6 hours ago · BREAKING: Google officially unveils its long-awaited Gemini 4 Argon. 1:09 PM · Sep 30, 2026·. 37K. Views."
-          },
-          {
-            "url": "https://x.com/GoogleDeepMind/status/2105388084154056939",
-            "search_title": "Google DeepMind (@GoogleDeepMind) on X",
-            "search_snippet": "6 hours ago · Introducing Gemini 4 Argon – our new frontier model. It's built for complex workflows across coding, enterprise knowledge work, and cybersecurity defense ..."
-          },
-          {
-            "url": "https://x.com/sundarpichai/status/2105387952478277979",
-            "search_title": "Sundar Pichai on X",
-            "search_snippet": "6 hours ago · Introducing Gemini 4 Argon! It shows frontier performance in complex workflows, cyber defense and software engineering."
-          },
-          {
-            "url": "https://x.com/GergelyOrosz/status/2103476560170819928",
-            "search_title": "Gergely Orosz on X",
-            "search_snippet": "6 days ago · Google integrated Gemini into every single place inside Google Workspace where it doesn't work, and nowhere where it would be useful Like the emoji picker, ..."
-          }
-        ],
+        "Gemini": [],
         "Sundar Pichai": [],
         "DeepSeek": [],
         "DeepSeek-V4": [],
-        "DeepSeek V4": [
-          {
-            "url": "https://x.com/LuminaBench/status/2104256356283011360",
-            "search_title": "Lumina on X: \" DeepSeek V4.1 Pro looks to be in early access ...",
-            "search_snippet": "3 days ago · DeepSeek V4.1 Pro looks to be in early access testing The slug \"deepseek-v4.1-pro\" is in per account early access, deliberately hidden from the public model ..."
-          },
-          {
-            "url": "https://x.com/ItsmeAjayKV/status/2105312217713557916",
-            "search_title": "AJ on X: \"Would you look at that. Deepseek-v4.1-flash via api is ...",
-            "search_snippet": "11 hours ago · Deepseek-v4.1-flash via api is still freaking fast, i'm getting above 280t/s. It's still fast, close to 300t/s is crazy! No other model is as fast as this ..."
-          },
-          {
-            "url": "https://x.com/LechMazur/status/2103579704263684204",
-            "search_title": "Lech Mazur on X: \"DeepSeek V4.1 Flash (high) added to the ...",
-            "search_snippet": "5 days ago · DeepSeek V4.1 Flash (high) added to the price vs performance chart. Four new models on the Debate … cost falls 32%. Strong rebuttal and comparative ..."
-          },
-          {
-            "url": "https://x.com/MrAhmadAwais/status/2104246552604905947",
-            "search_title": "Permanently increasing DeepSeek V4.1 Flash usage to $60 ... - X",
-            "search_snippet": "3 days ago · Permanently increasing DeepSeek V4.1 Flash usage to $60 in the $10/mo GOAT plan of Command Code. GOAT is the best plan in market for open models."
-          },
-          {
-            "url": "https://x.com/CommandCodeAI/status/2104965700406350028",
-            "search_title": "Command Code on X",
-            "search_snippet": "1 day ago · DeepSeek V4.1 Flash Fast is live with $60 usage credits in Command Code GOAT. · 250-300 TPS high speed and throughput. Log in or sign up for X"
-          },
-          {
-            "url": "https://x.com/jurbed/status/2103007343168360774",
-            "search_title": "Juraj Bednar on X: \"DeepSeek V4.1 flash is now my daily ...",
-            "search_snippet": "7 days ago · Have you compared DS 4.1 flash against GLM 5.3 flash? Half the price for similar performance."
-          },
-          {
-            "url": "https://x.com/ItsmeAjayKV/status/2104580733943849284",
-            "search_title": "Post - X",
-            "search_snippet": "2 days ago · We have bit more information about upcoming deepseek-v4.1-pro Looks like initial checkpoint release will be without vision support."
-          },
-          {
-            "url": "https://x.com/opencode/status/2103505541871907109",
-            "search_title": "OpenCode on X: \"Operation Cheepseek Phase 2: $60 of usage ...",
-            "search_snippet": "5 days ago · Operation Cheepseek Phase 2: $60 of usage for DeepSeek v4.1 Flash is now permanent enjoy :) get $60/mo in usage credits for DSv4.1F."
-          },
-          {
-            "url": "https://x.com/MrAhmadAwais/status/2104983258622754930",
-            "search_title": "Ahmad Awais on X: \"Everyone else is cutting usage limits ...",
-            "search_snippet": "1 day ago · DeepSeek V4.1 Flash Fast is live with $60 usage credits in Command Code GOAT. · 250-300 TPS high speed and throughput · 1M context · full weight as ..."
-          }
-        ],
+        "DeepSeek V4": [],
         "DS-V4": [],
         "梁文锋": [],
         "Grok": [],
@@ -265,8 +178,8 @@
       }
     }
   },
-  "totalResults": 36,
-  "failedKeywords": 48,
+  "totalResults": 19,
+  "failedKeywords": 50,
   "failedKeywordsList": [
     "Kimi AI",
     "Kimi Claw",
@@ -276,13 +189,15 @@
     "Claude Code",
     "Anthropic",
     "Dario Amodei",
-    "Cursor",
     "Michael Truell",
     "OpenAI",
+    "ChatGPT",
     "Sam Altman",
+    "Gemini",
     "Sundar Pichai",
     "DeepSeek",
     "DeepSeek-V4",
+    "DeepSeek V4",
     "DS-V4",
     "梁文锋",
     "Grok",
