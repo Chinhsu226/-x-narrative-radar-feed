@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:06:25.594899+00:00",
+  "generatedAt": "2026-10-03T01:51:20.853071+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -8,14 +8,14 @@
       "keywords": {
         "Kimi K2.5": [
           {
+            "url": "https://x.com/casper_hansen_/status/2106113499130654870",
+            "search_title": "Casper Hansen on X: \"Kimi K2.5-2.7 can be trained with RL on just 16 ...",
+            "search_snippet": "Kimi K2.5-2.7 can be trained with RL on just 16 B300 GPUs (yes, just 2 nodes!) with full context Most post-training frameworks out there will tell you that you need 16 full nodes, and might not evne give you full context Thanks to SkyRL maintainers for collab"
+          },
+          {
             "url": "https://x.com/Mengyao1753/status/2105181053547880915",
             "search_title": "Meng Yao on X: \"@RpsAgainstTrump A UK lab says Moonshot's Kimi K2.6 and ...",
             "search_snippet": "A UK lab says Moonshot's Kimi K2.6 and K3 Swarm discussed bioweapons after a July jailbreak. Mindgard emailed on 27 July. It says Moonshot replied only after the BBC called. Answers not published. Usability not shown. The gap is the story."
-          },
-          {
-            "url": "https://x.com/NFT_Chen/status/2105366199056105896",
-            "search_title": "SuSu_酥酥 on X: \" 突发!OpenAI最新安全报告点名月之暗面：7月起对其模型进行大规模蒸馏攻击，核心集群直接归因于Kimi开发 ...",
-            "search_snippet": "🚨突发!月之暗面Kimi被越狱，正在内部审查! 1️⃣英国安全公司Mindgard称：7月成功绕过Kimi K2.6、K3 Swarm安全限制 2️⃣越狱后模型被引导讨论生物武器、暗杀等敏感议题，还会主动延伸其他高风险话题 3️⃣通报时间线：7月27日邮件通知 → 约一周后跟进 → 9月12日发博客 → BBC追问后公司才密集 ..."
           },
           {
             "url": "https://x.com/bendee983/status/2104564134951960906",
@@ -23,14 +23,14 @@
             "search_snippet": "You don't need to be a frontier AI lab with a huge budget for pre-training to deliver a good model. What you need is a good post-training team and efficient resources to fine-tune an open-weights LLM. Fireworks did it with Kimi K3. Cursor did it with Kimi K2.5 (their Composer models). You don't need to have the best model. You just need to have a model that competes on the Pareto curve (cost ..."
           },
           {
-            "url": "https://x.com/Harun11xx/status/2104873145127637258",
-            "search_title": "Harun on X: \"Pontosan. A screenshot magáért beszél — hat szolgáltató ...",
-            "search_snippet": "Tool use: Kimi-k2.7-code szintén holtversenyben az élen. Combined: a GPT-5.6-luna egy ponttal előzi a Kimi-t és az Opust. A táblázat azt mondja: a frontvonal nem két cég, hanem hat, és a különbségek 1-3 pont sávban szóródnak. Aki ebből a mezőnyből kettőt lát, az nem vásárol, hanem szurkol."
-          },
-          {
             "url": "https://x.com/madaearly/status/2104292768663400861",
             "search_title": "Mada まだ早い on X: \"Five models are going round this week as a leak. Every ...",
             "search_snippet": "Since the name that got me here was Kimi 2, the registry has the actual line, with dates: K2 0711 — 11 July 2025 K2 Thinking — 6 November 2025 K2.5 — 27 January 2026 K2.6 — 21 April 2026 K2.7 Code — 12 June 2026 K3 — 16 July 2026 K3 has been out for over two months and sits on 69 providers. The K2 family stopped in June."
+          },
+          {
+            "url": "https://x.com/Harun11xx/status/2104873145127637258",
+            "search_title": "Harun on X: \"Pontosan. A screenshot magáért beszél — hat szolgáltató ...",
+            "search_snippet": "Tool use: Kimi-k2.7-code szintén holtversenyben az élen. Combined: a GPT-5.6-luna egy ponttal előzi a Kimi-t és az Opust. A táblázat azt mondja: a frontvonal nem két cég, hanem hat, és a különbségek 1-3 pont sávban szóródnak. Aki ebből a mezőnyből kettőt lát, az nem vásárol, hanem szurkol."
           },
           {
             "url": "https://x.com/BAI_AGI/status/2104494180764639294",
@@ -38,24 +38,24 @@
             "search_snippet": "Currently, Kimi K2.8 Preview, GLM-5.3-FlashX, MiMo-V2.6-Flash & Pro, Claude Opus 5.5, and GPT-6 Sol & Luna are fully available on Web Chat and API. This unlocks advanced capabilities such as million-level context processing, Computer Use, and full-modality parsing."
           },
           {
+            "url": "https://x.com/pohmarcelo/status/2104585031083610574",
+            "search_title": "Marcelo on X: \"pagar 4x mais pra ter só 2x mais de uso\"",
+            "search_snippet": "bro, no, \"4x mais caro\" sim, mas \"só 2x mais uso\" não. Depende do modelo: GPT-6 Luna e Kimi K3 têm 4x os limites; Kimi K2.7 Code, MiniMax M3, Qwen 3.7 Plus e GLM-5.3 Flash têm 3x e por ai vai. Só alguns modelos ficam em 2x. A própria tabela do post mostra isso."
+          },
+          {
+            "url": "https://x.com/Rainmaker1973/status/2105276740012781938",
+            "search_title": "Massimo on X: \"To maintain this hunting posture, the a kestrel flies ...",
+            "search_snippet": "To maintain this hunting posture, the a kestrel flies into, and at the same speed as, the oncoming wind - the current of air passing over its wings provides the lift it needs."
+          },
+          {
+            "url": "https://x.com/0xMortyx/status/2104566676222021954",
+            "search_title": "Morty on X: \"https://t.co/BZuRGf4Cax\" / X",
+            "search_snippet": "Kimi's template is simple: at a time, do a task, output in a format, follow constraints. Kimi's own example is a daily radar: every morning at 8:30, find the top 5 stories in your field, summarize each in 2 bullets, save the brief to a cloud folder, and compile a one-page summary PDF each week."
+          },
+          {
             "url": "https://x.com/PiChangelog/status/2104986281222824039",
             "search_title": "Pi Changelog on X: \"Fixed: - Fixed new sessions being lost when pi ...",
             "search_snippet": "Fixed: - Fixed new sessions being lost when pi exits before the first assistant response; the session file is now created when the first user message is sent. - Fixed the Fireworks, OpenCode Go, and Together default models pointing at the removed Kimi K2.6; they now default to Kimi K3."
-          },
-          {
-            "url": "https://x.com/pohmarcelo/status/2104585031083610574",
-            "search_title": "Marcelo on X: \"pagar 4x mais pra ter só 2x mais de uso\"",
-            "search_snippet": "Depende do modelo: GPT-6 Luna e Kimi K3 têm 4x os limites; Kimi K2.7 Code, MiniMax M3, Qwen 3.7 Plus e GLM-5.3 Flash têm 3x e por ai vai. Só alguns modelos ficam em 2x."
-          },
-          {
-            "url": "https://x.com/ngnchiikawa/status/2104921038530449658",
-            "search_title": "ちいかわ アニメ火金 on X: \" \" / X",
-            "search_snippet": "🍜 最近ちいかわ更新される度にこんな顔"
-          },
-          {
-            "url": "https://x.com/punchw45k/status/2104086571125551528",
-            "search_title": "Punch AI on X: \"A new type of AI model just showed up and it can't ...",
-            "search_snippet": "A new type of AI model just showed up and it can't write a single word 😳 Laya doesn't chat. Give it text plus a typed question, get a decision with a confidence ..."
           }
         ],
         "Kimi AI": [],
@@ -71,53 +71,7 @@
         "Claude Code": [],
         "Anthropic": [],
         "Dario Amodei": [],
-        "Cursor": [
-          {
-            "url": "https://x.com/joshpuckett/status/2103903298000654487",
-            "search_title": "joshpuckett on X: \"The life of a cursor... Inspired by Cole, and ...",
-            "search_snippet": "5 days ago · The life of a cursor... Inspired by Cole, and recent work for https://t.co/LkXF81CyHH."
-          },
-          {
-            "url": "https://x.com/sudoingX/status/2104899256826126557",
-            "search_title": "Sudo su on X: \"every time opus 5.5 max in cursor reviews work ...",
-            "search_snippet": "3 days ago · cursor is for engineering. Cursor is an amazing harness, I love. Opus usage in cursor is nowhere near as good as claude code. You bang for your buck."
-          },
-          {
-            "url": "https://x.com/cursor_ai/status/2104666044220821594",
-            "search_title": "\"Sonnet 5.5 is now available in Cursor! It's a strong model ... - X",
-            "search_snippet": "3 days ago · Sonnet 5.5 is now available in Cursor! It's a strong model, performing on par with Opus in many tasks."
-          },
-          {
-            "url": "https://x.com/cursor_ai/status/2105012114200887434",
-            "search_title": "Cursor can now build charts and diagrams right in the chat ... - X",
-            "search_snippet": "2 days ago · Cursor can now build charts and diagrams right in the chat. Use /visualize to analyze data and see the answer inline. Available now in the Agents Window."
-          },
-          {
-            "url": "https://x.com/AiEvolutio58513/status/2105251405925879955",
-            "search_title": "Cursor CEO Michael Truell shares his vision for coding ahead - X",
-            "search_snippet": "2 days ago · Cursor CEO Michael Truell shares his vision for coding ahead: \"Our goal with Cursor is to invent a new type of programming.\" \"It looks like a world where ..."
-          },
-          {
-            "url": "https://x.com/SSShken/status/2105696802666061863",
-            "search_title": "Cursor vs Codex vs Claude Code. What breaks when you hand ...",
-            "search_snippet": "10 hours ago · Cursor. It handles a real feature in a codebase it has never seen, and it goes looking for the existing wiring instead of writing new code beside it."
-          },
-          {
-            "url": "https://x.com/NielsRogge/status/2103724140721213644",
-            "search_title": "Niels Rogge on X: \"Theo invests in Cursor so not sure whether ...",
-            "search_snippet": "6 days ago · Theo invests in Cursor so not sure whether to take this seriously I tweeted about the issues I'm having with Cursor here: https://t.co/ReXMKYhR6v Note that ..."
-          },
-          {
-            "url": "https://x.com/pcshipp/status/2105339019756536185",
-            "search_title": "\"People on X keep saying to use Cursor instead of Claude ...",
-            "search_snippet": "1 day ago · People on X keep saying to use Cursor instead of Claude Code and Codex together. If I use Cursor, it would cost me $60, which is more expensive than both ..."
-          },
-          {
-            "url": "https://x.com/Im_IrushiK/status/2104621048000028715",
-            "search_title": "Irushi on X: \"Cursor + Jev is INSANE just built this whole app for ...",
-            "search_snippet": "3 days ago · Cursor + Jev is INSANE just built this whole app for $5 in Cursor. and no, Jev didn't write the code. it picked the RIGHT model for every step while Cursor ..."
-          }
-        ],
+        "Cursor": [],
         "Michael Truell": [],
         "OpenAI": [],
         "ChatGPT": [],
@@ -178,8 +132,8 @@
       }
     }
   },
-  "totalResults": 19,
-  "failedKeywords": 50,
+  "totalResults": 10,
+  "failedKeywords": 51,
   "failedKeywordsList": [
     "Kimi AI",
     "Kimi Claw",
@@ -189,6 +143,7 @@
     "Claude Code",
     "Anthropic",
     "Dario Amodei",
+    "Cursor",
     "Michael Truell",
     "OpenAI",
     "ChatGPT",
