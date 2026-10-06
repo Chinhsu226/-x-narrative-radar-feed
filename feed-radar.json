@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T01:47:26.303213+00:00",
+  "generatedAt": "2026-10-06T02:51:44.640137+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -8,14 +8,19 @@
       "keywords": {
         "Kimi K2.5": [
           {
-            "url": "https://x.com/casper_hansen_/status/2106113499130654870",
+            "url": "https://x.com/casper_hansen_/status/2106118126882742614",
             "search_title": "Casper Hansen on X: \"Kimi K2.5-2.7 can be trained with RL on just 16 ...",
-            "search_snippet": "Kimi K2.5-2.7 can be trained with RL on just 16 B300 GPUs (yes, just 2 nodes!) with full context Most post-training frameworks out there will tell you that you need 16 full nodes, and might not evne give you full context Thanks to SkyRL maintainers for collab"
+            "search_snippet": "Kimi K2.5-2.7 can be trained with RL on just 16 B300 GPUs (yes, just 2 nodes!) with full context Most post-training frameworks out there will tell you that you need 16 full nodes, and might not even give you full context Thanks to SkyRL maintainers for collab"
           },
           {
-            "url": "https://x.com/hqinjarsy/status/2105526874025963926",
-            "search_title": "Han Qin on X: \"安全公司Mindgard称，Moonshot的Kimi K2.6和K3 Swarm被绕过护栏后，会生成生物武器和 ...",
-            "search_snippet": "安全公司Mindgard称，Moonshot的Kimi K2.6和K3 Swarm被绕过护栏后，会生成生物武器和暗杀相关内容。Moonshot表示正审查，称内部测试拒答率很高。 高拒答率只能说明大多数门关上了，真正危险的是那几扇还能推开的门。模型权重已经开放，外部研究者测到的例外，不能只算成一个小概率。"
+            "url": "https://x.com/kwanhee_l/status/2106940149791961547",
+            "search_title": "Kwanhee Lee on X: \"Smaller ≠ faster. A 2-bit Kimi-K2.5 (GSQ) and an ...",
+            "search_snippet": "A 2-bit Kimi-K2.5 (GSQ) and an expert-pruned one (REAP) both use fewer bits than ours, but MoESQ serves 2.4× faster: 8,983 vs 3,811 tok/s. The format the GPU runs natively matters more than bit count. (8/10)"
+          },
+          {
+            "url": "https://x.com/SSalpha/status/2106500747139711019",
+            "search_title": "ウィリアムてる on X: \"How We Scaled Kimi K2.5 | Zhilin Yang's full GTC 2026 ...",
+            "search_snippet": "中国のAI企業Moonshot AI（Kimi）の創業者による、約40分の技術講演です。投稿では「時価総額200億ドル規模の中国AI企業の創業者による、Agent Swarmの仕組みを説明するマスタークラス」と紹介されています。 スライドの流れは次の通りです。 • Show more 1 31 ウィリアムてる @SSalpha Oct 3"
           },
           {
             "url": "https://x.com/toncoin_cn/status/2106580854000504982",
@@ -23,14 +28,9 @@
             "search_snippet": "Co Authored By 似乎非常vary，有Opus 4.8, Fabel 5 以及 Kimi Code 我使用的是Kimi K2.8 Preview"
           },
           {
-            "url": "https://x.com/alcreon/status/2105943818893717906",
-            "search_title": "Alcreon on X: \"When an export directive took Claude Fable 5 offline for ...",
-            "search_snippet": "When an export directive took Claude Fable 5 offline for 19 days in June, Anthropic ran the reported jailbreak against other models. Claude Opus 4.8, GPT-5.5 and Kimi K2.7 found the same vulnerabilities Fable 5 did."
-          },
-          {
-            "url": "https://x.com/Harun11xx/status/2104873145127637258",
-            "search_title": "Harun on X: \"Pontosan. A screenshot magáért beszél — hat szolgáltató ...",
-            "search_snippet": "Tool use: Kimi-k2.7-code szintén holtversenyben az élen. Combined: a GPT-5.6-luna egy ponttal előzi a Kimi-t és az Opust. A táblázat azt mondja: a frontvonal nem két cég, hanem hat, és a különbségek 1-3 pont sávban szóródnak. Aki ebből a mezőnyből kettőt lát, az nem vásárol, hanem szurkol."
+            "url": "https://x.com/hqinjarsy/status/2105526874025963926",
+            "search_title": "Han Qin on X: \"安全公司Mindgard称，Moonshot的Kimi K2.6和K3 Swarm被绕过护栏后，会生成生物武器和 ...",
+            "search_snippet": "安全公司Mindgard称，Moonshot的Kimi K2.6和K3 Swarm被绕过护栏后，会生成生物武器和暗杀相关内容。Moonshot表示正审查，称内部测试拒答率很高。 高拒答率只能说明大多数门关上了，真正危险的是那几扇还能推开的门。模型权重已经开放，外部研究者测到的例外，不能只算成一个小概率。"
           },
           {
             "url": "https://x.com/demian_ai/status/2105661532352987295",
@@ -38,14 +38,14 @@
             "search_snippet": "some numbers from Inferize: deepseek v4 pro: 20s vs 23 min cold (70×) kimi k2.6: 28s vs 26 min (57×) glm-5.2: 24s vs 24 min (60×) nemotron-3-ultra-550b: 25s vs 22 min (52×) that's the unlock in one line: scale / recover in seconds instead of waiting through a cold start"
           },
           {
-            "url": "https://x.com/Funmentalist/status/2105727593932583042",
-            "search_title": "The Fundamentalist on X: \"$NBIS I did some very quick calculation and ...",
-            "search_snippet": "5h some numbers from Inferize: deepseek v4 pro: 20s vs 23 min cold (70×) kimi k2.6: 28s vs 26 min (57×) glm-5.2: 24s vs 24 min (60×) nemotron-3-ultra-550b: 25s vs 22 min (52×) that's the unlock in one line: scale / recover in seconds instead of waiting through a cold start 6:32 PM · Oct 1, 2026 · 1,686 Views 2 16 1 Nate Endicott ..."
-          },
-          {
             "url": "https://x.com/cc_lab_jp/status/2105857788672983082",
             "search_title": "Claude Code Lab @CWorksL on X: \"【モデル入替】GitHub CopilotがClaude Opus 4.7を ...",
             "search_snippet": "【モデル入替】GitHub CopilotがClaude Opus 4.7を10/2付で一覧から除外、後継はOpus 5に。同日にGemini 3.5/3.6 FlashとKimi K2.7 Codeも入れ替え対象に。選ぶモデルより『いつ消えるか』を追う運用、もう他人事じゃない開発者も増えてきたのでは。 🤖自動投稿"
+          },
+          {
+            "url": "https://x.com/Funmentalist/status/2105727593932583042",
+            "search_title": "The Fundamentalist on X: \"$NBIS I did some very quick calculation and ...",
+            "search_snippet": "5h some numbers from Inferize: deepseek v4 pro: 20s vs 23 min cold (70×) kimi k2.6: 28s vs 26 min (57×) glm-5.2: 24s vs 24 min (60×) nemotron-3-ultra-550b: 25s vs 22 min (52×) that's the unlock in one line: scale / recover in seconds instead of waiting through a cold start 6:32 PM · Oct 1, 2026 · 1,686 Views 2 16 1 Nate Endicott ..."
           }
         ],
         "Kimi AI": [],
