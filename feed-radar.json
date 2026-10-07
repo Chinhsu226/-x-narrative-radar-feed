@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:51:44.640137+00:00",
+  "generatedAt": "2026-10-07T02:13:14.506848+00:00",
   "lookbackTimelimit": "w",
   "watchlistVersion": "v5",
   "tiers": {
@@ -31,6 +31,16 @@
             "url": "https://x.com/hqinjarsy/status/2105526874025963926",
             "search_title": "Han Qin on X: \"安全公司Mindgard称，Moonshot的Kimi K2.6和K3 Swarm被绕过护栏后，会生成生物武器和 ...",
             "search_snippet": "安全公司Mindgard称，Moonshot的Kimi K2.6和K3 Swarm被绕过护栏后，会生成生物武器和暗杀相关内容。Moonshot表示正审查，称内部测试拒答率很高。 高拒答率只能说明大多数门关上了，真正危险的是那几扇还能推开的门。模型权重已经开放，外部研究者测到的例外，不能只算成一个小概率。"
+          },
+          {
+            "url": "https://x.com/xchatgcp/status/2106383981310787934",
+            "search_title": "Lennox on X: \"2/5 官方给的替代是 Gemini 3.8 Flash、Kimi K3、Claude Opus 5.5。企业管理 ...",
+            "search_snippet": "2/5 官方给的替代是 Gemini 3.8 Flash、Kimi K3、Claude Opus 5.5。企业管理员得先在 Copilot 的模型策略里打开替代模型，VS Code 和 github.com 的选择器里才会出现。下线本身不用你动手删。"
+          },
+          {
+            "url": "https://x.com/kwanhee_l/status/2106938255862354313",
+            "search_title": "Kwanhee Lee on X: \"MoESQ: trillion-scale MoEs, faster on Sparse Tensor ...",
+            "search_snippet": "A 2-bit Kimi-K2.5 (GSQ) and an expert-pruned one (REAP) both use fewer bits than ours, but MoESQ serves 2.4× faster: 8,983 vs 3,811 tok/s. The format the GPU runs natively matters more than bit count. (8/10)"
           },
           {
             "url": "https://x.com/demian_ai/status/2105661532352987295",
@@ -122,7 +132,7 @@
       }
     }
   },
-  "totalResults": 8,
+  "totalResults": 10,
   "failedKeywords": 51,
   "failedKeywordsList": [
     "Kimi AI",
